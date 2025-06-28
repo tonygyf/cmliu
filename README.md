@@ -196,9 +196,9 @@ cmliu/
 
 ## 📞 联系我们
 
-- **项目地址**: [GitHub Repository](https://github.com/your-username/cmliu)
-- **问题反馈**: [Issues](https://github.com/your-username/cmliu/issues)
-- **讨论交流**: [Discussions](https://github.com/your-username/cmliu/discussions)
+- **项目地址**: [GitHub Repository](https://github.com/tonygyf/cmliu)
+- **问题反馈**: [Issues](https://github.com/tonygyf/cmliu/issues)
+- **讨论交流**: [Discussions](https://github.com/tonygyf/cmliu/discussions)
 
 ## 🙏 致谢
 
@@ -210,7 +210,7 @@ cmliu/
 
 **如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/cmliu?style=social)](https://github.com/your-username/cmliu)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/cmliu?style=social)](https://github.com/your-username/cmliu)
+[![GitHub stars](https://img.shields.io/github/stars/tonygyf/cmliu?style=social)](https://github.com/tonygyf/cmliu)
+[![GitHub forks](https://img.shields.io/github/forks/tonygyf/cmliu?style=social)](https://github.com/tonygyf/cmliu)
 
 </div> 
