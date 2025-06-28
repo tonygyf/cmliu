@@ -1,21 +1,23 @@
-# 🌐 代理节点订阅管理工具
+# 🌐 代理节点自用订阅
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)]()
 
-> 一个功能强大的代理节点订阅管理工具，支持多种协议格式转换和节点管理
+> 我自己跑出来，筛选过的节点，自用。
+> **如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！**
 
-## 🔗 订阅链接
+## 🚀 快速开始
+##  订阅链接
 
-### 📥 在线订阅地址
+### 🔗 在线订阅地址（复制此加速链接导入到对应客户端）
 
 | 订阅类型 | 在线链接 | 适用客户端 | 说明 |
 |----------|----------|------------|------|
 | **通用订阅** | [base64.txt](https://gh-proxy.com/raw.githubusercontent.com/tonygyf/cmliu/master/output/base64.txt) | 所有支持订阅的客户端 | Base64编码的通用订阅链接，支持V2Ray、Clash、Surge等 |
 | **Clash订阅** | [mihomo.yaml](https://gh-proxy.com/raw.githubusercontent.com/tonygyf/cmliu/master/output/mihomo.yaml) | Clash/Mihomo | 专为Clash系列客户端优化的配置文件 |
 
-### 📁 本地文件
+### 📁 本地文件（未加速链接，下载导入也可）
 
 | 订阅类型 | 文件路径 | 适用客户端 | 说明 |
 |----------|----------|------------|------|
@@ -24,7 +26,6 @@
 
 ## 📋 目录
 
-- [项目介绍](#项目介绍)
 - [功能特性](#功能特性)
 - [快速开始](#快速开始)
 - [节点信息](#节点信息)
@@ -35,14 +36,6 @@
 - [贡献指南](#贡献指南)
 - [许可证](#许可证)
 
-## 🎯 项目介绍
-
-本项目是一个专业的代理节点订阅管理工具，主要用于：
-
-- 🔄 **格式转换**: 支持多种代理协议格式之间的转换
-- 📊 **节点管理**: 提供节点信息查看、测试和管理功能
-- 🛠️ **配置生成**: 自动生成各种客户端配置文件
-- 📈 **性能监控**: 实时监控节点连接状态和速度
 
 ## ✨ 功能特性
 
@@ -53,33 +46,8 @@
 - 📊 **实时监控**: 实时显示节点状态和连接信息
 - 🔒 **安全可靠**: 支持加密传输和证书验证
 
-## 🚀 快速开始
 
-### 系统要求
 
-- Windows 10/11 (64位)
-- .NET Framework 4.7.2 或更高版本
-- 至少 100MB 可用磁盘空间
-
-### 安装步骤
-
-1. **下载程序**
-   ```bash
-   # 下载最新版本
-   git clone https://github.com/tonygyf/cmliu.git
-   cd cmliu
-   ```
-
-2. **运行程序**
-   ```bash
-   # 直接运行可执行文件
-   ./subs-check.win.gui.exe
-   ```
-
-3. **配置节点**
-   - 打开程序后，选择 `output` 文件夹中的配置文件
-   - 选择 `mihomo.yaml` 或 `base64.txt` 作为节点源
-   - 点击开始转换或测试
 
 ## 📡 节点信息
 
