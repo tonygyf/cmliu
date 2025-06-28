@@ -67,6 +67,13 @@
 
 ## 📡 节点信息
 
+### 📥 订阅链接
+
+| 订阅类型 | 文件链接 | 适用客户端 | 说明 |
+|----------|----------|------------|------|
+| **通用订阅** | [base64.txt](./output/base64.txt) | 所有支持订阅的客户端 | Base64编码的通用订阅链接，支持V2Ray、Clash、Surge等 |
+| **Clash订阅** | [mihomo.yaml](./output/mihomo.yaml) | Clash/Mihomo | 专为Clash系列客户端优化的配置文件 |
+
 ### 当前可用节点
 
 | 地区 | 数量 | 协议类型 | 平均速度 |
@@ -90,6 +97,24 @@ pie title 节点协议分布
     "Shadowsocks" : 3
     "VMess" : 2
 ```
+
+### 🔗 订阅使用说明
+
+#### 通用订阅 (base64.txt)
+- **适用场景**: 所有支持订阅的代理客户端
+- **使用方法**: 
+  - V2Ray: 直接导入订阅链接
+  - Clash: 在配置文件中添加订阅地址
+  - Surge: 在配置中添加订阅
+- **特点**: 兼容性最好，支持多种客户端
+
+#### Clash订阅 (mihomo.yaml)
+- **适用场景**: Clash、Mihomo、Clash for Windows等
+- **使用方法**: 
+  - 直接下载配置文件
+  - 在Clash客户端中导入
+  - 或作为订阅链接使用
+- **特点**: 包含完整的分流规则和代理组配置
 
 ## ⚙️ 配置说明
 
@@ -149,6 +174,7 @@ proxies:
 ```
 cmliu/
 ├── README.md                 # 项目说明文档
+├── LICENSE                   # 许可证文件
 ├── subs-check.win.gui.exe    # 主程序文件
 ├── subs-check.exe           # 命令行版本
 ├── config/                  # 配置文件目录
