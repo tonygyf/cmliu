@@ -1,0 +1,8 @@
+# 自动处理文本文件的行结束符
+* text=auto
+
+# 强制YAML文件使用LF格式
+*.yaml text eol=lf
+
+# 强制txt文件使用LF格式
+*.txt text eol=lf
