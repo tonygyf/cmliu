@@ -1,0 +1,43 @@
+concurrent: 32
+check-interval: 120
+timeout: 5000
+min-speed: 1024
+download-timeout: 10
+speed-test-url: https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v2.21.12/Waifu2x-Extension-GUI-v2.21.12-Portable.7z
+save-method: local
+github-gist-id: ''
+github-token: ''
+github-api-mirror: ''
+worker-url: https://example.worker.dev
+worker-token: 1234567890
+webdav-username: admin
+webdav-password: admin
+webdav-url: https://example.com/dav/
+enable-web-ui: true
+listen-port: 127.0.0.1:8199
+old-api-key: admin
+api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
+sub-store-port: :8299
+githubproxy: 自动选择
+github-proxy: https://git.o8.cx/
+sub-urls:
+  - http://127.0.0.1:8199/all.yaml
+  - https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
+  - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+  - https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
+  - https://raw.githubusercontent.com/freefq/free/refs/heads/master/v2
+  - https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+  - https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/refs/heads/master/all
+  - https://raw.githubusercontent.com/ripaojiedian/freenode/refs/heads/main/sub
+  - https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
+  - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+  - https://github.com/chengaopan/AutoMergePublicNodes/blob/master/list.meta.yml
+mihomo-overwrite-url: http://127.0.0.1:8199/bdg.yaml
+rename-node: true
+media-check: false
+keep-success-proxies: false
+print-progress: false
+sub-urls-retry: 3
+subscheck-version: v2.2.3
+gui-auto: false
+success-limit: 0

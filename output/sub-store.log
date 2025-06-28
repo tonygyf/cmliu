@@ -1,0 +1,2709 @@
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: Start migrating...
+[sub-store] INFO: Migration complete!
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在创建订阅： sub
+[sub-store] INFO: 正在创建文件：mihomo
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 15.8MB/s Parsashonam-217
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 15.8MB/s Parsashonam-217
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 15.8MB/s Parsashonam-217
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 15.8MB/s Parsashonam-217
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.9MB/s telegram-id-ArV2ray27
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.9MB/s telegram-id-ArV2ray27
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.9MB/s telegram-id-ArV2ray27
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.9MB/s telegram-id-ArV2ray27
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 7.5MB/s Parsashonam-219
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 7.5MB/s Parsashonam-219
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 7.5MB/s Parsashonam-219
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 7.5MB/s Parsashonam-219
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 7.5MB/s Parsashonam-219
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 7.5MB/s Parsashonam-219
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.0MB/s Parsashonam-220
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.0MB/s Parsashonam-220
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.0MB/s Parsashonam-220
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.0MB/s Parsashonam-220
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 14.1MB/s V2RAXX
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 14.1MB/s V2RAXX
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 14.1MB/s V2RAXX
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 14.1MB/s V2RAXX
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 14.1MB/s V2RAXX
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 14.1MB/s V2RAXX
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 13.9MB/s V2RAXX
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 13.9MB/s V2RAXX
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 13.9MB/s V2RAXX
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 13.9MB/s V2RAXX
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国9 | ⬇️ 9.4MB/s TELEGRAM-ServerNett
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国9 | ⬇️ 9.4MB/s TELEGRAM-ServerNett
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国9 | ⬇️ 9.4MB/s TELEGRAM-ServerNett
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国9 | ⬇️ 9.4MB/s TELEGRAM-ServerNett
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 6.1MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 15.8MB/s TELEGRAM-ServerNett
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 6.1MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 15.8MB/s TELEGRAM-ServerNett
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 6.1MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 15.8MB/s TELEGRAM-ServerNett
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 6.1MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 15.8MB/s TELEGRAM-ServerNett
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 15.6MB/s Parsashonam-223
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 11.9MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 15.6MB/s Parsashonam-223
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 11.9MB/s V2RAXX--
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 15.6MB/s Parsashonam-223
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 11.9MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 15.6MB/s Parsashonam-223
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 11.9MB/s V2RAXX--
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.8MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.8MB/s V2RAXX--
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.8MB/s V2RAXX--
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.8MB/s V2RAXX--
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: 使用缓存: http://127.0.0.1:8199/bdg.yaml, clash.meta
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 10.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 7.4MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 10.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 7.4MB/s @proprojec
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 10.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 7.4MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 10.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 7.4MB/s @proprojec
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 11.6MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 9.5MB/s Parsashonam-229
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 11.6MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 9.5MB/s Parsashonam-229
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 11.6MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 9.5MB/s Parsashonam-229
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 11.6MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 9.5MB/s Parsashonam-229
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 9.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 9.3MB/s @proprojec
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 9.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 9.3MB/s @proprojec
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 5.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 1.5MB/s telegram-id-ArV2ray1
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 8.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 5.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 1.5MB/s telegram-id-ArV2ray1
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 8.3MB/s @proprojec
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 5.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 1.5MB/s telegram-id-ArV2ray1
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 8.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 5.3MB/s @proprojec
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 1.5MB/s telegram-id-ArV2ray1
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 8.3MB/s @proprojec
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: 使用缓存: http://127.0.0.1:8199/bdg.yaml, clash.meta
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 10.0MB/s Parsashonam-230
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 10.0MB/s Parsashonam-230
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 10.0MB/s Parsashonam-230
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 10.0MB/s Parsashonam-230
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 10.0MB/s Parsashonam-230
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 10.0MB/s Parsashonam-230
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 10.3MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 11.9MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 10.3MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 11.9MB/s Parsashonam-231
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 10.3MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 11.9MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 10.3MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 11.9MB/s Parsashonam-231
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 10.3MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 11.9MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 10.3MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 11.9MB/s Parsashonam-231
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 8.9MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 16.9MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 5.9MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 7.0MB/s woxq0i9q2c
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.2MB/s kwdv21u4iu
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 8.9MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 16.9MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 5.9MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 7.0MB/s woxq0i9q2c
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.2MB/s kwdv21u4iu
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 8.9MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 16.9MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 5.9MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 7.0MB/s woxq0i9q2c
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.2MB/s kwdv21u4iu
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 8.9MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 16.9MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 5.9MB/s xawfmeqssn
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 7.0MB/s woxq0i9q2c
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s doogrlsuwa
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.2MB/s kwdv21u4iu
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 16.6MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 16.6MB/s Parsashonam-231
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 16.6MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 16.6MB/s Parsashonam-231
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 16.6MB/s Parsashonam-231
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 16.6MB/s Parsashonam-231
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 8.0MB/s Parsashonam-233
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 8.0MB/s Parsashonam-233
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 8.0MB/s Parsashonam-233
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 8.0MB/s Parsashonam-233
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 8.0MB/s Parsashonam-233
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 8.0MB/s Parsashonam-233
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: 使用缓存: http://127.0.0.1:8199/bdg.yaml, clash.meta
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 1.6MB/s Parsashonam-238
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 3.7MB/s telegram-id-ArV2ray6
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 1.6MB/s Parsashonam-238
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 3.7MB/s telegram-id-ArV2ray6
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 1.6MB/s Parsashonam-238
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 3.7MB/s telegram-id-ArV2ray6
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 1.6MB/s Parsashonam-238
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 3.7MB/s telegram-id-ArV2ray6
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 1.6MB/s Parsashonam-238
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 3.7MB/s telegram-id-ArV2ray6
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 1.6MB/s Parsashonam-238
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 3.7MB/s telegram-id-ArV2ray6
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 9.0MB/s V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 9.0MB/s V2rayvpn_official
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 9.0MB/s V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 9.0MB/s V2rayvpn_official
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.17
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国19 | ⬇️ 13.1MB/s Parsashonam-241
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国19 | ⬇️ 13.1MB/s Parsashonam-241
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国19 | ⬇️ 13.1MB/s Parsashonam-241
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国19 | ⬇️ 13.1MB/s Parsashonam-241
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国19 | ⬇️ 13.1MB/s Parsashonam-241
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国19 | ⬇️ 13.1MB/s Parsashonam-241
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 7.1MB/s Parsashonam-241
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.8MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 7.1MB/s Parsashonam-241
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.8MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 7.1MB/s Parsashonam-241
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.8MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 7.1MB/s Parsashonam-241
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国12 | ⬇️ 17.8MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 4.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 4.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 4.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 4.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 14.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国13 | ⬇️ 4.2MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 14.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.4MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 14.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.4MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 14.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.4MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 14.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.4MB/s chanell@V2rayvpn_official
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 15.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 7.5MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 2.0MB/s V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.2MB/s Hopev2ray
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 15.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 7.5MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 2.0MB/s V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.2MB/s Hopev2ray
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 15.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 7.5MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 2.0MB/s V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.2MB/s Hopev2ray
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国7 | ⬇️ 15.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 7.5MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 2.0MB/s V2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.2MB/s Hopev2ray
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国2 | ⬇️ 1.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 1.1MB/s Hopev2ray
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 9.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 7.9MB/s Parsashonam-245
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国2 | ⬇️ 1.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 1.1MB/s Hopev2ray
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 9.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 7.9MB/s Parsashonam-245
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国2 | ⬇️ 1.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 1.1MB/s Hopev2ray
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 9.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 7.9MB/s Parsashonam-245
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国2 | ⬇️ 1.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 1.1MB/s Hopev2ray
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国11 | ⬇️ 9.3MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国14 | ⬇️ 7.9MB/s Parsashonam-245
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.4MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.4MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.4MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.4MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.4MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 1.4MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国17 | ⬇️ 4.1MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 3.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 3.7MB/s chan33ll@v2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 3.2MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 3.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 3.7MB/s chan33ll@v2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 3.2MB/s Parsashonam-246
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 3.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 3.7MB/s chan33ll@v2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 3.2MB/s Parsashonam-246
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 3.2MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 3.7MB/s chan33ll@v2rayvpn_official
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 3.2MB/s Parsashonam-246
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.5MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.5MB/s TELEGRAM-NUFiLTER
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.5MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.5MB/s TELEGRAM-NUFiLTER
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.5MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 7.0MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国5 | ⬇️ 1.5MB/s TELEGRAM-NUFiLTER
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 12.7MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 12.7MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 12.7MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 12.7MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 12.7MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国6 | ⬇️ 12.7MB/s TELEGRAM-NUFiLTER
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.5MB/s turboo-server
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.5MB/s turboo-server
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.5MB/s turboo-server
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.5MB/s turboo-server
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇳🇱荷兰7 | ⬇️ 2.3MB/s f08272e1edf749429548e460cefde4ab
+[sub-store] ERROR: UUID may be invalid: 🇳🇱荷兰7 | ⬇️ 2.3MB/s f08272e1edf749429548e460cefde4ab
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇳🇱荷兰7 | ⬇️ 2.3MB/s f08272e1edf749429548e460cefde4ab
+[sub-store] ERROR: UUID may be invalid: 🇳🇱荷兰7 | ⬇️ 2.3MB/s f08272e1edf749429548e460cefde4ab
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.1MB/s xymkalnrm8
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.1MB/s xymkalnrm8
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.1MB/s xymkalnrm8
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.1MB/s xymkalnrm8
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.1MB/s xymkalnrm8
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.1MB/s xymkalnrm8
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform mihomo does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: Target platform V2Ray does not support sni off. Proxy's fields (sni, tls-fingerprint and skip-cert-verify) will be modified.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰4 | ⬇️ 3.0MB/s Telegram---V2rayNGcloud----
