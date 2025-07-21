@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://gh.mtx72.cc/
+github-proxy: https://gh.oneproxy.top/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
@@ -31,7 +31,6 @@ sub-urls:
   - https://raw.githubusercontent.com/ripaojiedian/freenode/refs/heads/main/sub
   - https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
   - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-  - https://github.com/chengaopan/AutoMergePublicNodes/blob/master/list.meta.yml
   - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 mihomo-overwrite-url: http://127.0.0.1:8199/bdg.yaml
 rename-node: true
