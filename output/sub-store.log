@@ -3240,3 +3240,115 @@ URL: http://127.0.0.1:8199/bdg.yaml
 [sub-store] INFO: Clash Parser is activated
 [sub-store] ERROR: UUID may be invalid: 🇳🇱荷兰3 | ⬇️ 3.0MB/s BYA_JOKERRVPN
 [sub-store] ERROR: UUID may be invalid: 🇳🇱荷兰3 | ⬇️ 3.0MB/s BYA_JOKERRVPN
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: 使用缓存: http://127.0.0.1:8199/bdg.yaml, clash.meta
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国23 | ⬇️ 3.8MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 3.0MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国23 | ⬇️ 3.8MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 3.0MB/s Parsashonam-Bot-13
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国23 | ⬇️ 3.8MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 3.0MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国23 | ⬇️ 3.8MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 3.0MB/s Parsashonam-Bot-13
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国23 | ⬇️ 3.8MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 3.0MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国23 | ⬇️ 3.8MB/s Parsashonam-Bot-13
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 3.0MB/s Parsashonam-Bot-13
