@@ -3620,3 +3620,338 @@ URL: http://127.0.0.1:8199/bdg.yaml
 [sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 1.8MB/s TELEGRAM-CONFiGLiNE
 [sub-store] ERROR: UUID may be invalid: 🇩🇪德国2 | ⬇️ 1.2MB/s TELEGRAM-CONFiGLiNE
 [sub-store] ERROR: UUID may be invalid: 🇩🇪德国3 | ⬇️ 1.8MB/s TELEGRAM-CONFiGLiNE
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 3.0MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 3.5MB/s id5726598003
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 3.0MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 3.5MB/s id5726598003
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 3.0MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 3.5MB/s id5726598003
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 3.0MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 3.5MB/s id5726598003
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 3.0MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 3.5MB/s id5726598003
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 3.0MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国15 | ⬇️ 3.5MB/s id5726598003
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国1 | ⬇️ 1.3MB/s TELEGRAM-CONFiGLiNE
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.0MB/s id5726598003
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国1 | ⬇️ 1.3MB/s TELEGRAM-CONFiGLiNE
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.0MB/s id5726598003
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国1 | ⬇️ 1.3MB/s TELEGRAM-CONFiGLiNE
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.0MB/s id5726598003
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国1 | ⬇️ 1.3MB/s TELEGRAM-CONFiGLiNE
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国4 | ⬇️ 4.0MB/s id5726598003
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 1.6MB/s for-MahsaNG-vpn-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 1.6MB/s for-MahsaNG-vpn-only
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 1.6MB/s for-MahsaNG-vpn-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰2 | ⬇️ 1.6MB/s for-MahsaNG-vpn-only
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.7MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 1.9MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.2MB/s telegram-id-Arfilter
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.7MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 1.9MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.2MB/s telegram-id-Arfilter
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.7MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 1.9MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.2MB/s telegram-id-Arfilter
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.7MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 1.9MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.2MB/s telegram-id-Arfilter
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.7MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 1.9MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.2MB/s telegram-id-Arfilter
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.7MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国8 | ⬇️ 1.9MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国10 | ⬇️ 1.2MB/s telegram-id-Arfilter
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.4MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 2.2MB/s for-MahsaNG-vpn-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.4MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 2.2MB/s for-MahsaNG-vpn-only
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.4MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 2.2MB/s for-MahsaNG-vpn-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 1.4MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰3 | ⬇️ 2.2MB/s for-MahsaNG-vpn-only
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.3MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.3MB/s for-MahsaNG-only
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.3MB/s for-MahsaNG-only
+[sub-store] ERROR: UUID may be invalid: 🇫🇮芬兰1 | ⬇️ 3.3MB/s for-MahsaNG-only
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国33 | ⬇️ 1.1MB/s Parsashonam-Bot-15
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国33 | ⬇️ 1.1MB/s Parsashonam-Bot-15
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国33 | ⬇️ 1.1MB/s Parsashonam-Bot-15
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国33 | ⬇️ 1.1MB/s Parsashonam-Bot-15
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.19.37
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🌀其他3-SE | ⬇️ 1.8MB/s fa-7736035993-1755891114560183
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国22 | ⬇️ 2.8MB/s Parsashonam-Bot-16
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国28 | ⬇️ 3.0MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🌀其他3-SE | ⬇️ 1.8MB/s fa-7736035993-1755891114560183
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国22 | ⬇️ 2.8MB/s Parsashonam-Bot-16
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国28 | ⬇️ 3.0MB/s telegram-channel-freewireguard
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] ERROR: 获取版本号失败: TypeError: Cannot read properties of undefined (reading 'indexOf')
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🌀其他3-SE | ⬇️ 1.8MB/s fa-7736035993-1755891114560183
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国22 | ⬇️ 2.8MB/s Parsashonam-Bot-16
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国28 | ⬇️ 3.0MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🌀其他3-SE | ⬇️ 1.8MB/s fa-7736035993-1755891114560183
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国22 | ⬇️ 2.8MB/s Parsashonam-Bot-16
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国28 | ⬇️ 3.0MB/s telegram-channel-freewireguard
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🌀其他3-SE | ⬇️ 1.8MB/s fa-7736035993-1755891114560183
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国22 | ⬇️ 2.8MB/s Parsashonam-Bot-16
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国28 | ⬇️ 3.0MB/s telegram-channel-freewireguard
+[sub-store] ERROR: UUID may be invalid: 🌀其他3-SE | ⬇️ 1.8MB/s fa-7736035993-1755891114560183
+[sub-store] ERROR: UUID may be invalid: 🇺🇸美国22 | ⬇️ 2.8MB/s Parsashonam-Bot-16
+[sub-store] ERROR: UUID may be invalid: 🇩🇪德国28 | ⬇️ 3.0MB/s telegram-channel-freewireguard
