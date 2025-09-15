@@ -36,6 +36,7 @@ sub-urls:
   - https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v1
   - https://raw.githubusercontent.com/free-nodes/clashfree/main/clash.yml
   - https://raw.githubusercontent.com/free18/v2ray/main/v.txt
+  - https://ghproxy.cfd/https:/raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 mihomo-overwrite-url: http://127.0.0.1:8199/bdg.yaml
 rename-node: true
 media-check: false
