@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://ghproxy.sakuramoe.dev/
+github-proxy: https://gh.mtx72.cc/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
@@ -34,8 +34,8 @@ sub-urls:
   - https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
   - https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2
   - https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v1
-  - https://ghfast.top/https://raw.githubusercontent.com/free-nodes/clashfree/main/clash.yml
-  - https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/main/v.txt
+  - https://raw.githubusercontent.com/free-nodes/clashfree/main/clash.yml
+  - https://raw.githubusercontent.com/free18/v2ray/main/v.txt
 mihomo-overwrite-url: http://127.0.0.1:8199/bdg.yaml
 rename-node: true
 media-check: false
