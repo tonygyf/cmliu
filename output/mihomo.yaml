@@ -1,42 +1,1180 @@
 proxies:
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1FA\U0001F1F8US_1|3.2MB/s|GPT⁺|YT-US|NF|GM|47%"
-    obfs: ''
-    obfs-password: ''
-    password: 20050105zhu
-    port: 51541
-    server: 204.44.110.129
-    skip-cert-verify: true
-    sni: www.bing.com
-    type: hysteria2
-    up: ''
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_1|3.1MB/s|GPT⁺|YT-RU|NF|0%"
-    network: grpc
-    port: 59995
-    server: 141.227.162.18
-    type: vless
-    udp: true
-    uuid: 7467739e-fe86-43a4-93ae-1669886e80d5
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_2|1.6MB/s|GPT⁺|YT-RU|NF|0%"
-    network: grpc
-    port: 35728
-    server: 141.227.166.78
-    type: vless
-    udp: true
-    uuid: 7bd98eb6-5408-492c-a9f2-54776a68aeb6
-    xudp: true
   - client-fingerprint: chrome
-    name: "\U0001F1FA\U0001F1F8US_2|4.7MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_1|1.3MB/s|GPT|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 198.71.232.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_2|27.1MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 190.93.245.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_3|1.3MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 166.62.105.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG GT-I9195
+          Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5
+          Chrome/28.0.1500.94 Mobile Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_4|1.0MB/s|GPT|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 188.42.88.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.99 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_5|4.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 167.68.4.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/62.0.3202.89 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_6|8.4MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 166.62.108.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile
+          Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_7|4.2MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 45.40.151.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; Moto C Build/NRD90M.059)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_8|5.7MB/s|GPT⁺|YT-US|NF|D+"
+    network: ws
+    port: 2096
+    server: 66.235.200.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_9|10.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 193.124.18.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/58.0.3029.110 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_10|6.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.156.19.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_11|4.2MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 77.75.199.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.162 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_12|8.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 14.102.229.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/65.0.3325.181 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_13|7.1MB/s|GPT|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.18.184.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/41.0.2272.101 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_14|6.2MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 188.42.88.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.112 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_15|11.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.18.250.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_16|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.162.231.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko)
+          Chrome/11.0.696.3 Safari/534.24
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_17|3.6MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.18.184.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.101 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_18|8.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.85.118.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_19|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 167.68.42.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_20|3.7MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.162.228.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; SM-J120M Build/LMY47X)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_21|8.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 5.10.214.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_22|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.170.166.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_23|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.8.211.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.77 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_24|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 198.177.56.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.110 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_25|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.251.81.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/40.0.2214.115 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_26|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.238.228.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/45.0.2454.101 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_27|19.4MB/s|GPT|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 166.62.110.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile
+          Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_28|5.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.176.26.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_29|19.1MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 45.40.149.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
+          like Gecko) Chrome/5.0.342.1 Safari/533.2
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_30|1.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 92.53.189.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.117 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_31|6.4MB/s|GPT|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 154.219.5.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.1; vivo 1716 Build/N2G47H)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_32|8.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 8.34.70.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_33|17.0MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 160.153.138.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L22 Build/HUAWEICUN-L22;
+          wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/62.0.3202.84 Mobile Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_34|6.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 5.10.215.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.118 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_35|26.8MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 166.62.114.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_36|45.2MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 198.12.145.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_37|6.4MB/s|GPT|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.133.35.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/64.0.3282.186 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_38|45.2MB/s|GPT|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 166.62.106.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3
+          (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_39|6.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.59.218.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.87 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_40|5.2MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 135.84.76.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_41|2.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 130.250.137.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_42|8.0MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 50.62.89.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.103 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_43|8.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.251.81.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_44|22.3MB/s|GPT|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 192.169.221.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.181 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_45|8.5MB/s|GPT⁺|YT-US|NF|D+"
+    network: ws
+    port: 2096
+    server: 192.0.54.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/50.0.2661.102 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_46|11.3MB/s|GPT⁺|YT-US|NF|D+"
+    network: ws
+    port: 2096
+    server: 212.183.88.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_47|22.6MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    network: ws
+    port: 2096
+    server: 166.62.104.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.181 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_48|7.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 27.50.48.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10
+          (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_49|44.7MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 194.76.18.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_50|4.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 195.85.23.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_51|8.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 159.112.235.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.106 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_52|10.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 192.65.217.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/39.0.2171.95 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_53|5.7MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 37.0.6.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_54|8.9MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 176.124.223.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.110 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_55|8.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 188.164.248.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/63.0.3239.84 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_56|15.1MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 167.68.11.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/41.0.2272.104 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_57|6.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 195.26.229.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.139 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_58|1.8MB/s|GPT⁺|YT-US|NF|D+|0%"
     network: ws
     port: 443
     server: 162.159.43.92
@@ -48,341 +1186,993 @@ proxies:
       headers:
         Host: juzi.634676.xyz
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/66.0.3359.181 Safari/537.36
+          Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7
+          (KHTML, like Gecko) Chrome/7.0.517.44 Safari/534.7
       path: /
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2560
     xudp: true
     servername: juzi.634676.xyz
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1E8\U0001F1E6CA_1|2.4MB/s|GPT⁺|YT-CA|NF|GM|4%"
-    obfs: ''
-    obfs-password: ''
-    password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-    port: 54530
-    server: 40.233.81.116
-    skip-cert-verify: true
-    sni: www.bing.com
-    type: hysteria2
-    up: ''
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_3|2.3MB/s|GPT⁺|YT-US|NF|0%"
-    network: grpc
-    port: 36090
-    server: 141.227.176.171
-    type: vless
-    udp: true
-    uuid: 8347825d-e85b-4735-b27d-7c60ca32bd0c
-    xudp: true
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1FA\U0001F1F8US_3|1.5MB/s|GPT⁺|YT-US|NF|GM|47%"
-    obfs: ''
-    obfs-password: ''
-    password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-    port: 2056
-    server: mg1.mangshe.xyz
-    skip-cert-verify: true
-    sni: mg1.mangshe.xyz
-    type: hysteria2
-    up: ''
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1F3\U0001F1F1NL_1|1.1MB/s|GPT⁺|NF|8%"
-    obfs: salamander
-    obfs-password: GdQ4bgvT8RFwuWi2
-    password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
-    port: 30205
-    server: 185.92.220.240
-    skip-cert-verify: true
-    sni: net2025.afsharidempire.uk
-    type: hysteria2
-    up: ''
   - client-fingerprint: chrome
     encryption: none
-    name: "\U0001F1F5\U0001F1F1PL_1|1.3MB/s|GPT⁺|NF|0%"
-    network: tcp
-    port: 8080
-    reality-opts:
-      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-      short-id: 27cfa05000c23cc4
-    server: 45.144.51.23
+    name: "\U0001F1FA\U0001F1F8US_59|9.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 198.177.56.50
     tls: true
     type: vless
     udp: true
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    xudp: true
-    servername: yandex.com
-  - encryption: none
-    name: "\U0001F1E9\U0001F1EADE_1|1.1MB/s|GPT⁺|YT-DE|NF|11%"
-    network: ws
-    port: 443
-    server: 168.119.191.236
-    type: vless
-    udp: true
-    uuid: 93a7b643-ed31-4343-95e2-8cfb01d215f9
+    uuid: 12345678-1234-1234-1234-123456789123
     ws-opts:
       headers:
-        Host: 168.119.191.236
+        Host: saas.sosocn.abrdns.com
         User-Agent: >-
-          Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
-          Safari/537.36
-      path: /linkws?ed
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/41.0.2272.101 Safari/537.36
+      path: /snippets
     xudp: true
+    servername: saas.sosocn.abrdns.com
   - client-fingerprint: chrome
     encryption: none
-    flow: xtls-rprx-vision
-    name: "\U0001F1E9\U0001F1EADE_2|2.1MB/s|GPT⁺|YT-DE|NF|D+|0%"
-    network: tcp
-    port: 433
-    reality-opts:
-      public-key: ttai5o9sL51jx8MWuQA2glnVnVRe0pzZmDbHnTzlynA
-      short-id: 1A2B3C4D5E6F7890
-    server: sunstar.astracat.ru
+    name: "\U0001F1FA\U0001F1F8US_60|5.9MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.251.80.52
     tls: true
     type: vless
     udp: true
-    uuid: ea8a4fac-8b8a-4fa5-a7b4-63575499fffb
-    xudp: true
-    servername: cdnjs.com
-  - encryption: none
-    name: "\U0001F1EB\U0001F1EEFI_1|3.2MB/s|GPT⁺|YT-US|NF|8%"
-    network: ws
-    port: 8080
-    server: 104.17.147.22
-    type: vless
-    udp: true
-    uuid: Parsashonam-Bot-27
+    uuid: 12345678-1234-1234-1234-123456789123
     ws-opts:
       headers:
-        Host: Fi.Parsashonam.CfD.
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_61|6.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 147.185.161.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_62|5.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.135.9.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Build/NPPS25.137-93-14)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_63|5.7MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.192.223.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
         User-Agent: >-
           Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/31.0.1650.57 Safari/537.36
-      path: >-
-        /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
+          Gecko) Chrome/53.0.2785.143 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
       early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2056
+      max-early-data: 2560
     xudp: true
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1EF\U0001F1F5JP_1|3.2MB/s|GPT⁺|YT-JP|GM"
-    obfs: ''
-    obfs-password: ''
-    password: abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d
-    port: 3000
-    server: 00fd98-20-2.9966661.xyz
-    skip-cert-verify: false
-    sni: 00fd98-20.9966661.xyz
-    type: hysteria2
-    up: ''
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1E8\U0001F1EDCH_1|3.6MB/s|GPT⁺|YT-US|NF|39%"
-    obfs: ''
-    obfs-password: ''
-    password: abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d
-    port: 3000
-    server: f0ba91-20.9966661.xyz
-    skip-cert-verify: false
-    sni: f0ba91-20.9966661.xyz
-    type: hysteria2
-    up: ''
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1EE\U0001F1E9ID_1|3.9MB/s|GPT⁺|YT-ID|0%"
-    obfs: ''
-    obfs-password: ''
-    password: abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d
-    port: 3000
-    server: 358d29-330-4.9966661.xyz
-    skip-cert-verify: false
-    sni: 358d29-330.9966661.xyz
-    type: hysteria2
-    up: ''
+    servername: saas.git.cloudns.org
   - client-fingerprint: chrome
-    name: "\U0001F1FA\U0001F1F8US_4|1.1MB/s|GPT⁺|YT-US|NF|25%"
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_64|9.0MB/s|GPT⁺|YT-US|NF|D+|0%"
     network: ws
-    password: 93d6ba39-0f7d-4961-a414-2e393ec56499
-    port: 8443
-    server: 104.18.20.69
-    skip-cert-verify: false
-    sni: cdn-node-oss-92.paofu.de
-    type: trojan
+    port: 2096
+    server: 185.156.19.52
+    tls: true
+    type: vless
     udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
     ws-opts:
       headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko)
+          Chrome/v1.0.0 Safari/538.1
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_65|5.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 154.198.173.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/36.0.1985.143 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_66|6.2MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 103.245.228.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.67 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_67|8.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 69.84.182.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_68|6.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.131.7.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_69|8.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 195.13.45.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.110 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_70|6.2MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.194.11.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/53.0.2785.143 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_71|10.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.251.82.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/43.0.2357.65 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_72|6.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.194.53.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/58.0.3029.110 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_73|5.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 193.227.99.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-J730GM Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+          Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_74|8.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 77.105.163.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_75|7.1MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.18.250.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.77 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_76|17.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 77.37.33.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.67 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_77|5.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.162.229.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_78|5.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 170.114.45.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_79|8.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.159.218.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.110 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_80|5.0MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 160.79.104.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7
+          (KHTML, like Gecko) Chrome/7.0.517.44 Safari/534.7
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_81|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 193.233.132.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/48.0.2564.116 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_82|1.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 181.214.1.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.139 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_83|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.148.104.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.162 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_84|7.9MB/s|GPT⁺|YT-US|NF|D+"
+    network: ws
+    port: 2096
+    server: 5.10.244.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.76 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_85|26.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 45.67.215.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/69.0.3497.100 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_86|6.2MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 94.247.142.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.106 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_87|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.133.35.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_88|7.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.16.110.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; A37f Build/LMY47V) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_89|8.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 46.202.30.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_90|5.4MB/s|GPT⁺|YT-US|NF|D+"
+    network: ws
+    port: 2096
+    server: 198.177.57.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_91|6.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.148.104.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/45.0.2454.85 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_92|8.3MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 194.59.5.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_93|5.6MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 185.193.30.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_94|5.4MB/s|GPT⁺|YT-US|NF|D+"
+    network: ws
+    port: 2096
+    server: 45.80.111.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; A37f Build/LMY47V) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_95|7.5MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 213.241.198.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/64.0.3282.186 Safari/537.36
+      path: /snippets
+    xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_96|6.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 188.164.158.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
         User-Agent: >-
           Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M)
           AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
           Safari/537.36
-      path: /profile/telegram@ssrsub
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_4|4.4MB/s|GPT⁺|YT-US|NF|0%"
-    network: grpc
-    port: 43239
-    server: 141.227.180.86
-    type: vless
-    udp: true
-    uuid: 0001e585-a648-4db2-8c9e-af346110c642
+      path: /snippets
     xudp: true
+    servername: saas.sosocn.abrdns.com
   - client-fingerprint: chrome
     encryption: none
-    name: "\U0001F1F3\U0001F1F1NL_2|2.8MB/s|GPT⁺|YT-RU|NF|26%"
-    network: tcp
-    port: 8080
-    reality-opts:
-      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-      short-id: 27cfa05000c23cc4
-    server: 194.87.31.155
-    tls: true
-    type: vless
-    udp: true
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    xudp: true
-    servername: yandex.com
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F1E6\U0001F1EAAE_1|3.6MB/s|GPT⁺|YT-RU|NF|26%"
-    network: tcp
-    port: 8080
-    reality-opts:
-      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-      short-id: 27cfa05000c23cc4
-    server: 5.44.42.60
-    tls: true
-    type: vless
-    udp: true
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    xudp: true
-    servername: yandex.com
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F1ED\U0001F1F7HR_1|2.4MB/s|GPT⁺|NF|26%"
-    network: tcp
-    port: 8080
-    reality-opts:
-      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-      short-id: 27cfa05000c23cc4
-    server: 5.181.2.51
-    tls: true
-    type: vless
-    udp: true
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    xudp: true
-    servername: yandex.com
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F1F5\U0001F1F9PT_1|2.2MB/s|GPT⁺|NF|D+|42%"
-    network: tcp
-    port: 8080
-    reality-opts:
-      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-      short-id: 27cfa05000c23cc4
-    server: 31.129.22.117
-    tls: true
-    type: vless
-    udp: true
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    xudp: true
-    servername: yandex.com
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F1E7\U0001F1F7BR_1|1.2MB/s|GPT⁺|YT-RU|D+|26%"
-    network: tcp
-    port: 8080
-    reality-opts:
-      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-      short-id: 27cfa05000c23cc4
-    server: 147.45.116.72
-    tls: true
-    type: vless
-    udp: true
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    xudp: true
-    servername: yandex.com
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_5|1.3MB/s|GPT|YT-US|NF|52%"
-    network: grpc
-    port: 18409
-    server: 141.227.174.221
-    type: vless
-    udp: true
-    uuid: 5342a980-50a4-4daa-9c45-e83f2ebab024
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_6|4.1MB/s|GPT⁺|YT-RU|NF|0%"
-    network: grpc
-    port: 39113
-    server: 141.227.170.131
-    type: vless
-    udp: true
-    uuid: 787979c0-3691-4612-86a1-e0f1101d5eb2
-    xudp: true
-  - encryption: none
-    name: "\U0001F1E9\U0001F1EADE_3|6.5MB/s|GPT⁺|YT-US|NF|8%"
+    name: "\U0001F1FA\U0001F1F8US_97|4.2MB/s|GPT⁺|YT-US|NF|D+|0%"
     network: ws
-    port: 2082
-    server: www.speedtest.net
+    port: 2096
+    server: 195.13.44.50
+    tls: true
     type: vless
     udp: true
-    uuid: 9d9dd38b-aa04-44c4-b53c-90459f9f0618
+    uuid: 12345678-1234-1234-1234-123456789123
     ws-opts:
       headers:
-        Host: >-
-          novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
+        Host: saas.sosocn.abrdns.com
         User-Agent: >-
           Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/60.0.3112.113 Safari/537.36
-      path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2082
+          like Gecko) Chrome/67.0.3396.87 Safari/537.36
+      path: /snippets
     xudp: true
-  - encryption: none
-    name: "\U0001F1EB\U0001F1EEFI_2|5.7MB/s|GPT⁺|YT-US|NF|8%"
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_98|2.8MB/s|GPT⁺|YT-US|NF|D+|0%"
     network: ws
-    port: 80
-    server: 151.101.3.8
+    port: 2096
+    server: 185.251.80.50
+    tls: true
     type: vless
     udp: true
-    uuid: 9b4420c3-908f-496b-9b1b-0dcaa70b79c7
+    uuid: 12345678-1234-1234-1234-123456789123
     ws-opts:
       headers:
-        Host: welcomtofreeboarders.com
+        Host: saas.sosocn.abrdns.com
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/56.0.2924.87 Safari/537.36
-      path: /ws/
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2048
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/58.0.3029.110 Safari/537.36
+      path: /snippets
     xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_7|4.9MB/s|GPT⁺|YT-RU|NF|0%"
-    network: grpc
-    port: 20421
-    server: 141.227.166.55
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_99|6.4MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: ws
+    port: 2096
+    server: 213.219.247.50
+    tls: true
     type: vless
     udp: true
-    uuid: a9a5a7ed-d852-4b3b-af5d-6e8d721300b5
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.sosocn.abrdns.com
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: /snippets
     xudp: true
+    servername: saas.sosocn.abrdns.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_100|17.0MB/s|GPT|YT-US|NF|D+|48%"
+    network: ws
+    port: 2096
+    server: 190.93.246.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: '100'
+    name: "\U0001F1FA\U0001F1F8US_101|2.0MB/s|GPT⁺|YT-US|NF"
+    obfs: ''
+    port: 15823
+    protocol: ''
+    server: 208.87.243.187
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: '100'
+    auth-str: dongtaiwang.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_102|22.6MB/s|GPT⁺|YT-US|NF|0%"
+    network: ws
+    port: 2096
+    server: 166.62.107.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.76 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_103|27.1MB/s|0%"
+    network: ws
+    port: 2096
+    server: 154.194.0.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/50.0.2661.94 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_104|1.3MB/s|GPT⁺|YT-US|NF|0%"
+    network: ws
+    port: 2096
+    server: 45.40.155.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: 12345678-1234-1234-1234-123456789123
+    ws-opts:
+      headers:
+        Host: saas.git.cloudns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/48.0.2564.109 Safari/537.36
+      path: /snippets&freecodes+@节点狂魔+/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: saas.git.cloudns.org
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: '55'
+    name: "\U0001F1F3\U0001F1F1NL_1|4.1MB/s|GPT⁺|NF"
+    obfs: ''
+    port: 49003
+    protocol: ''
+    server: 51.159.226.1
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: '11'
+    auth-str: dongtaiwang.com
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_105|4.7MB/s|GPT⁺|YT-US|NF|25%"
+    network: ws
+    port: 443
+    server: 104.18.20.69
+    tls: true
+    type: vless
+    udp: true
+    uuid: 82ba36ec-dafe-40eb-b9ad-0f8a98101020
+    ws-opts:
+      headers:
+        Host: cdn-node-oss-93.paofu.de
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /profile/telegram@ssrsub
+    xudp: true
+    servername: cdn-node-oss-93.paofu.de
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_106|9.0MB/s|GPT⁺|YT-US|NF|25%"
+    network: ws
+    port: 443
+    server: 69.84.182.108
+    tls: true
+    type: vless
+    udp: true
+    uuid: 82ba36ec-dafe-40eb-b9ad-0f8a98101020
+    ws-opts:
+      headers:
+        Host: cdn-node-oss-93.paofu.de
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /profile/telegram@ssrsub
+    xudp: true
+    servername: cdn-node-oss-93.paofu.de
 rule-providers:
   private:
     url: >-

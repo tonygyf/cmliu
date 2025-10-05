@@ -1,9 +1,9 @@
-concurrent: 32
+concurrent: 50
 check-interval: 120
 timeout: 5000
 min-speed: 1024
 download-timeout: 10
-speed-test-url: https://github.com/2dust/v2rayN/releases/download/7.10.4/v2rayN-windows-64-desktop.zip
+speed-test-url: https://www.speedtest.net/
 save-method: local
 github-gist-id: ''
 github-token: ''
@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://github.960118.xyz/
+github-proxy: https://github.proxy.zerozone.tech/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
@@ -28,7 +28,7 @@ sub-urls:
   - https://hk.gh-proxy.com/https://github.com/SoliSpirit/v2ray-configs/blob/main/Subscriptions/Sub12.txt
   - https://hk.gh-proxy.com/https://github.com/SoliSpirit/v2ray-configs/blob/main/Subscriptions/Sub13.txt
   - https://gh-proxy.com/https://github.com/tonygyf/v2rayfree/blob/main/v2
-  - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
+  - https://gh-proxy.com/https://github.com/tonygyf/AutoMergePublicNodes/blob/master/list.txt
   - https://raw.githubusercontent.com/free18/v2ray/main/v.txt
   - https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
 mihomo-overwrite-url: http://127.0.0.1:8199/bdg.yaml
