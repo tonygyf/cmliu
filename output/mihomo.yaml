@@ -1,579 +1,1593 @@
 proxies:
-  - name: "\U0001F1F0\U0001F1F7KR_1|24.6MB/s|GPT⁺|YT-KR|NF|D+|4%"
-    password: test.+
-    port: 30446
-    server: testkr3.ssv.vc
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 96c798f6-4645-11ee-b8a1-f23c9164ca5d
+    port: 443
+    server: 1ac3b4dd-t4c4g0-th9kx9-1os43.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: 1ac3b4dd-t4c4g0-th9kx9-1os43.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - name: "\U0001F1ED\U0001F1F0HK_1|24.6MB/s|NF|D+|0%"
+    password: 80c9752a41
+    port: 20443
+    server: nat-hk-37465.strongpipe.cloud
     skip-cert-verify: true
     tls: true
     type: http
-    username: test
-    sni: testkr3.ssv.vc
-  - cipher: aes-256-gcm
-    name: "\U0001F1ED\U0001F1F0HK_1|24.6MB/s|YT-CN|D+|0%"
-    password: ccf426f1fe78
-    plugin: v2ray-plugin
-    plugin-opts:
-      host: newroot2v1.dsjsapp.com
-      mode: websocket
-      path: /zksuapgx
-      tls: true
+    username: dd247fc262
+    sni: nat-hk-37465.strongpipe.cloud
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 0a335fd6-be0b-11ec-8dfa-f23c91cfbbc9
     port: 443
-    server: 103.103.245.158
+    server: 18352c48-t4c4g0-t5nm0m-17z95.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: 18352c48-t4c4g0-t5nm0m-17z95.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
+    port: 443
+    server: 624d7264-t48f40-tkp3tl-1s09x.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: 624d7264-t48f40-tkp3tl-1s09x.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_4|24.6MB/s|YT-US|NF|D+|GM"
+    network: ws
+    port: 8443
+    server: 104.20.2.221
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6c7a6a6a-6a6a-4000-8000-000000000002
+    ws-opts:
+      headers:
+        Host: bycf.lzjnb.shop
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: bycf.lzjnb.shop
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_5|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: c594c7ec-8b10-11ef-a2b8-f23c9164ca5d
+    port: 443
+    server: 1214e62f-t4c4g0-t4ixjm-1hhyy.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: 1214e62f-t4c4g0-t4ixjm-1hhyy.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_6|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 4b9ca118-7fab-11eb-bd3a-f23c9164ca5d
+    port: 443
+    server: 6528c5f0-t4c4g0-tcq5zn-19qpt.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: 6528c5f0-t4c4g0-tcq5zn-19qpt.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_7|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 775baa4a-d75b-11ef-a11a-f23c913c8d2b
+    port: 443
+    server: da98f962-t4a9s0-t6gglr-1t8q3.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: da98f962-t4a9s0-t6gglr-1t8q3.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_8|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 6ddb6a68-d5f5-ca30-3943-cf0c9876d50c
+    port: 443
+    server: 1e009f75-t4c4g0-t4qa9y-g43g.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: 1e009f75-t4c4g0-t4qa9y-g43g.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_9|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: dcdb1278-4b7d-11ed-bb74-f23c9164ca5d
+    port: 443
+    server: 27af3e4e-t4c4g0-t9uin7-19ord.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: 27af3e4e-t4c4g0-t9uin7-19ord.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_10|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 2d8c38cc-fc12-11ef-94aa-f23c913c8d2b
+    port: 443
+    server: deed9ebc-t4a9s0-tbpu76-1thmd.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: deed9ebc-t4a9s0-tbpu76-1thmd.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_11|24.6MB/s|GPT⁺|YT-US|NF|GM|33%"
+    obfs: ''
+    obfs-password: ''
+    password: 8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9
+    port: 443
+    server: d35bc4cb-t4a9s0-tcdlur-1qwom.us.hyhuawei.com
+    skip-cert-verify: false
+    sni: d35bc4cb-t4a9s0-tcdlur-1qwom.us.hyhuawei.com
+    type: hysteria2
+    up: ''
+  - cipher: rc4-md5
+    name: "\U0001F1E8\U0001F1E6CA_1|24.6MB/s|GPT⁺|NF"
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 137.184.174.93
     type: ss
     udp: true
   - cipher: aes-256-cfb
     name: "\U0001F1FB\U0001F1F3VN_1|24.6MB/s|GPT⁺"
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.155.233
+    server: 103.186.154.68
     type: ss
     udp: true
-  - name: "\U0001F1EB\U0001F1F7FR_1|24.6MB/s|GPT⁺|NF|37%"
-    network: ws
-    port: 80
-    server: mstr.fastly80.hosting-ip.com
+  - encryption: none
+    name: "\U0001F1EB\U0001F1EEFI_1|24.6MB/s|GPT⁺|NF|10%"
+    network: tcp
+    port: 10200
+    server: 157.180.123.212
     type: vless
     udp: true
-    uuid: 857b7905-8b11-4987-994d-09bcbf7979df
-    ws-opts:
-      headers:
-        Host: Gn8656.io
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/66.0.3359.117 Safari/537.36
-      path: /admin
+    uuid: 026c61c2-4969-479a-9046-539af105ff4a
     xudp: true
-    servername: Gn8656.io
-  - client-fingerprint: chrome
-    name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|YT-US|NF|D+|GM"
-    network: ws
-    password: wb6368
-    port: 2087
-    server: 92.243.75.49
-    skip-cert-verify: false
-    sni: hsdgbuys.pages.dev
-    type: trojan
-    udp: true
-    ws-opts:
-      headers:
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/61.0.3163.100 Safari/537.36
-      path: /
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|NF|D+|0%"
-    obfs: salamander
-    obfs-password: Yet-Another-Public-Config-1
-    password: Yet-Another-Public-Config-1
-    port: 36600
-    server: yapc-1.adamhayward.co.uk
-    skip-cert-verify: false
-    sni: YAPC-1.afshin.ir
-    type: hysteria2
-    up: ''
-  - client-fingerprint: chrome
-    name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-US|NF|GM|39%"
-    password: 253bc477d4e43c209f2d427272968280
-    port: 6752
-    server: 36.156.102.88
-    skip-cert-verify: false
-    sni: www.nintendogames.net
-    type: trojan
-    udp: true
-  - alterId: 0
+  - alpn:
+      - ''
+    alterId: '0'
     cipher: auto
-    name: "\U0001F1ED\U0001F1F0HK_2|24.6MB/s|YT-HK|0%"
+    name: "\U0001F1EB\U0001F1EEFI_2|24.6MB/s|GPT⁺|NF|10%"
     network: tcp
-    port: 10002
-    server: 36.139.201.35
+    port: 10100
+    server: 157.180.123.212
     skip-cert-verify: false
     tls: false
     type: vmess
     udp: true
-    uuid: 8d717e5a-dab5-4b99-af4f-ea29ef8eebed
+    uuid: 14fd5c56-2d55-44a5-9876-6ce27d3aec44
     xudp: true
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1F3\U0001F1F1NL_2|24.6MB/s|8%"
-    obfs: salamander
-    obfs-password: GdQ4bgvT8RFwuWi2
-    password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
-    port: 30205
-    server: 185.92.220.240
-    skip-cert-verify: true
-    sni: net2025.afsharidempire.uk
-    type: hysteria2
-    up: ''
-  - name: "\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT⁺|YT-SG|GM"
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_1|24.6MB/s|GPT|YT-JP|NF|D+"
     network: ws
-    port: 80
-    server: test.sachix.online
+    port: 32498
+    server: 132.145.126.40
+    tls: true
     type: vless
     udp: true
-    uuid: 522d0d20-40a3-49d8-af63-37c347b184ed
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
     ws-opts:
       headers:
-        Host: speedtest.net
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_2|24.6MB/s|YT-JP|NF|D+|GM"
+    network: ws
+    port: 443
+    server: 141.147.168.141
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile
+          Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT|YT-SG|NF|D+|GM"
+    network: ws
+    port: 8192
+    server: 54.255.217.120
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_3|24.6MB/s|GPT|YT-JP"
+    network: ws
+    port: 21273
+    server: 8.209.220.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.100 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - cipher: aes-256-cfb
+    name: "\U0001F1FB\U0001F1F3VN_2|24.6MB/s|GPT"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.147
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1ED\U0001F1F0HK_2|24.6MB/s|GPT|YT-HK|D+"
+    network: ws
+    port: 35951
+    server: 36.50.90.241
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/62.0.3202.89 Safari/537.36
+      path: /telegram@freecodes/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_4|24.6MB/s|YT-JP|D+|GM"
+    network: ws
+    port: 33817
+    server: 121.167.16.189
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile
+          Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_1|24.6MB/s|GPT|YT-KR|D+|GM"
+    network: ws
+    port: 50001
+    server: 125.141.38.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_2|24.6MB/s|D+"
+    network: ws
+    port: 50004
+    server: 221.163.173.252
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_5|24.6MB/s|YT-JP|NF|D+|GM"
+    network: ws
+    port: 20880
+    server: 218.148.106.45
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_3|24.6MB/s|GPT|YT-KR|NF|D+"
+    network: ws
+    port: 12533
+    server: 222.113.18.214
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_4|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 16020
+    server: 121.147.108.106
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/62.0.3202.94 Safari/537.36
+      path: /x @节点狂魔 /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1ED\U0001F1F0HK_3|24.6MB/s"
+    network: ws
+    port: 9010
+    server: 8.218.36.133
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/57.0.2987.133 Safari/537.36
+      path: /telegram@freecodes/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_5|24.6MB/s|YT-KR|NF|D+|GM"
+    network: ws
+    port: 443
+    server: 123.111.169.70
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko)
+          Slackware/Chrome/12.0.742.100 Safari/534.30
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_6|24.6MB/s|YT-JP|D+|GM"
+    network: ws
+    port: 54322
+    server: 140.83.57.86
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.102 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_6|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 50001
+    server: 106.252.245.199
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.77 Safari/537.36
+      path: /x @节点狂魔 /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_7|24.6MB/s|GPT|YT-KR|D+|GM"
+    network: ws
+    port: 50001
+    server: 118.45.150.77
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4
+          (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_7|24.6MB/s|GPT|YT-JP|D+|GM"
+    network: ws
+    port: 34237
+    server: 140.83.54.126
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_8|24.6MB/s|NF|D+"
+    network: ws
+    port: 50000
+    server: 222.101.91.204
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/58.0.3029.81 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_9|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 34599
+    server: 183.106.76.116
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
         User-Agent: >-
           Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/41.0.2272.101 Safari/537.36
-      path: /
+          Gecko) Chrome/47.0.2526.111 Safari/537.36 MVisionPlayer/1.0.0.0
+      path: /x @节点狂魔 /
     xudp: true
-    servername: speedtest.net
-  - name: "\U0001F1F8\U0001F1ECSG_2|24.6MB/s|GPT⁺|YT-SG|GM"
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_8|24.6MB/s|YT-JP|D+"
     network: ws
-    port: 80
-    server: test.sachix.online
+    port: 10042
+    server: 61.83.202.17
+    tls: true
     type: vless
     udp: true
-    uuid: 522d0d20-40a3-49d8-af63-37c347b184ed
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
     ws-opts:
       headers:
-        Host: test.sachix.online
+        Host: gaosir.unfeeling.sbs
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/56.0.2924.87 Safari/537.36
-      path: /
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.76 Safari/537.36
+      path: /x @节点狂魔 /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
     xudp: true
-    servername: test.sachix.online
+    servername: gaosir.unfeeling.sbs
   - client-fingerprint: chrome
-    name: "\U0001F1EF\U0001F1F5JP_1|24.6MB/s|YT-JP|0%"
-    password: 253bc477d4e43c209f2d427272968280
-    port: 1801
-    server: 36.156.102.88
-    skip-cert-verify: false
-    sni: www.nintendogames.net
-    type: trojan
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_2|24.6MB/s|GPT⁺|YT-US|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.80
-    type: ss
-    udp: true
-  - encryption: none
-    name: "\U0001F1EE\U0001F1F7IR_1|24.6MB/s|GPT|0%"
-    network: tcp
-    port: 46822
-    server: 89.44.242.222
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_10|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 8443
+    server: 193.122.124.215
+    tls: true
     type: vless
     udp: true
-    uuid: 44aded6c-a012-452b-8e13-04d5f15a659f
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.99 Safari/537.36
+      path: /x @节点狂魔 /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
     xudp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_3|24.6MB/s|GPT⁺|YT-VN|NF|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.9
-    type: ss
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_11|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 50000
+    server: 112.184.45.203
+    tls: true
+    type: vless
     udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_4|24.6MB/s|GPT⁺|YT-US|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.37
-    type: ss
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML,
+          like Gecko) Chrome/5.0.342.1 Safari/533.2
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_12|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 10031
+    server: 202.150.185.128
+    tls: true
+    type: vless
     udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_5|24.6MB/s|GPT⁺|YT-US|NF"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.123
-    type: ss
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko)
+          Chrome/v1.0.0 Safari/538.1
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_13|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 50000
+    server: 210.99.119.3
+    tls: true
+    type: vless
     udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/42.0.2311.135 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F8\U0001F1ECSG_2|24.6MB/s|D+|GM"
+    network: ws
+    port: 443
+    server: 172.104.180.43
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.100 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F8\U0001F1ECSG_3|24.6MB/s|GPT"
+    network: ws
+    port: 443
+    server: 172.104.188.124
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_14|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 50001
+    server: 118.36.106.205
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /x@节点狂魔/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_15|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 50001
+    server: 59.11.39.221
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_9|24.6MB/s|YT-JP|D+|GM"
+    network: ws
+    port: 443
+    server: 140.83.63.113
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/49.0.2623.112 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_16|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 10911
+    server: 59.1.74.97
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10
+          (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_17|24.6MB/s|YT-KR|NF|D+|GM"
+    network: ws
+    port: 443
+    server: 158.180.72.60
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_18|24.6MB/s|YT-KR|NF|D+|GM"
+    network: ws
+    port: 50000
+    server: 125.136.226.1
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /x@节点狂魔/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_19|24.6MB/s|GPT|YT-KR|D+"
+    network: ws
+    port: 443
+    server: 158.180.73.165
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-J730GM Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+          Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_12|24.6MB/s"
+    network: ws
+    port: 21415
+    server: 43.132.244.52
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.181 Safari/537.36
+      path: /telegram@freecodes/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_20|24.6MB/s|GPT|YT-KR|D+"
+    network: ws
+    port: 58337
+    server: 152.67.211.114
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko)
+          Slackware/Chrome/12.0.742.100 Safari/534.30
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_21|24.6MB/s|D+"
+    network: ws
+    port: 50001
+    server: 106.240.137.36
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /x @节点狂魔 /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_13|24.6MB/s|YT-JP|D+|GM"
+    network: ws
+    port: 19999
+    server: 202.84.53.85
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
+      path: /x@节点狂魔/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_22|24.6MB/s"
+    network: ws
+    port: 32768
+    server: 134.185.106.69
+    tls: true
+    type: vless
+    udp: true
+    uuid: 64bf9c97-212c-4814-ad17-f8539b53a8bd
+    ws-opts:
+      headers:
+        Host: vless.pengjiajin.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.106 Safari/537.36
+      path: /freecodes@节点狂魔/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: vless.pengjiajin.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_23|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 50001
+    server: 27.117.52.110
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/69.0.3497.100 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_24|4.1MB/s|YT-KR"
+    network: ws
+    port: 50000
+    server: 125.128.215.162
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /x@节点狂魔/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
   - down: ''
     fingerprint: ''
-    name: "\U0001F1E8\U0001F1E6CA_1|24.6MB/s|GPT⁺|YT-CA|NF|GM|4%"
+    name: "\U0001F1ED\U0001F1F0HK_4|24.6MB/s|YT-CN"
     obfs: ''
     obfs-password: ''
-    password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
-    port: 45979
-    server: 150.230.28.100
+    password: 571ec94e-613c-430a-93de-397d3d237475
+    port: 22153
+    server: 103.136.150.23
+    skip-cert-verify: true
+    sni: hsxg.huasuan666.top
+    type: hysteria2
+    up: ''
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_10|24.6MB/s|YT-JP|NF|D+|GM"
+    network: ws
+    port: 443
+    server: 155.248.181.189
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.117 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_25|24.6MB/s|YT-KR|NF|D+|GM"
+    network: ws
+    port: 50000
+    server: 112.186.212.12
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko)
+          Chrome/12.0.742.100 Safari/534.30
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_26|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 12290
+    server: 220.118.236.239
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/45.0.2454.101 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_27|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 50001
+    server: 220.126.185.107
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_28|24.6MB/s|YT-KR|NF|D+"
+    network: ws
+    port: 50008
+    server: 59.25.160.141
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/48.0.2564.116 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_11|24.6MB/s|GPT|YT-JP|D+"
+    network: ws
+    port: 443
+    server: 132.145.115.62
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1ED\U0001F1F0HK_5|24.6MB/s|YT-HK|D+"
+    network: ws
+    port: 8443
+    server: 45.38.42.109
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; Moto C Build/NRD90M.059)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_29|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 32773
+    server: 222.113.18.207
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /x @节点狂魔 /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F8\U0001F1ECSG_4|24.6MB/s|YT-SG|D+|GM"
+    network: ws
+    port: 443
+    server: 8.219.155.21
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.106 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_30|8.2MB/s|YT-KR|D+"
+    network: ws
+    port: 50001
+    server: 220.72.76.25
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /x@节点狂魔/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_31|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 50001
+    server: 118.45.152.231
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_14|24.6MB/s|YT-US|NF|D+|GM"
+    network: ws
+    port: 21286
+    server: 14.36.155.120
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /telegram@freecodes/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_32|24.6MB/s|YT-KR|D+"
+    network: ws
+    port: 50001
+    server: 175.202.53.36
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F0\U0001F1F7KR_33|1.6MB/s|GPT|D+"
+    network: ws
+    port: 26257
+    server: 124.61.52.107
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91
+          Mobile Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_12|24.6MB/s"
+    network: ws
+    port: 12553
+    server: 113.37.149.36
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L22 Build/HUAWEICUN-L22;
+          wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/62.0.3202.84 Mobile Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1ED\U0001F1F0HK_6|24.6MB/s|YT-HK|D+"
+    network: ws
+    port: 8443
+    server: 156.255.90.175
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_13|24.6MB/s|YT-JP|D+"
+    network: ws
+    port: 30112
+    server: 175.202.241.130
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.86 Safari/537.36
+      path: /telegram@freecodes/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_14|24.6MB/s|YT-JP|D+|GM"
+    network: ws
+    port: 49153
+    server: 47.79.90.37
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /telegram@freecodes/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_15|24.6MB/s|YT-JP|D+"
+    network: ws
+    port: 21321
+    server: 211.33.238.198
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/31.0.1650.57 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_16|24.6MB/s|D+"
+    network: ws
+    port: 16387
+    server: 64.176.39.147
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; SM-J120M Build/LMY47X)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_17|24.6MB/s|YT-JP|D+|GM"
+    network: ws
+    port: 18245
+    server: 221.148.181.220
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; vivo 1603 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile
+          Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1ED\U0001F1F0HK_7|24.6MB/s|D+"
+    network: ws
+    port: 2053
+    server: 2.56.91.89
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: /x @节点狂魔 /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1EF\U0001F1F5JP_18|24.6MB/s|YT-JP"
+    network: ws
+    port: 443
+    server: 139.162.108.5
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /telegram @freecodes /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F8\U0001F1ECSG_5|24.6MB/s|D+|GM"
+    network: ws
+    port: 2053
+    server: 91.192.81.154
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F8\U0001F1ECSG_6|24.6MB/s|D+|GM"
+    network: ws
+    port: 53702
+    server: 168.138.170.211
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/53.0.2785.143 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_15|24.6MB/s"
+    network: ws
+    port: 20100
+    server: 211.33.238.198
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/67.0.3396.99 Safari/537.36
+      path: /x @节点狂魔 /
+    xudp: true
+    servername: gaosir.unfeeling.sbs
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1E8\U0001F1E6CA_2|24.6MB/s|0%"
+    obfs: ''
+    obfs-password: ''
+    password: 2429bee3-e0c1-47dd-b420-75e6512b184b
+    port: 30300
+    server: 129.153.59.26
     skip-cert-verify: true
     sni: www.bing.com
     type: hysteria2
     up: ''
   - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_6|1.8MB/s|GPT⁺|NF|GM"
+    name: "\U0001F1FB\U0001F1F3VN_3|24.6MB/s|GPT⁺"
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
-    server: 103.186.155.62
+    server: 103.186.155.22
     type: ss
     udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_7|24.6MB/s|GPT⁺|YT-US|NF|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.46
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_8|24.6MB/s|GPT⁺|YT-US|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.230
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_9|24.6MB/s|GPT⁺|NF"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.102
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_10|24.6MB/s|GPT⁺|YT-US|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.140
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_11|24.6MB/s|GPT⁺|NF"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.65
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_12|24.6MB/s|GPT"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.165
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_13|24.6MB/s|GPT⁺|YT-US|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.206
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_14|24.6MB/s|GPT⁺"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.141
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_15|24.6MB/s|GPT⁺|NF|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.138
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_16|24.6MB/s|GPT⁺"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.80
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_17|24.6MB/s|GPT⁺|NF|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.63
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_18|24.6MB/s|GPT⁺|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.5
-    type: ss
-    udp: true
-  - alterId: '2'
-    cipher: auto
-    name: "\U0001F1ED\U0001F1F0HK_3|24.6MB/s"
-    network: ws
-    port: 30809
-    server: v9.heduian.link
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    ws-opts:
-      headers:
-        Host: baidu.com
-      path: /oooo
-    xudp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_19|24.6MB/s|GPT⁺|NF|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.218
-    type: ss
-    udp: true
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: '55'
-    name: "\U0001F1F3\U0001F1F1NL_3|24.6MB/s|GPT⁺|YT-NL|NF"
-    obfs: ''
-    port: 49003
-    protocol: ''
-    server: 51.159.226.1
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: '11'
-    auth-str: dongtaiwang.com
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_20|24.6MB/s|GPT⁺|NF|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.150
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F1FB\U0001F1F3VN_21|24.6MB/s|GPT⁺|NF|GM"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.247
-    type: ss
-    udp: true
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: '100'
-    name: "\U0001F1EB\U0001F1F7FR_2|24.6MB/s|GPT⁺|NF"
-    obfs: ''
-    port: 40099
-    protocol: ''
-    server: 62.210.127.217
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: '100'
-    auth-str: dongtaiwang.com
   - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_3|24.6MB/s|GPT⁺|YT-US|NF|0%"
-    network: grpc
-    port: 43239
-    server: 141.227.180.86
-    type: vless
-    udp: true
-    uuid: 0001e585-a648-4db2-8c9e-af346110c642
-    xudp: true
-  - alterId: '2'
-    cipher: auto
-    name: "\U0001F1EF\U0001F1F5JP_2|24.6MB/s|GPT⁺"
+    name: "\U0001F1EB\U0001F1EEFI_3|24.6MB/s|YT-US"
     network: ws
-    port: 30806
-    server: v6.heduian.link
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-    ws-opts:
-      headers:
-        Host: ocbc.com
-      path: /oooo
-    xudp: true
-  - encryption: none
-    name: "\U0001F1E6\U0001F1F2AM_1|24.6MB/s|GPT⁺|YT-US|NF|0%"
-    network: ws
-    port: 2095
-    server: www.speedtest.net
-    type: vless
-    udp: true
-    uuid: 05COPE-AZ-KANAL--JKVPN--JKVPN
-    ws-opts:
-      headers:
-        Host: jokervip.ahang-alpha.ir
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/46.0.2490.86 Safari/537.36
-      path: >-
-        /TELEGRAM-@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN--@JKVPN
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2048
-    xudp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F1E7\U0001F1F7BR_1|24.6MB/s|GPT⁺|YT-RU|D+|26%"
-    network: tcp
     port: 8080
-    reality-opts:
-      public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-      short-id: 27cfa05000c23cc4
-    server: 147.45.116.72
-    tls: true
+    server: 104.17.147.22
     type: vless
     udp: true
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    xudp: true
-    servername: yandex.com
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_4|24.6MB/s|GPT⁺|NF|29%"
-    network: grpc
-    port: 23279
-    server: 141.94.210.231
-    type: vless
-    udp: true
-    uuid: 30198cba-c828-4b34-8165-25942bad201e
-    xudp: true
-  - encryption: none
-    name: "\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-US|NF"
-    network: ws
-    port: 80
-    server: 172.67.176.159
-    type: vless
-    udp: true
-    uuid: 41398380-2073-4d85-878a-24194a6f04a3
+    uuid: Parsashonam-Bot-31
     ws-opts:
       headers:
-        Host: 3.azadteam.workers.dev
+        Host: Fi.Parsashonam.CfD.
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/70.0.3538.67 Safari/537.36
-      path: /Sy0HOf5sZffep0QQ
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_5|24.6MB/s|GPT⁺|YT-RU|NF|0%"
-    network: grpc
-    port: 21232
-    server: 141.227.170.178
-    type: vless
-    udp: true
-    uuid: 5e0eddef-95cd-4109-9807-0f32062939f3
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        @Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
-    name: "\U0001F1F9\U0001F1F7TR_1|24.6MB/s|GPT⁺|YT-TR|NF|D+|GM|0%"
-    network: grpc
-    port: 5437
-    server: 95.134.130.138
-    type: vless
-    udp: true
-    uuid: 769774c9-8eb7-4ee4-8093-d56c92ed9e69
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_6|24.6MB/s|GPT⁺|YT-RU|NF|0%"
-    network: grpc
-    port: 31155
-    server: 141.227.166.102
-    type: vless
-    udp: true
-    uuid: 9d8928b6-947a-45a2-9c57-90a7556d36c9
-    xudp: true
-  - encryption: none
-    name: "\U0001F1EE\U0001F1F6IQ_1|24.6MB/s|GPT⁺|YT-IQ|NF|GM|0%"
-    network: ws
-    port: 8880
-    server: 172.66.156.81
-    type: vless
-    udp: true
-    uuid: 8656ea50-729e-4bbd-ac11-b7a8f1694805
-    ws-opts:
-      headers:
-        Host: devops.iran.mmdof.md.sec.php.skyservermd.ir.
-        User-Agent: >-
-          Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
-          Safari/537.36
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3
+          (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
       path: >-
-        /@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        @Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
-    name: "\U0001F1EC\U0001F1E7GB_1|24.6MB/s|GPT⁺|29%"
-    network: grpc
-    port: 3479
-    server: 51.89.176.242
-    type: vless
-    udp: true
-    uuid: 769774c9-8eb7-4ee4-8093-d56c92ed9e69
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        @Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
-    name: "\U0001F1F9\U0001F1F7TR_2|24.6MB/s|GPT⁺|YT-TR|NF|D+|GM|0%"
-    network: grpc
-    port: 5437
-    server: 95.134.130.138
-    type: vless
-    udp: true
-    uuid: 97ef0833-f047-4ba0-bc7e-40b54bd9c5b9
-    xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EE\U0001F1F9IT_1|24.6MB/s|GPT⁺|0%"
-    network: grpc
-    port: 51079
-    server: 141.227.140.55
-    type: vless
-    udp: true
-    uuid: 7fe2935c-0b1a-4bff-a392-79081b23d820
-    xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|NF|50%"
-    network: tcp
-    port: 1591
-    reality-opts:
-      public-key: Q7B94qjnMk48_2054jmhOKdPbqRkyUbLIHSNLb8Zz2w
-      short-id: 90658dac0f08c239
-    server: 84.201.4.247
-    tls: true
-    type: vless
-    udp: true
-    uuid: bbe8c684-4b27-4c7d-bbf3-080c4bca3fc4
-    xudp: true
-    servername: refersion.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "\U0001F1F0\U0001F1FFKZ_1|24.6MB/s|GPT⁺|YT-RU|0%"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
-      short-id: f79448a30d
-    server: kz01-vlr01.tcp-reset-club.net
-    tls: true
-    type: vless
-    udp: true
-    uuid: c80bbc09-837d-495f-bebc-3e8ac5dede41
-    xudp: true
-    servername: hls-svod.itunes.apple.com
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1EB\U0001F1F7FR_7|24.6MB/s|GPT⁺|YT-RU|NF|0%"
-    network: grpc
-    port: 443
-    server: 141.227.170.126
-    type: vless
-    udp: true
-    uuid: f2957b69-6ff8-4a37-a06d-ea4352202e4b
+        /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2056
     xudp: true
 rule-providers:
   private:
