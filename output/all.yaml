@@ -1,98 +1,52 @@
 proxies:
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 5b786016-a0dd-4613-ad2d-0a10a8f8702d
-      port: "54265"
-      server: banmabanmabanmabanmabanmabanma1.wanlidag.top
-      skip-cert-verify: true
-      sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 9753590f-5720-4977-8592-2c8d64755228
-      port: "54265"
-      server: banmabanmabanmabanmabanmabanma1.wanlidag.top
-      skip-cert-verify: true
-      sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
-      type: hysteria2
-      up: ""
     - encryption: none
-      name: "\U0001F1EB\U0001F1EEFI_1|24.6MB/s|GPT⁺|YT-US|5%"
+      name: "\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|NF|9%"
       network: ws
-      port: "8080"
-      server: tel.mtmvpn.shop
+      port: "2082"
+      server: www.speedtest.net
       type: vless
       udp: true
-      uuid: Parsashonam-Bot-33
+      uuid: 03fc8922-b80e-4aff-91e9-2023a17ed647
       ws-opts:
         headers:
-            Host: Fi.Parsashonam.CfD.
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-        path: /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056
-      xudp: true
-    - alpn:
-        - ""
-      alterId: "0"
-      cipher: auto
-      name: "\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-US|NF|GM|39%"
-      network: ws
-      port: "443"
-      server: ktff.tencentapp.cn
-      skip-cert-verify: false
-      tls: true
-      type: vmess
-      udp: true
-      uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219
-      ws-opts:
-        headers:
-            Host: us7.6315687.xyz
-        path: /
+            Host: novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+        path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1FA\U0001F1F8US_4|24.6MB/s|GPT⁺|YT-US|NF|GM"
-      network: ws
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT|YT-RU|NF|22%"
+      network: tcp
       port: "443"
-      server: 69.84.182.18
-      servername: cdn-node-oss-63.paofu.de
+      reality-opts:
+        public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+        short-id: e499f276e7bd6420
+      server: us01-xr03.vpnvezdehod.net
+      servername: hls-svod.itunes.apple.com
       tls: true
       type: vless
       udp: true
-      uuid: 82ba36ec-dafe-40eb-b9ad-0f8a98101020
-      ws-opts:
-        headers:
-            Host: cdn-node-oss-63.paofu.de
-            User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
-        path: /profile/sharenode
+      uuid: eb64d6b8-b3ed-48a2-9662-af2c65352215
       xudp: true
-    - alpn:
-        - ""
-      alterId: "0"
-      cipher: auto
-      name: "\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT⁺|YT-SG|D+|GM|3%"
-      network: ws
-      port: "443"
-      server: cf.877774.xyz
-      skip-cert-verify: false
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      name: "\U0001F1E8\U0001F1E6CA_1|24.6MB/s|GPT⁺|D+|GM|8%"
+      network: tcp
+      port: "40106"
+      reality-opts:
+        public-key: gqmHb9i4USmQ78auzhAFJMQIrUpnq8QaykJgnjHDTBg
+        short-id: f44fd3dd
+      server: 40.233.92.219
+      servername: apple.com
       tls: true
-      type: vmess
+      type: vless
       udp: true
-      uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219
-      ws-opts:
-        headers:
-            Host: sg13.6315687.xyz
-        path: /
+      uuid: dcdd09ad-4519-46f7-8107-4c4290a9b2a3
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1FA\U0001F1F8US_5|24.6MB/s|GPT⁺|NF|23%"
+      name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-US|NF|GM|23%"
       network: ws
       port: "443"
       server: 69.84.182.108
@@ -107,100 +61,32 @@ proxies:
             User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
         path: /profile/sharenode
       xudp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1FA\U0001F1F8US_6|24.6MB/s|D+"
-      network: ws
-      port: "12312"
-      server: 211.48.77.114
-      servername: gaosir.unfeeling.sbs
-      tls: true
-      type: vless
-      udp: true
-      uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-      ws-opts:
-        headers:
-            Host: gaosir.unfeeling.sbs
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
-        path: X@节点狂魔/?ed=2560
-      xudp: true
-    - encryption: none
-      name: "\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|9%"
-      network: ws
-      port: "2082"
-      server: www.speedtest.net
-      type: vless
-      udp: true
-      uuid: 03fc8922-b80e-4aff-91e9-2023a17ed647
-      ws-opts:
-        headers:
-            Host: novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
-        path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082
-      xudp: true
-    - encryption: none
-      name: "\U0001F1FA\U0001F1F8US_7|24.6MB/s|GPT⁺|YT-US|NF|GM|0%"
-      network: ws
-      port: "80"
-      server: 172.66.156.81
-      type: vless
-      udp: true
-      uuid: 0f02ba17-0125-4356-98a8-710d9be08bce
-      ws-opts:
-        headers:
-            Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.store.
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
-        path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1FA\U0001F1F8US_8|24.6MB/s|GPT⁺|YT-RU|NF|22%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
-        short-id: e499f276e7bd6420
-      server: us01-xr03.vpnvezdehod.net
-      servername: hls-svod.itunes.apple.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: eb64d6b8-b3ed-48a2-9662-af2c65352215
-      xudp: true
     - alpn:
-        - h2
-        - http/1.1
-      client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺"
-      network: ws
-      port: "2095"
-      server: bm.boulvarmoein.shop
-      servername: bm.boulvarmoein.shop
-      tls: true
-      type: vless
-      udp: true
-      uuid: v2rayng_76
-      ws-opts:
-        headers:
-            Host: bm.boulvarmoein.shop
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
-        path: /Telegram@v2rayng_76=?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_9|24.6MB/s"
+        - ""
+      alterId: "0"
+      cipher: auto
+      name: "\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT⁺|D+|GM|3%"
       network: ws
       port: "443"
-      server: 217.60.248.66
-      servername: gaosir.unfeeling.sbs
+      server: cf.877774.xyz
+      skip-cert-verify: false
       tls: true
-      type: vless
+      type: vmess
       udp: true
-      uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+      uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219
       ws-opts:
         headers:
-            Host: gaosir.unfeeling.sbs
-            User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
-        path: "/Telegram\U0001F1E8\U0001F1F3 @WangCai2 /?ed=2560"
+            Host: sg13.6315687.xyz
+        path: /
+      xudp: true
+    - encryption: none
+      grpc-opts:
+        grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+      name: "\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺"
+      network: grpc
+      port: "443"
+      server: mtmvpn.shop
+      type: vless
+      udp: true
+      uuid: 77f26911-3562-476d-aaf4-5dde2adb75c1
       xudp: true
