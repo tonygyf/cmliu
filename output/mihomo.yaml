@@ -19,24 +19,8 @@ proxies:
       max-early-data: 2082
     xudp: true
   - client-fingerprint: chrome
-    encryption: none
     flow: xtls-rprx-vision
-    name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT|YT-RU|NF|22%"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
-      short-id: e499f276e7bd6420
-    server: us01-xr03.vpnvezdehod.net
-    tls: true
-    type: vless
-    udp: true
-    uuid: eb64d6b8-b3ed-48a2-9662-af2c65352215
-    xudp: true
-    servername: hls-svod.itunes.apple.com
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: "\U0001F1E8\U0001F1E6CA_1|24.6MB/s|GPT⁺|D+|GM|8%"
+    name: "\U0001F1E8\U0001F1E6CA_1|3.1MB/s|GPT⁺|YT-CA|NF|D+|GM|8%"
     network: tcp
     port: 40106
     reality-opts:
@@ -49,57 +33,111 @@ proxies:
     uuid: dcdd09ad-4519-46f7-8107-4c4290a9b2a3
     xudp: true
     servername: apple.com
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
+    obfs: ''
+    obfs-password: ''
+    password: 5b786016-a0dd-4613-ad2d-0a10a8f8702d
+    port: 54265
+    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    skip-cert-verify: true
+    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
+    obfs: ''
+    obfs-password: ''
+    password: e6c931d0-1b38-4316-855e-2bfe752208bc
+    port: 54265
+    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    skip-cert-verify: true
+    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
+    obfs: ''
+    obfs-password: ''
+    password: 625de39a-9713-4599-9028-57faf8f44cf1
+    port: 54265
+    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    skip-cert-verify: true
+    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    type: hysteria2
+    up: ''
+  - name: "\U0001F1ED\U0001F1F0HK_1|24.6MB/s|NF|D+|0%"
+    password: 80c9752a41
+    port: 20443
+    server: nat-hk-37465.strongpipe.cloud
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: dd247fc262
+    sni: nat-hk-37465.strongpipe.cloud
+  - client-fingerprint: chrome
+    name: "\U0001F1F0\U0001F1F7KR_1|24.6MB/s|GPT|YT-KR|NF|D+|GM"
+    network: ws
+    port: 50003
+    server: 175.211.35.161
+    tls: true
+    type: vless
+    udp: true
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+    ws-opts:
+      headers:
+        Host: gaosir.unfeeling.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: /X@节点狂魔/
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: gaosir.unfeeling.sbs
   - client-fingerprint: chrome
     encryption: none
-    name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-US|NF|GM|23%"
-    network: ws
-    port: 443
-    server: 69.84.182.108
+    name: "\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺|YT-DE|NF|D+|11%"
+    network: tcp
+    port: 6666
+    reality-opts:
+      public-key: S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g
+      short-id: b525ecd2fc
+    server: 188.68.53.100
     tls: true
     type: vless
     udp: true
-    uuid: 82ba36ec-dafe-40eb-b9ad-0f8a98101020
-    ws-opts:
-      headers:
-        Host: cdn-node-oss-63.paofu.de
-        User-Agent: >-
-          Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
-          Safari/537.36
-      path: /profile/sharenode
+    uuid: 0abf9050-c7be-464d-80af-24094c2b97de
     xudp: true
-    servername: cdn-node-oss-63.paofu.de
+    servername: Tgju.org
   - alpn:
-      - ''
-    alterId: '0'
-    cipher: auto
-    name: "\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT⁺|D+|GM|3%"
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|NF"
     network: ws
-    port: 443
-    server: cf.877774.xyz
-    skip-cert-verify: false
+    port: 2095
+    server: bm.boulvarmoein.shop
     tls: true
-    type: vmess
-    udp: true
-    uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219
-    ws-opts:
-      headers:
-        Host: sg13.6315687.xyz
-      path: /
-    xudp: true
-    servername: cf.877774.xyz
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺"
-    network: grpc
-    port: 443
-    server: mtmvpn.shop
     type: vless
     udp: true
-    uuid: 77f26911-3562-476d-aaf4-5dde2adb75c1
+    uuid: v2rayng_76
+    ws-opts:
+      headers:
+        Host: bm.boulvarmoein.shop
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /Telegram@v2rayng_76=
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
     xudp: true
+    servername: bm.boulvarmoein.shop
 rule-providers:
   private:
     url: >-
