@@ -5730,3 +5730,141 @@ URL: http://127.0.0.1:8199/bdg.yaml
 [sub-store] ERROR: UUID may be invalid: 🇳🇱NL_2|2.2MB/s|GPT⁺|D+|3% 6742388969-client-81f
 [sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|5.3MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-32
 [sub-store] ERROR: UUID may be invalid: 🇺🇸US_3|4.5MB/s|GPT⁺|YT-US|GM Parsashonam-Bot-32
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.20.9
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] body JSON limit: 30mb
+[sub-store] INFO: [BACKEND] listening on :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.20.9
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] body JSON limit: 30mb
+[sub-store] INFO: [BACKEND] listening on :::8299
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.20.9
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] body JSON limit: 30mb
+[sub-store] INFO: [BACKEND] listening on :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.20.9
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] body JSON limit: 30mb
+[sub-store] INFO: [BACKEND] listening on :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: 使用缓存: http://127.0.0.1:8199/bdg.yaml, clash.meta
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.20.9
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] body JSON limit: 30mb
+[sub-store] INFO: [BACKEND] listening on :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: 使用缓存: http://127.0.0.1:8199/bdg.yaml, clash.meta
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76
+[sub-store] ERROR: UUID may be invalid: 🇫🇮FI_1|24.6MB/s|GPT⁺|YT-US|5% Parsashonam-Bot-33
+[sub-store] ERROR: UUID may be invalid: 🇳🇱NL_1|24.6MB/s|GPT⁺ v2rayng_76

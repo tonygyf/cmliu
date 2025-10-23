@@ -1,9 +1,129 @@
 proxies:
-  - client-fingerprint: chrome
-    name: "\U0001F1EF\U0001F1F5JP_1|1.4MB/s|YT-TW|NF|GM"
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
+    obfs: ''
+    obfs-password: ''
+    password: 5b786016-a0dd-4613-ad2d-0a10a8f8702d
+    port: 54265
+    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    skip-cert-verify: true
+    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
+    obfs: ''
+    obfs-password: ''
+    password: 9753590f-5720-4977-8592-2c8d64755228
+    port: 54265
+    server: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    skip-cert-verify: true
+    sni: banmabanmabanmabanmabanmabanma1.wanlidag.top
+    type: hysteria2
+    up: ''
+  - encryption: none
+    name: "\U0001F1EB\U0001F1EEFI_1|24.6MB/s|GPT⁺|YT-US|5%"
     network: ws
-    port: 81
-    server: 210.61.97.241
+    port: 8080
+    server: tel.mtmvpn.shop
+    type: vless
+    udp: true
+    uuid: Parsashonam-Bot-33
+    ws-opts:
+      headers:
+        Host: Fi.Parsashonam.CfD.
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/35.0.1916.153 Safari/537.36
+      path: >-
+        /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2056
+    xudp: true
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-US|NF|GM|39%"
+    network: ws
+    port: 443
+    server: ktff.tencentapp.cn
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219
+    ws-opts:
+      headers:
+        Host: us7.6315687.xyz
+      path: /
+    xudp: true
+    servername: ktff.tencentapp.cn
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_4|24.6MB/s|GPT⁺|YT-US|NF|GM"
+    network: ws
+    port: 443
+    server: 69.84.182.18
+    tls: true
+    type: vless
+    udp: true
+    uuid: 82ba36ec-dafe-40eb-b9ad-0f8a98101020
+    ws-opts:
+      headers:
+        Host: cdn-node-oss-63.paofu.de
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
+      path: /profile/sharenode
+    xudp: true
+    servername: cdn-node-oss-63.paofu.de
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT⁺|YT-SG|D+|GM|3%"
+    network: ws
+    port: 443
+    server: cf.877774.xyz
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219
+    ws-opts:
+      headers:
+        Host: sg13.6315687.xyz
+      path: /
+    xudp: true
+    servername: cf.877774.xyz
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_5|24.6MB/s|GPT⁺|NF|23%"
+    network: ws
+    port: 443
+    server: 69.84.182.108
+    tls: true
+    type: vless
+    udp: true
+    uuid: 82ba36ec-dafe-40eb-b9ad-0f8a98101020
+    ws-opts:
+      headers:
+        Host: cdn-node-oss-63.paofu.de
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: /profile/sharenode
+    xudp: true
+    servername: cdn-node-oss-63.paofu.de
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_6|24.6MB/s|D+"
+    network: ws
+    port: 12312
+    server: 211.48.77.114
     tls: true
     type: vless
     udp: true
@@ -13,279 +133,110 @@ proxies:
         Host: gaosir.unfeeling.sbs
         User-Agent: >-
           Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/45.0.2454.93 Safari/537.36
-      path: /x@节点狂魔/
+          Gecko) Chrome/50.0.2661.102 Safari/537.36
+      path: /X@节点狂魔/
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2560
     xudp: true
     servername: gaosir.unfeeling.sbs
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1EB\U0001F1F7FR_1|4.4MB/s|GPT⁺|YT-FR|NF"
-    obfs: ''
-    obfs-password: ''
-    password: dongtaiwang.com
-    port: 5355
-    server: 163.172.21.105
-    skip-cert-verify: true
-    sni: www.bing.com
-    type: hysteria2
-    up: ''
-  - client-fingerprint: chrome
-    name: "\U0001F1FA\U0001F1F8US_1|1.2MB/s|YT-US|NF|D+"
-    network: ws
-    port: 12105
-    server: 222.113.89.142
-    tls: true
-    type: vless
-    udp: true
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    ws-opts:
-      headers:
-        Host: gaosir.unfeeling.sbs
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/46.0.2490.80 Safari/537.36
-      path: /Telegram@freecodes/
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: gaosir.unfeeling.sbs
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: "\U0001F1E8\U0001F1E6CA_1|3.8MB/s|GPT⁺|YT-RU|NF|D+|23%"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: 18otPJIOnisNtfhP_PxpdJgPYqFbkYQAM-pecy90xwk
-      short-id: 5ec229f9
-    server: 81.19.140.131
-    tls: true
-    type: vless
-    udp: true
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    xudp: true
-    servername: vk.cc
-  - client-fingerprint: chrome
-    name: "\U0001F1F0\U0001F1F7KR_1|2.7MB/s|GPT|YT-KR|D+"
-    network: ws
-    port: 50001
-    server: 14.43.156.59
-    tls: true
-    type: vless
-    udp: true
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    ws-opts:
-      headers:
-        Host: gaosir.unfeeling.sbs
-        User-Agent: >-
-          Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
-          Safari/537.36
-      path: /x @节点狂魔 /
-    xudp: true
-    servername: gaosir.unfeeling.sbs
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: "\U0001F1EC\U0001F1F7GR_1|2.9MB/s|GPT⁺|YT-RU|D+|23%"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: Mjz6Gz75xTMe9ZU08h0y-A_VgRQ6tnt3qoOzdEn1k1M
-      short-id: 0fa84b90
-    server: 185.39.207.121
-    tls: true
-    type: vless
-    udp: true
-    uuid: 677615f7-87d5-5019-a44d-4fc3ff8d59d7
-    xudp: true
-    servername: vk.cc
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F1F0\U0001F1F7KR_2|1.1MB/s|GPT|YT-KR|GM"
-    network: ws
-    port: 10090
-    server: 222.113.18.207
-    tls: true
-    type: vless
-    udp: true
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    ws-opts:
-      headers:
-        Host: gaosir.unfeeling.sbs
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/66.0.3359.117 Safari/537.36
-      path: /x @节点狂魔 /
-    xudp: true
-    servername: gaosir.unfeeling.sbs
-  - client-fingerprint: chrome
-    name: "\U0001F1F9\U0001F1FCTW_1|4.1MB/s|GPT⁺|YT-TW|D+|GM|3%"
-    network: ws
-    port: 43
-    server: 220.128.110.108
-    tls: true
-    type: vless
-    udp: true
-    uuid: e258977b-e413-4718-a3af-02d75492c349
-    ws-opts:
-      headers:
-        Host: mf.xmma.xyz
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/39.0.2171.95 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2048
-    xudp: true
-    servername: mf.xmma.xyz
-  - client-fingerprint: chrome
-    name: "\U0001F1F0\U0001F1F7KR_3|1.9MB/s|YT-KR"
-    network: ws
-    port: 50001
-    server: 125.141.38.50
-    tls: true
-    type: vless
-    udp: true
-    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-    ws-opts:
-      headers:
-        Host: gaosir.unfeeling.sbs
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/40.0.2214.115 Safari/537.36
-      path: /Telegram@freecodes/
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: gaosir.unfeeling.sbs
-  - down: ''
-    fingerprint: ''
-    name: "\U0001F1ED\U0001F1F0HK_1|3.4MB/s|YT-CN|NF|D+|40%"
-    obfs: ''
-    obfs-password: ''
-    password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-    port: 2056
-    server: xg1.mangshe.xyz
-    skip-cert-verify: true
-    sni: xg1.mangshe.xyz
-    type: hysteria2
-    up: ''
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F1F3\U0001F1F1NL_1|3.9MB/s|GPT⁺|YT-RU|NF|D+|0%"
-    password: MiOcLvksfFDvYUkf2vrf1N
-    port: 5775
-    server: 147.45.136.214
-    type: ss
-    udp: true
   - encryption: none
-    name: "\U0001F1FA\U0001F1F8US_2|4.5MB/s|GPT⁺|YT-US|NF|GM|0%"
-    network: ws
-    port: 80
-    server: 172.66.156.81
-    type: vless
-    udp: true
-    uuid: 01cea818-a80b-4945-a883-f5164cde4ad3
-    ws-opts:
-      headers:
-        Host: >-
-          websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.
-        User-Agent: >-
-          Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/42.0.2311.135 Safari/537.36
-      path: >-
-        /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
-    xudp: true
-  - encryption: none
-    name: "\U0001F1E9\U0001F1EADE_1|7.1MB/s|GPT⁺|YT-US|NF|10%"
+    name: "\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|9%"
     network: ws
     port: 2082
     server: www.speedtest.net
     type: vless
     udp: true
-    uuid: 1cbe92b0-f54d-4748-a106-5133c8ad9654
+    uuid: 03fc8922-b80e-4aff-91e9-2023a17ed647
     ws-opts:
       headers:
         Host: >-
           novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
         User-Agent: >-
-          Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
-          Safari/537.36
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
       path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2082
     xudp: true
   - encryption: none
-    name: "\U0001F1F3\U0001F1F1NL_2|2.2MB/s|GPT⁺|D+|3%"
+    name: "\U0001F1FA\U0001F1F8US_7|24.6MB/s|GPT⁺|YT-US|NF|GM|0%"
     network: ws
-    port: 2087
-    server: ne1.tunnelx.space
+    port: 80
+    server: 172.66.156.81
     type: vless
     udp: true
-    uuid: 6742388969-client-81f
+    uuid: 0f02ba17-0125-4356-98a8-710d9be08bce
     ws-opts:
       headers:
-        Host: ws.ne1.tunnelx.space
+        Host: >-
+          websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.store.
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/70.0.3538.77 Safari/537.36
-      path: /assets/img/banner_v3.webp/
-    xudp: true
-  - encryption: none
-    name: "\U0001F1EB\U0001F1EEFI_1|5.3MB/s|GPT⁺|YT-US|5%"
-    network: ws
-    port: 8080
-    server: 104.17.147.22
-    type: vless
-    udp: true
-    uuid: Parsashonam-Bot-32
-    ws-opts:
-      headers:
-        Host: Fi.Parsashonam.CfD.
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.110 Safari/537.36
       path: >-
-        /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
+        /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F1FA\U0001F1F8US_8|24.6MB/s|GPT⁺|YT-RU|NF|22%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+      short-id: e499f276e7bd6420
+    server: us01-xr03.vpnvezdehod.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: eb64d6b8-b3ed-48a2-9662-af2c65352215
+    xudp: true
+    servername: hls-svod.itunes.apple.com
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺"
+    network: ws
+    port: 2095
+    server: bm.boulvarmoein.shop
+    tls: true
+    type: vless
+    udp: true
+    uuid: v2rayng_76
+    ws-opts:
+      headers:
+        Host: bm.boulvarmoein.shop
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.110 Safari/537.36
+      path: /Telegram@v2rayng_76=
       early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2056
+      max-early-data: 2560
     xudp: true
-  - name: "\U0001F1FA\U0001F1F8US_3|4.5MB/s|GPT⁺|YT-US|GM"
+    servername: bm.boulvarmoein.shop
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F1FA\U0001F1F8US_9|24.6MB/s"
     network: ws
-    port: 8880
-    server: 104.17.147.22
+    port: 443
+    server: 217.60.248.66
+    tls: true
     type: vless
     udp: true
-    uuid: Parsashonam-Bot-32
+    uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
     ws-opts:
       headers:
-        Host: Fi.Parsashonam.CfD.
+        Host: gaosir.unfeeling.sbs
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/65.0.3325.181 Safari/537.36
-      path: >-
-        /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10
+          (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+      path: "/Telegram\U0001F1E8\U0001F1F3 @WangCai2 /"
       early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2056
+      max-early-data: 2560
     xudp: true
-  - encryption: none
-    name: "\U0001F1E9\U0001F1EADE_2|1.8MB/s|GPT⁺|YT-US|NF|5%"
-    network: ws
-    port: 4040
-    server: cloudcdn3.parsgit.com
-    type: vless
-    udp: true
-    uuid: d9d0c290-d31b-4696-a130-ca1ab549d377
-    ws-opts:
-      headers:
-        Host: webde3.parsgit.com.
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/31.0.1650.57 Safari/537.36
-      path: >-
-        /admin?ed=1024-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-
-    xudp: true
+    servername: gaosir.unfeeling.sbs
 rule-providers:
   private:
     url: >-
