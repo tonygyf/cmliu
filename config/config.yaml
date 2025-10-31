@@ -1,4 +1,4 @@
-concurrent: 100
+concurrent: 50
 check-interval: 120
 timeout: 4000
 min-speed: 1024
@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://github.computerqwq.top/
+github-proxy: https://github.cf.xihale.top/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
@@ -102,4 +102,4 @@ print-progress: false
 sub-urls-retry: 3
 subscheck-version: v1.4.0
 gui-auto: false
-success-limit: 0
+success-limit: 1000
