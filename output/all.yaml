@@ -1,111 +1,16 @@
 proxies:
-    - alterId: 0
-      name: "\U0001F1ED\U0001F1F0HK_1|6.7MB/s|YT-HK|NF|D+|0%"
-      password: adbac894-90b9-4913-b77e-a715a8d4ebc8
-      port: 20021
-      server: oss-cn-shanghai.letssepub.com
+    - name: "\U0001F1F0\U0001F1F7KR_1|2.5MB/s|GPT|YT-KR|NF|D+|GM|16%"
+      password: test.+
+      port: "30446"
+      server: testkr3.ssv.vc
       skip-cert-verify: true
-      sni: dingding-doc.com
       tls: true
-      type: trojan
-      udp: true
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_1|4.2MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: d50337bb-fc99-45ca-bf68-d55a770895f7
-      port: "11112"
-      server: us2.oxdtangx.top
-      skip-cert-verify: true
-      sni: us2.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_2|4.2MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: fd52230e-cb71-4e8b-b6bc-ea940bf6be29
-      port: "11112"
-      server: us2.oxdtangx.top
-      skip-cert-verify: true
-      sni: us2.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_3|1.4MB/s|GPT⁺|NF|GM|45%"
-      obfs: ""
-      obfs-password: ""
-      password: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46
-      port: "41951"
-      server: 192.3.60.176
-      skip-cert-verify: true
-      sni: www.bing.com
-      type: hysteria2
-      up: ""
-    - alterId: 0
-      cipher: auto
-      name: "\U0001F1E9\U0001F1EADE_1|4.3MB/s|GPT⁺|NF"
-      network: tcp
-      port: "2060"
-      server: ksadk/23.korosh.shop
-      skip-cert-verify: false
-      tls: false
-      type: vmess
-      udp: true
-      uuid: 1648bc92-d210-4d17-9174-710231d5b23e
-      xudp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1F8\U0001F1ECSG_1|4.2MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: bca467b8c15211d189008a93c7519d3b
-      port: "2283"
-      server: 117.172.176.24
-      skip-cert-verify: false
-      sni: www.nintendogames.net
-      type: trojan
-      udp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F7\U0001F1FARU_1|4.3MB/s|YT-RU"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: fwyaXZJrcorp1BQM4O2SicK-n15VNO53GWvvFsecbhM
-        short-id: 10f76a02167e9b
-      server: russia22.clearorbitllc.com
-      servername: russia22.clearorbitllc.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5c1bc547-6ed3-4234-873e-966d9eef5d27
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      http-opts:
-        headers: {}
-        path:
-            - /
-      name: "\U0001F1F8\U0001F1E8SC_1|3.0MB/s|GPT⁺|YT-RU|NF|D+|0%"
-      network: tcp
-      port: "993"
-      reality-opts:
-        public-key: GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA
-        short-id: ""
-      server: 155.212.110.2
-      servername: speed.cloudflare.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 40730d97-ffa7-1108-2c53-761516eb5fda
-      xudp: true
+      type: http
+      username: test
     - encryption: none
       grpc-opts:
         grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-      name: "\U0001F1E8\U0001F1FFCZ_1|5.3MB/s|GPT⁺|YT-CZ|NF|0%"
+      name: "\U0001F1E8\U0001F1FFCZ_1|1.8MB/s|GPT|YT-CZ|NF|0%"
       network: grpc
       port: "14337"
       server: 194.182.79.240
@@ -113,358 +18,40 @@ proxies:
       udp: true
       uuid: a0637633-680a-480a-944c-17f4b8345059
       xudp: true
-    - encryption: none
-      name: "\U0001F1E9\U0001F1EADE_2|2.5MB/s|GPT⁺|YT-DE|9%"
-      network: tcp
-      port: "7443"
-      server: 91.107.243.21
-      type: vless
-      udp: true
-      uuid: 83091b1a-2f79-47f7-b305-ff04d666b79c
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1FA\U0001F1F8US_4|2.7MB/s|GPT⁺|YT-US|18%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: 9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns
-        short-id: c7f3cc
-      server: usa32.clearorbitllc.com
-      servername: usa32.clearorbitllc.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 9daf8f3e-089b-4989-9502-dd3d727edb6c
-      xudp: true
-    - auth: f5ec2aee-e158-4ef0-b783-d98742b0020d
-      name: "\U0001F1FA\U0001F1F8US_5|4.8MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: f5ec2aee-e158-4ef0-b783-d98742b0020d
-      port: 11112
-      server: us2.oxdtangx.top
-      skip-cert-verify: true
-      sni: us2.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - auth: 7960b6cc-1c95-11ef-ac7f-f23c91cfbbc9
-      name: "\U0001F1FA\U0001F1F8US_6|4.2MB/s|GPT⁺|YT-US|NF|36%"
-      password: 7960b6cc-1c95-11ef-ac7f-f23c91cfbbc9
-      port: 443
-      ports: 30000-60000
-      server: 8754186e-t53wg0-t5ixb5-1rk0x.us.hyhuawei.com
-      type: hysteria2
-      udp: true
-    - auth: d9129051-53d7-4eb4-b4cd-ebb9aaeffe08
-      name: "\U0001F1FA\U0001F1F8US_7|4.0MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: d9129051-53d7-4eb4-b4cd-ebb9aaeffe08
-      port: 11112
-      server: hg1.oxdtangx.top
-      skip-cert-verify: true
-      sni: hg1.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - auth: 2bf56837-998b-4e2d-a801-c16fd8e86be1
-      name: "\U0001F1FA\U0001F1F8US_8|4.3MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: 2bf56837-998b-4e2d-a801-c16fd8e86be1
-      port: 11112
-      server: hg1.oxdtangx.top
-      skip-cert-verify: true
-      sni: hg1.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - auth: 5c5968a6-94d0-4178-a4bd-d7820841a543
-      name: "\U0001F1FA\U0001F1F8US_9|3.2MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: 5c5968a6-94d0-4178-a4bd-d7820841a543
-      port: 11112
-      server: xjp1.oxdtangx.top
-      skip-cert-verify: true
-      sni: xjp1.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - auth: 0de37cdc-abff-11ef-b7c6-f23c913c8d2b
-      name: "\U0001F1FA\U0001F1F8US_10|3.9MB/s|GPT⁺|YT-US|NF|36%"
-      password: 0de37cdc-abff-11ef-b7c6-f23c913c8d2b
-      port: 443
-      ports: 30000-60000
-      server: 339654a4-t53wg0-t80oqd-1rsuw.us.hyhuawei.com
-      type: hysteria2
-      udp: true
-    - auth: 520b9126-9870-11ef-81b0-f23c9164ca5d
-      name: "\U0001F1FA\U0001F1F8US_11|3.5MB/s|GPT⁺|YT-US|NF|36%"
-      password: 520b9126-9870-11ef-81b0-f23c9164ca5d
-      port: 443
-      ports: 30000-60000
-      server: ec56b5ba-t53wg0-t95ncr-1slop.us.hyhuawei.com
-      type: hysteria2
-      udp: true
-    - auth: 409843f5-3e2b-4e24-8d41-5d5dde496420
-      name: "\U0001F1FA\U0001F1F8US_12|3.2MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: 409843f5-3e2b-4e24-8d41-5d5dde496420
-      port: 11112
-      server: xjp1.oxdtangx.top
-      skip-cert-verify: true
-      sni: xjp1.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - auth: af411408-cefc-4b33-b7b6-ef43fe944001
-      name: "\U0001F1FA\U0001F1F8US_13|3.2MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: af411408-cefc-4b33-b7b6-ef43fe944001
-      port: 11112
-      server: us2.oxdtangx.top
-      skip-cert-verify: true
-      sni: us2.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - auth: 28213b50-7ed5-11ee-add6-f23c91369f2d
-      name: "\U0001F1FA\U0001F1F8US_14|3.7MB/s|GPT⁺|YT-US|NF|36%"
-      password: 28213b50-7ed5-11ee-add6-f23c91369f2d
-      port: 443
-      ports: 30000-60000
-      server: dc4b7eab-t53wg0-t7hmka-1plv4.us.hyhuawei.com
-      type: hysteria2
-      udp: true
-    - auth: d9129051-53d7-4eb4-b4cd-ebb9aaeffe08
-      name: "\U0001F1FA\U0001F1F8US_15|3.0MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: d9129051-53d7-4eb4-b4cd-ebb9aaeffe08
-      port: 11112
-      server: us2.oxdtangx.top
-      skip-cert-verify: true
-      sni: us2.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - auth: 21b25680-a408-4fb3-916c-e8d0b9e2983f
-      name: "\U0001F1FA\U0001F1F8US_16|2.6MB/s|GPT⁺|YT-US|NF|D+|GM|49%"
-      password: 21b25680-a408-4fb3-916c-e8d0b9e2983f
-      port: 11112
-      server: yg1.oxdtangx.top
-      skip-cert-verify: true
-      sni: yg1.oxdtangx.top
-      type: hysteria2
-      udp: true
-    - alpn:
-        - h3
-      auth-str: dongtaiwang.com
-      auth_str: dongtaiwang.com
-      country: "\U0001F1EB\U0001F1F7FR"
-      delay: 1968
-      down: "55"
-      name: "\U0001F1F3\U0001F1F1NL_1|3.6MB/s|GPT⁺"
-      port: 49003
-      protocol: udp
-      server: 51.159.226.1
-      skip-cert-verify: true
-      sni: apple.com
-      type: hysteria
-      udp: true
-      up: "11"
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1FA\U0001F1F8US_17|1.9MB/s|GPT⁺|YT-US|NF|GM|80%"
-      network: tcp
-      port: "993"
-      reality-opts:
-        public-key: wcgZB6t2VBnMQf55huXkibGw4RPL6WqXPfcZxhJ8Qms
-        short-id: ""
-      server: 45.159.23.10
-      servername: speed.cloudflare.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 40730d97-ffa7-1108-2c53-761516eb5fda
-      xudp: true
-    - client-fingerprint: firefox
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F9\U0001F1F7TR_1|3.8MB/s|GPT"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: OBKACuWea1rLl-_caAlsIu_V40AGwisGpq84qQwWRks
-        short-id: a26808
-      server: turkey8.yourbot.me
-      servername: ftp.debian.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 041b0e57-d4f6-4332-8296-a06a046241fc
-      xudp: true
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_18|3.1MB/s|GPT⁺|YT-US|NF|GM|31%"
-      obfs: ""
-      obfs-password: ""
-      password: d50337bb-fc99-45ca-bf68-d55a770895f7
-      port: "11112"
-      server: tw1.oxdtangx.top
-      skip-cert-verify: true
-      sni: tw1.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_19|2.4MB/s|GPT⁺|YT-US|NF|GM|31%"
-      obfs: ""
-      obfs-password: ""
-      password: ebfb57a9-caf0-425a-9240-9bdc92a7e1f2
-      port: "11112"
-      server: tw1.oxdtangx.top
-      skip-cert-verify: true
-      sni: tw1.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_20|2.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 8a342ee4-26a5-4014-a7ad-1d14cdd4ef39
-      port: "11112"
-      server: us1.oxdtangx.top
-      skip-cert-verify: true
-      sni: us1.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_21|2.4MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 34589107-af36-4e17-8f5e-b203aa2ba6bc
-      port: "11112"
-      server: xjp1.oxdtangx.top
-      skip-cert-verify: true
-      sni: xjp1.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_22|2.9MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: ebfb57a9-caf0-425a-9240-9bdc92a7e1f2
-      port: "11112"
-      server: tw2.oxdtangx.top
-      skip-cert-verify: true
-      sni: tw2.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_23|2.7MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: d50337bb-fc99-45ca-bf68-d55a770895f7
-      port: "11112"
-      server: xjp1.oxdtangx.top
-      skip-cert-verify: true
-      sni: xjp1.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_24|1.0MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: af11025c-d7ee-4a90-9448-73d3f50cdbd6
-      port: "11112"
-      server: us1.oxdtangx.top
-      skip-cert-verify: true
-      sni: us1.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_25|2.7MB/s|GPT⁺|YT-CN|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 909727d6-c919-48a0-b428-44ce368bd7de
-      port: "11112"
-      server: us2.oxdtangx.top
-      skip-cert-verify: true
-      sni: us2.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_26|1.1MB/s|GPT⁺|YT-US|NF|D+|GM|49%"
-      obfs: ""
-      obfs-password: ""
-      password: 70f44486-cda5-4750-9bf5-ca8826ee9bcc
-      port: "11112"
-      server: yg1.oxdtangx.top
-      skip-cert-verify: true
-      sni: yg1.oxdtangx.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_27|1.6MB/s|GPT⁺|YT-US|NF|D+|GM|49%"
-      obfs: ""
-      obfs-password: ""
-      password: 409843f5-3e2b-4e24-8d41-5d5dde496420
-      port: "11112"
-      server: yg1.oxdtangx.top
-      skip-cert-verify: true
-      sni: yg1.oxdtangx.top
-      type: hysteria2
-      up: ""
     - cipher: aes-256-cfb
-      name: "\U0001F1E9\U0001F1EADE_3|3.9MB/s|GPT⁺"
+      name: "\U0001F1EC\U0001F1E7GB_1|1.7MB/s|GPT⁺|NF"
       password: amazonskr05
       port: 443
-      server: 3.127.136.134
+      server: 18.133.78.96
       type: ss
-    - cipher: aes-256-cfb
-      name: ❓Other_1|3.7MB/s|GPT⁺
-      password: amazonskr05
+    - auth: de003c72-0157-11ef-86da-f23c91cfbbc9
+      name: "\U0001F1FA\U0001F1F8US_1|1.0MB/s|GPT⁺|YT-US|NF|36%"
+      password: de003c72-0157-11ef-86da-f23c91cfbbc9
       port: 443
-      server: 35.176.123.151
-      type: ss
-    - cipher: aes-256-cfb
-      name: ❓Other_2|3.1MB/s|GPT
-      password: amazonskr05
-      port: 443
-      server: 18.188.211.45
-      type: ss
-    - cipher: aes-256-cfb
-      name: ❓Other_3|2.4MB/s
-      password: amazonskr05
-      port: 443
-      server: 18.188.227.100
-      type: ss
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1EC\U0001F1F7GR_1|3.0MB/s|GPT|YT-RU|NF|7%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE
-        short-id: 08aa0813199a4c38
-      server: gr.monkeyisland.life
-      servername: gr.monkeyisland.life
-      tls: true
-      type: vless
+      ports: 30000-60000
+      server: 925cf0b0-t57ls0-tm3dx0-1r9dt.us.hyhuawei.com
+      type: hysteria2
       udp: true
-      uuid: 74c0af7c-8482-4b4e-b067-ea456a80cdb7
-      xudp: true
-    - alpn:
-        - h2
-      client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F1\U0001F1F9LT_1|3.4MB/s|GPT⁺|YT-RU|NF|47%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw
-        short-id: ""
-      server: 88.119.168.31
-      servername: msn.com
-      tls: true
-      type: vless
+    - auth: 1cce7df2-251c-11ee-9409-f23c9164ca5d
+      name: "\U0001F1FA\U0001F1F8US_2|2.2MB/s|GPT⁺|YT-US|NF|36%"
+      password: 1cce7df2-251c-11ee-9409-f23c9164ca5d
+      port: 443
+      ports: 30000-60000
+      server: 07e093ab-t59gg0-taz53d-1j0y6.us.hyhuawei.com
+      type: hysteria2
       udp: true
-      uuid: 548269f8-eda0-4fa6-9810-683d58a060e5
-      xudp: true
+    - alterId: 2
+      cipher: auto
+      name: "\U0001F1ED\U0001F1F0HK_1|1.3MB/s|GPT|YT-HK|3%"
+      network: ws
+      port: 80
+      server: 659ce73e-sv2sg0-tcsjnd-1tff5.hk3.p5pv.com
+      servername: broadcastlv.chat.bilibili.com
+      skip-cert-verify: false
+      tls: false
+      type: vmess
+      uuid: dfb6b402-f422-11ef-80e5-f23c9164ca5d
+      ws-opts:
+        headers:
+            Host: 659ce73e-sv2sg0-tcsjnd-1tff5.hk3.p5pv.com
+        path: /
