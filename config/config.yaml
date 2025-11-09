@@ -3,7 +3,7 @@ check-interval: 120
 timeout: 4000
 min-speed: 1024
 download-timeout: 10
-speed-test-url: https://fast.com
+speed-test-url: https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v2.21.12/Waifu2x-Extension-GUI-v2.21.12-Portable.7z
 save-method: local
 github-gist-id: ''
 github-token: ''
@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://ghp.vatery.com/
+github-proxy: https://git.1999111.xyz/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
