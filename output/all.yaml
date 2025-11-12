@@ -1,239 +1,109 @@
 proxies:
     - client-fingerprint: chrome
-      name: "\U0001F1FA\U0001F1F8US_1|5.9MB/s|GPT⁺|YT-US|NF|GM"
+      name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|28%"
       password: BxceQaOe
-      port: "38799"
-      server: 36.151.251.38
+      port: "2173"
+      server: 116.49.237.130
       skip-cert-verify: true
       sni: t.me/ripaojiedian
       type: trojan
       udp: true
     - client-fingerprint: chrome
-      encryption: none
       flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_1|2.7MB/s|GPT⁺|YT-AT|NF|D+|0%"
+      name: "\U0001F1E8\U0001F1E6CA_1|24.6MB/s|GPT|GM|4%"
       network: tcp
-      port: "10922"
+      port: "26113"
       reality-opts:
-        public-key: BWGB4WcFMvsxbu7rfyGTqVSWVlxNUz0HbmotfvlXuxg
-        short-id: d2900d
-      server: magnataur.fonixapp.org
-      servername: ilovepdf.com
+        public-key: GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng
+        short-id: 1fbd20fd
+      server: 40.233.115.121
+      servername: www.yahoo.com
       tls: true
       type: vless
       udp: true
-      uuid: 31d35cbe-92d1-44cd-9991-e58d00499fb2
+      uuid: cfe032e4-1bc3-454f-9d09-301b0aea08ff
       xudp: true
     - client-fingerprint: chrome
       encryption: none
       flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_2|2.6MB/s|GPT⁺|YT-AT|NF|D+|6%"
+      name: "\U0001F1F0\U0001F1FFKZ_1|24.6MB/s|GPT⁺|5%"
       network: tcp
-      port: "26143"
+      port: "10012"
       reality-opts:
-        public-key: ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI
-        short-id: 0d
-      server: bloodseeker.fonixapp.org
-      servername: steampowered.com
+        public-key: X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk
+        short-id: abc82912
+      server: cdn.cloudconvert.top
+      servername: cdn.cloudconvert.top
       tls: true
       type: vless
       udp: true
-      uuid: 2360d5e9-5503-4e6d-9e4a-fe5fb25c38fa
+      uuid: 258a5f07-d07e-4de4-90b6-69a0ca34bab7
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_3|1.5MB/s|GPT⁺|YT-AT|NF|D+|6%"
-      network: tcp
-      port: "50151"
-      reality-opts:
-        public-key: 4U5Q1I9IVS4086blx7Zgo7tnq2-B5V1ARtpNinTcjHY
-        short-id: de1e92
-      server: shadowshaman.fonixapp.org
-      servername: steampowered.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 840ae376-483b-48d5-bc49-22b0769b5860
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E9\U0001F1EADE_1|1.8MB/s|GPT⁺|YT-DE|NF|D+|16%"
-      network: tcp
-      port: "39352"
-      reality-opts:
-        public-key: bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns
-        short-id: 8f
-      server: traxex.fonixapp.org
-      servername: lowes.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 84ac6559-30a8-4c3e-bbcb-894edd4de743
-      xudp: true
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_2|1.5MB/s|GPT⁺|YT-CN|NF|D+|100%"
-      obfs: ""
-      obfs-password: ""
-      password: cb556454-e759-4059-b125-793cee513cc5
-      port: "58338"
-      server: lsus5.lansecs.top
-      skip-cert-verify: true
-      sni: lsus5.lansecs.top
-      type: hysteria2
-      up: ""
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1EB\U0001F1EEFI_1|1.7MB/s|GPT⁺|YT-US|NF|D+|43%"
-      network: tcp
-      port: "23747"
-      reality-opts:
-        public-key: u7gBBaokHefxp8JS3G_Nu1X5y6Rh5SsRBrVC1L-4ySY
-        short-id: b7
-      server: helsinki.fonixapp.org
-      servername: lowes.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 38ced162-2eb3-4aee-998f-747961f02c01
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_4|3.0MB/s|GPT⁺|YT-AT|NF|D+|6%"
-      network: tcp
-      port: "37876"
-      reality-opts:
-        public-key: ldoGIafEPJu2W4gODAoLjobXOOe9NKb-110WCz1-EwM
-        short-id: 907e
-      server: antimage.fonixapp.org
-      servername: yelp.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 29397c5b-be3b-41d9-8a49-21575668e915
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1EB\U0001F1EEFI_2|2.5MB/s|GPT⁺|YT-DE|NF|26%"
-      network: tcp
-      port: "36534"
-      reality-opts:
-        public-key: Vq0bh06jdIg-3eyAjHfA8_RZKT9C-a9IbqRqzayWl28
-        short-id: 41f255
-      server: lifestealer.fonixapp.org
-      servername: asos.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 28a6787d-b076-4c7a-be0c-772f5990a25d
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_5|2.8MB/s|GPT⁺|NF|D+|0%"
-      network: tcp
-      port: "54226"
-      reality-opts:
-        public-key: Mhw0szMuy7R0U89Vm0bf-hF0DQ5pEWYdgdPF6UWLRXY
-        short-id: 49eb
-      server: dwarvensniper.fonixapp.org
-      servername: yelp.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 2c649958-a029-431a-920b-94e87ccbc715
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1EB\U0001F1EEFI_3|4.2MB/s|GPT⁺|NF|26%"
-      network: tcp
-      port: "37843"
-      reality-opts:
-        public-key: _i2_awg5k15giouaYv4HqMGsbUC7OuY5YAU2CZVBpE8
-        short-id: 5e
-      server: necrolyte.fonixapp.org
-      servername: ilovepdf.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 3c4486a2-68af-4fa9-80f9-7f2e0387871d
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_6|3.8MB/s|GPT⁺|YT-US|NF|D+|0%"
-      network: tcp
-      port: "47072"
-      reality-opts:
-        public-key: 5-GF4dwBQeyOgXR7OPMEHlXd47odGu1r8ukE-0Prd0o
-        short-id: e39212f3
-      server: huskar.fonixapp.org
-      servername: yelp.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 6e6cc44d-2ced-49a2-a7f1-e879847c1c57
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1FA\U0001F1F8US_3|2.8MB/s|GPT⁺|NF|GM|29%"
-      network: tcp
+      name: "\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|NF|D+|4%"
+      network: ws
       port: "443"
-      reality-opts:
-        public-key: g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k
-        short-id: f529bb49dc4de6
-      server: 104.167.199.50
-      servername: bit-site.ru
+      server: 77.221.157.32
+      servername: kuangbao.xiejiang.site
       tls: true
       type: vless
       udp: true
-      uuid: b25e3c62-f4eb-45df-adda-eb738959b845
-      xudp: true
-    - encryption: none
-      name: "\U0001F1E9\U0001F1EADE_2|6.2MB/s|GPT⁺|YT-DE|NF|D+|0%"
-      network: tcp
-      port: "47387"
-      server: 198.186.131.216
-      type: vless
-      udp: true
-      uuid: cdc453bb-34c8-4405-a322-56f6878ccd40
+      uuid: 470df3e9-ff22-485b-94b3-7ad10ef5372a
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.site
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+        path: /?ed=2560
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_7|1.4MB/s|GPT⁺|YT-AT|NF|D+|6%"
-      network: tcp
-      port: "20220"
-      reality-opts:
-        public-key: KSW4e1R98qljwxyP6YaRrwGF4Rp_8hfXQaaShYUXwSc
-        short-id: d91671
-      server: butcher.fonixapp.org
-      servername: cloudtalk.io
+      name: "\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT|YT-NL|NF|D+|4%"
+      network: ws
+      port: "2053"
+      server: 90.156.228.74
+      servername: kuangbao.xiejiang.site
       tls: true
       type: vless
       udp: true
-      uuid: cac59dc2-e5a9-44f0-88da-e56ba06eac15
+      uuid: 470df3e9-ff22-485b-94b3-7ad10ef5372a
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.site
+            User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+        path: /?ed=2560
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F8\U0001F1ECSG_1|3.8MB/s|GPT⁺|YT-GB|NF"
-      network: tcp
-      port: "58604"
-      reality-opts:
-        public-key: ZR7zKH8el4lbbty4_54z4XWV8BRvTup86v977iM_DUw
-        short-id: "12"
-      server: abaddon.fonixapp.org
-      servername: study.com
+      name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|D+|4%"
+      network: ws
+      port: "443"
+      server: 193.124.41.29
+      servername: kuangbao.xiejiang.site
       tls: true
       type: vless
       udp: true
-      uuid: db666837-aa7c-4cc9-9070-7cd3564225a0
+      uuid: 470df3e9-ff22-485b-94b3-7ad10ef5372a
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.site
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT"
+      network: ws
+      port: "443"
+      server: 94.142.255.97
+      servername: kuangbao.xiejiang.site
+      tls: true
+      type: vless
+      udp: true
+      uuid: 470df3e9-ff22-485b-94b3-7ad10ef5372a
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.site
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+        path: /?ed=2560
       xudp: true
