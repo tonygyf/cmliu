@@ -1,178 +1,146 @@
 proxies:
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1FA\U0001F1F8US_1|3.7MB/s|GPT⁺|YT-US|NF|D+|0%"
+      obfs: ""
+      obfs-password: ""
+      password: 6cb8a5dc-6e80-4fe1-8d4b-22618dca4746
+      port: "58330"
+      server: mla6.maliaojc.top
+      skip-cert-verify: true
+      sni: mla6.maliaojc.top
+      type: hysteria2
+      up: ""
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1FA\U0001F1F8US_2|3.8MB/s|GPT⁺|YT-US|NF|D+|0%"
+      obfs: ""
+      obfs-password: ""
+      password: 85fe11e4-d264-46a9-94a8-b2c088f806df
+      port: "58330"
+      server: mla6.maliaojc.top
+      skip-cert-verify: true
+      sni: mla6.maliaojc.top
+      type: hysteria2
+      up: ""
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1FA\U0001F1F8US_3|3.1MB/s|GPT⁺|YT-US|NF|0%"
+      obfs: ""
+      obfs-password: ""
+      password: af92850b-d476-42f7-912d-508c7144c794
+      port: "58330"
+      server: mla6.maliaojc.top
+      skip-cert-verify: true
+      sni: mla6.maliaojc.top
+      type: hysteria2
+      up: ""
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1FA\U0001F1F8US_4|3.0MB/s|GPT⁺|YT-US|NF|0%"
+      obfs: ""
+      obfs-password: ""
+      password: 547130ae-688f-42ac-aa6a-7c95e00d3894
+      port: "58330"
+      server: mla6.maliaojc.top
+      skip-cert-verify: true
+      sni: mla6.maliaojc.top
+      type: hysteria2
+      up: ""
     - cipher: aes-256-cfb
-      name: "\U0001F1F0\U0001F1F7KR_1|24.6MB/s|GPT⁺|YT-CN|NF|D+|0%"
-      password: qwerREWQ@@
-      port: "37008"
-      server: 221.139.79.57
+      name: "\U0001F1EC\U0001F1E7GB_1|4.4MB/s|GPT|YT-GB|NF|12%"
+      password: amazonskr05
+      port: "443"
+      server: 18.130.251.29
       type: ss
       udp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1ED\U0001F1F0HK_1|24.6MB/s|YT-CN|NF|D+|2%"
-      password: BxceQaOe
-      port: "443"
-      server: 219.77.239.35
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1E7\U0001F1F7BR_1|3.4MB/s|GPT⁺|YT-BR|NF|GM|4%"
+      obfs: ""
+      obfs-password: ""
+      password: 338ce171-d764-4610-8fd5-6688b0d321f0
+      port: "30102"
+      server: 132.226.162.10
       skip-cert-verify: true
-      sni: t.me/ripaojiedian
+      sni: ""
+      type: hysteria2
+      up: ""
+    - client-fingerprint: chrome
+      name: "\U0001F1F1\U0001F1FBLV_1|1.4MB/s|GPT⁺|NF|0%"
+      network: ws
+      password: -4146XJHYAzJ4K8Ov6_LBQ
+      port: "11000"
+      server: lv.podpiska.vip
+      skip-cert-verify: false
+      sni: noproblemvpn.ru
       type: trojan
       udp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1ED\U0001F1F0HK_2|24.6MB/s|YT-CN|NF|D+|3%"
-      password: BxceQaOe
-      port: "443"
-      server: 58.152.46.98
-      skip-cert-verify: true
-      type: trojan
-      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+        path: /tw
     - client-fingerprint: chrome
       encryption: none
       flow: xtls-rprx-vision
-      name: "\U0001F1F0\U0001F1FFKZ_1|24.6MB/s|GPT⁺|NF|5%"
+      name: "\U0001F1FA\U0001F1F8US_5|1.1MB/s|GPT⁺|YT-PL|NF|0%"
       network: tcp
-      port: "10012"
+      port: "443"
       reality-opts:
-        public-key: X8bSZA_Q-ReshpPEd17oMU7YfZlHWoOEGB7HM8ZSmXk
-        short-id: abc82912
-      server: cdn.cloudconvert.top
-      servername: cdn.cloudconvert.top
+        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
+        short-id: 4c02bbbfa833b3b6
+      server: autos.jykvpn.com
+      servername: cdnjs.com
       tls: true
       type: vless
       udp: true
-      uuid: 258a5f07-d07e-4de4-90b6-69a0ca34bab7
-      xudp: true
-    - name: "\U0001F1F0\U0001F1F7KR_2|24.6MB/s|GPT⁺|YT-KR|NF|D+|GM|12%"
-      password: test.+
-      port: "30446"
-      server: testkr3.ssv.vc
-      skip-cert-verify: true
-      tls: true
-      type: http
-      username: test
-    - client-fingerprint: chrome
-      name: "\U0001F1ED\U0001F1F0HK_3|24.6MB/s|YT-CN|NF|D+|3%"
-      password: BxceQaOe
-      port: "443"
-      server: 203.198.122.97
-      skip-cert-verify: true
-      sni: t.me/ripaojiedian
-      type: trojan
-      udp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1ED\U0001F1F0HK_4|24.6MB/s|YT-HK|D+|2%"
-      password: 2274c52572e721086f8bd8f88984643c
-      port: "443"
-      server: 58.152.110.9
-      skip-cert-verify: false
-      sni: www.nintendogames.net
-      type: trojan
-      udp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1F3\U0001F1F1NL_1|24.6MB/s|D+"
-      network: ws
-      password: c2d6a850-7e35-44f5-ab9f-8299f6f8c72b
-      port: "443"
-      server: 194.147.115.149
-      skip-cert-verify: false
-      sni: joss.dus.biz.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
-        path: /Free-VPN-CF-Geo-Project/194.147.115.149=443
-    - client-fingerprint: chrome
-      name: "\U0001F1EC\U0001F1E7GB_1|24.6MB/s|GPT"
-      network: ws
-      password: 6b5b50ff-7798-40dc-9888-b4dd581e5435
-      port: "44004"
-      server: 51.89.128.93
-      skip-cert-verify: false
-      sni: joss.dus.biz.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-G570M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
-        path: /Free-VPN-CF-Geo-Project/51.89.128.93=44004
-    - client-fingerprint: chrome
-      name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s"
-      network: ws
-      password: 0c7edd8f-96d8-4227-b086-1ffc3aeecc96
-      port: "8443"
-      server: 193.233.115.79
-      skip-cert-verify: false
-      sni: joss.dus.biz.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
-        path: /Free-VPN-CF-Geo-Project/193.233.115.79=8443
-    - encryption: none
-      grpc-opts:
-        grpc-service-name: '@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast'
-      name: "\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|0%"
-      network: grpc
-      port: "2718"
-      server: v2ngfast.heloisfood.ir
-      type: vless
-      udp: true
-      uuid: 8df2b423-d068-4ebd-aff0-e0d14e2423ce
+      uuid: 56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1
       xudp: true
     - client-fingerprint: chrome
       encryption: none
       flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_1|24.6MB/s|GPT⁺|D+|0%"
+      name: "\U0001F1FA\U0001F1F8US_6|1.9MB/s|GPT⁺|YT-FI|NF|0%"
       network: tcp
-      port: "20579"
+      port: "443"
       reality-opts:
-        public-key: mT6lh-gtbEuWk3Zk6XGF_hYvpLwxTyvwtH7F-_fRbxI
-        short-id: 89f1da93
-      server: 152.53.84.101
-      servername: ilovepdf.com
+        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
+        short-id: 4c02bbbfa833b3b6
+      server: fis.jykvpn.com
+      servername: cdnjs.com
       tls: true
       type: vless
       udp: true
-      uuid: 93cd7e0f-8a81-4076-be8b-6d3bf3f8f810
+      uuid: 56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1
       xudp: true
     - client-fingerprint: chrome
-      name: ❓Other_1|24.6MB/s|NF|D+
-      network: ws
-      password: 55d19115-ec40-407b-a674-74e6a948347a
-      port: "2053"
-      server: 45.144.48.55
-      skip-cert-verify: false
-      sni: joss.dus.biz.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
-        path: /Free-VPN-CF-Geo-Project/45.144.48.55=2053
-    - encryption: none
-      name: "\U0001F1EB\U0001F1EEFI_1|24.6MB/s|GPT⁺"
-      network: ws
-      port: "8080"
-      server: 104.17.147.22
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "\U0001F1F7\U0001F1FARU_1|1.4MB/s|YT-RU"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
+        short-id: 4c02bbbfa833b3b6
+      server: youtube.jykvpn.com
+      servername: cdnjs.com
+      tls: true
       type: vless
       udp: true
-      uuid: Parsashonam-Bot-36
-      ws-opts:
-        headers:
-            Host: Fi.Parsashonam.CfD.
-            User-Agent: Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
-        path: /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056
+      uuid: 56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1
       xudp: true
-    - encryption: none
-      name: ❓Other_2|24.6MB/s|GPT⁺|NF
-      network: ws
-      port: "17627"
-      server: 91.107.152.112
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "\U0001F1F3\U0001F1F1NL_1|1.7MB/s|GPT⁺|YT-NL|NF|14%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: Tk7r4Scoti1f1Zc81x0VWJD9VB9FcTbTHUR3oyiGQV4
+        short-id: 210f698ddd200c86
+      server: 91.84.107.88
+      servername: www.m.vk.ru
+      tls: true
       type: vless
       udp: true
-      uuid: 2383929d-77ac-445f-a7cc-1c32edd982a5
-      ws-opts:
-        headers:
-            Host: ""
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
-        path: /@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----@armanstore2--Telegram----
+      uuid: 62744573-ca28-4bae-bf8e-b5915048b7af
       xudp: true
