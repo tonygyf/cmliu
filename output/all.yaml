@@ -1,146 +1,78 @@
 proxies:
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_1|3.7MB/s|GPT⁺|YT-US|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 6cb8a5dc-6e80-4fe1-8d4b-22618dca4746
-      port: "58330"
-      server: mla6.maliaojc.top
-      skip-cert-verify: true
-      sni: mla6.maliaojc.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_2|3.8MB/s|GPT⁺|YT-US|NF|D+|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 85fe11e4-d264-46a9-94a8-b2c088f806df
-      port: "58330"
-      server: mla6.maliaojc.top
-      skip-cert-verify: true
-      sni: mla6.maliaojc.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_3|3.1MB/s|GPT⁺|YT-US|NF|0%"
-      obfs: ""
-      obfs-password: ""
-      password: af92850b-d476-42f7-912d-508c7144c794
-      port: "58330"
-      server: mla6.maliaojc.top
-      skip-cert-verify: true
-      sni: mla6.maliaojc.top
-      type: hysteria2
-      up: ""
-    - down: ""
-      fingerprint: ""
-      name: "\U0001F1FA\U0001F1F8US_4|3.0MB/s|GPT⁺|YT-US|NF|0%"
-      obfs: ""
-      obfs-password: ""
-      password: 547130ae-688f-42ac-aa6a-7c95e00d3894
-      port: "58330"
-      server: mla6.maliaojc.top
-      skip-cert-verify: true
-      sni: mla6.maliaojc.top
-      type: hysteria2
-      up: ""
+    - encryption: none
+      name: "\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|NF|10%"
+      network: ws
+      port: "2082"
+      server: www.speedtest.net
+      type: vless
+      udp: true
+      uuid: 14b62c5a-eb1b-4352-edf6-4dc0ef7483b6
+      ws-opts:
+        headers:
+            Host: novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+        path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082
+      xudp: true
     - cipher: aes-256-cfb
-      name: "\U0001F1EC\U0001F1E7GB_1|4.4MB/s|GPT|YT-GB|NF|12%"
-      password: amazonskr05
-      port: "443"
-      server: 18.130.251.29
+      name: "\U0001F1FB\U0001F1F3VN_1|24.6MB/s|GPT⁺"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: "38388"
+      server: 103.186.154.189
+      type: ss
+      udp: true
+    - cipher: aes-256-cfb
+      name: "\U0001F1FB\U0001F1F3VN_2|24.6MB/s|GPT⁺|YT-US"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: "38388"
+      server: 103.186.154.237
+      type: ss
+      udp: true
+    - cipher: aes-256-cfb
+      name: "\U0001F1FB\U0001F1F3VN_3|24.6MB/s|GPT⁺"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: "38388"
+      server: 103.186.155.22
+      type: ss
+      udp: true
+    - cipher: aes-256-cfb
+      name: "\U0001F1FB\U0001F1F3VN_4|24.6MB/s|GPT⁺"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: "38388"
+      server: 103.186.154.225
+      type: ss
+      udp: true
+    - cipher: aes-256-cfb
+      name: "\U0001F1F2\U0001F1E9MD_1|24.6MB/s|GPT⁺"
+      password: f8f7aCzcPKbsF8p3
+      port: "989"
+      server: 185.153.197.5
       type: ss
       udp: true
     - down: ""
       fingerprint: ""
-      name: "\U0001F1E7\U0001F1F7BR_1|3.4MB/s|GPT⁺|YT-BR|NF|GM|4%"
+      name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT|54%"
       obfs: ""
       obfs-password: ""
       password: 338ce171-d764-4610-8fd5-6688b0d321f0
       port: "30102"
-      server: 132.226.162.10
+      server: 51.81.223.22
       skip-cert-verify: true
       sni: ""
       type: hysteria2
       up: ""
-    - client-fingerprint: chrome
-      name: "\U0001F1F1\U0001F1FBLV_1|1.4MB/s|GPT⁺|NF|0%"
+    - alterId: "2"
+      cipher: auto
+      name: "\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT"
       network: ws
-      password: -4146XJHYAzJ4K8Ov6_LBQ
-      port: "11000"
-      server: lv.podpiska.vip
+      port: "30830"
+      server: v30.heduian.link
       skip-cert-verify: false
-      sni: noproblemvpn.ru
-      type: trojan
+      tls: false
+      type: vmess
       udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
       ws-opts:
         headers:
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
-        path: /tw
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1FA\U0001F1F8US_5|1.1MB/s|GPT⁺|YT-PL|NF|0%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
-        short-id: 4c02bbbfa833b3b6
-      server: autos.jykvpn.com
-      servername: cdnjs.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1FA\U0001F1F8US_6|1.9MB/s|GPT⁺|YT-FI|NF|0%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
-        short-id: 4c02bbbfa833b3b6
-      server: fis.jykvpn.com
-      servername: cdnjs.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F7\U0001F1FARU_1|1.4MB/s|YT-RU"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw
-        short-id: 4c02bbbfa833b3b6
-      server: youtube.jykvpn.com
-      servername: cdnjs.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F3\U0001F1F1NL_1|1.7MB/s|GPT⁺|YT-NL|NF|14%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: Tk7r4Scoti1f1Zc81x0VWJD9VB9FcTbTHUR3oyiGQV4
-        short-id: 210f698ddd200c86
-      server: 91.84.107.88
-      servername: www.m.vk.ru
-      tls: true
-      type: vless
-      udp: true
-      uuid: 62744573-ca28-4bae-bf8e-b5915048b7af
+            Host: ocbc.com
+        path: /oooo
       xudp: true
