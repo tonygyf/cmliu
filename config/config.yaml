@@ -1,6 +1,6 @@
 concurrent: 80
 check-interval: 120
-timeout: 4000
+timeout: 5000
 min-speed: 1024
 download-timeout: 10
 speed-test-url: https://fast.com
@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://vps.pansen626.com/
+github-proxy: https://github.ylyhtools.top/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
@@ -29,7 +29,7 @@ sub-urls:
   - https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
   - https://gh-proxy.com/https://github.com/tonygyf/v2ray/blob/main/v.txt
   - https://d.zrfme.com/vless-base64
-  - https://ghp.ci/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+  - https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 mihomo-overwrite-url: http://127.0.0.1:8199/bdg.yaml
 rename-node: true
 media-check: true
