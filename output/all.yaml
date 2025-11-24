@@ -1,19 +1,9 @@
 proxies:
-    - client-fingerprint: chrome
-      name: "\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT⁺|YT-SG|NF|7%"
-      network: tcp
-      password: Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS
-      port: "5223"
-      server: kr3.t.sgateway.link
-      skip-cert-verify: false
-      sni: pod-kr-z1.psusercontent.com
-      type: trojan
-      udp: true
     - alpn:
         - ""
       alterId: "0"
       cipher: auto
-      name: "\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-US|NF|0%"
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-US|NF|0%"
       network: tcp
       port: "180"
       server: 82.198.246.97
@@ -24,240 +14,37 @@ proxies:
       uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
       xudp: true
     - client-fingerprint: chrome
-      name: "\U0001F1F8\U0001F1ECSG_2|1.2MB/s|GPT⁺|YT-CN|NF|7%"
-      network: tcp
-      password: Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS
-      port: "5223"
-      server: psg2-ag.t.sgateway.link
-      skip-cert-verify: false
-      sni: pod-kr-g1.psusercontent.com
-      type: trojan
-      udp: true
-    - client-fingerprint: chrome
       encryption: none
       flow: xtls-rprx-vision
-      name: "\U0001F1E9\U0001F1EADE_1|3.1MB/s|GPT⁺|YT-RU|NF|D+|0%"
+      http-opts:
+        headers: {}
+        path:
+            - /
+      name: "@github tonygyf\U0001F1F7\U0001F1FARU_1|24.6MB/s|YT-US"
       network: tcp
-      port: "8443"
-      reality-opts:
-        public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-        short-id: 6ba85179e30d4fc2
-      server: de2.srv.oplcdn.link
-      servername: ign.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: d42c146e-2ded-4b4a-8592-6459ac636910
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F3\U0001F1F1NL_1|8.2MB/s|GPT⁺|YT-US|NF|GM|100%"
-      network: tcp
-      port: "8443"
-      reality-opts:
-        public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-        short-id: 6ba85179e30d4fc2
-      server: nl3.srv.oplcdn.link
-      servername: ign.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: d42c146e-2ded-4b4a-8592-6459ac636910
-      xudp: true
-    - encryption: none
-      name: "\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
-      network: ws
-      port: "2095"
-      server: www.wto.org
-      type: vless
-      udp: true
-      uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
-      ws-opts:
-        headers:
-            Host: fuckingfangbinxing.pusytroller.cf
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
-        path: /
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-JP|NF|D+|GM|2%"
-      network: ws
       port: "443"
-      server: 18.183.89.240
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      grpc-opts:
-        grpc-service-name: www.bing.com
-      name: "\U0001F1FA\U0001F1F8US_4|24.6MB/s|GPT⁺|YT-US|NF|GM|2%"
-      network: grpc
-      port: "32252"
-      server: 3.143.235.221
-      servername: 3.143.235.221
-      tls: true
-      type: vless
-      udp: true
-      uuid: f0a44f8f-c01f-490c-a6eb-29106a2509a4
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      grpc-opts:
-        grpc-service-name: www.bing.com
-      name: "\U0001F1FA\U0001F1F8US_5|24.6MB/s|GPT⁺|YT-US|NF|GM|2%"
-      network: grpc
-      port: "32252"
-      server: 3.143.235.221
-      tls: true
-      type: vless
-      udp: true
-      uuid: f0a44f8f-c01f-490c-a6eb-29106a2509a4
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺|YT-AT|NF|D+|0%"
-      network: tcp
-      port: "36276"
       reality-opts:
-        public-key: a3usSjtSaH2XGzG5oi3oqPYKlhsJOmmJYI4nitX1rn8
-        short-id: 2b
-      server: tuskar.fonixapp.org
-      servername: smallpdf.com
+        public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+        short-id: e499f276e7bd6420
+      server: ru01-blh04.tcp-reset-club.net
+      servername: splitter.wb.ru
       tls: true
       type: vless
       udp: true
-      uuid: 6181c423-65d5-4952-b6db-f373bc42b7f8
+      uuid: 3b4d1c7f-4fd7-45bb-9251-79cd53a3e006
       xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F8\U0001F1EASE_1|24.6MB/s|GPT⁺|YT-RU|NF|0%"
-      network: tcp
-      port: "8443"
-      reality-opts:
-        public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-        short-id: 6ba85179e30d4fc2
-      server: se.srv.oplcdn.link
-      servername: ign.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: d42c146e-2ded-4b4a-8592-6459ac636910
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_6|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
-      network: ws
-      port: "443"
-      server: 154.17.225.73
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      flow: xtls-rprx-vision
-      name: "\U0001F1F3\U0001F1F1NL_2|24.6MB/s|GPT⁺|YT-RU|NF|18%"
-      port: 443
-      reality-opts:
-        public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
-      server: nld26.luckernld.org
-      servername: www.cybo.com
-      skip-cert-verify: false
-      tls: true
-      type: vless
-      udp: true
-      uuid: 40d7798a-6c76-4298-a9d4-9e6181cd2dd7
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1E6\U0001F1F9AT_1|24.6MB/s|GPT⁺|YT-AT|NF|D+|0%"
-      network: tcp
-      port: "12489"
-      reality-opts:
-        public-key: GyvksSpuOucs7XsCfiq2yRn3cxVN_Y8b3Zippb_mYCM
-        short-id: 50bcccfb
-      server: greenwolf.fonixapp.org
-      servername: indeed.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: c99dcc63-70e3-423d-a853-e3749b2cf06f
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F3\U0001F1F1NL_3|24.6MB/s|GPT⁺|YT-NL|NF|100%"
-      network: tcp
-      port: "8443"
-      reality-opts:
-        public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-        short-id: 6ba85179e30d4fc2
-      server: nl4.srv.oplcdn.link
-      servername: ign.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: d42c146e-2ded-4b4a-8592-6459ac636910
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_7|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
-      network: ws
-      port: "443"
-      server: 193.124.18.13
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - name: "\U0001F1ED\U0001F1F0HK_1|24.6MB/s|YT-CN|NF|D+|2%"
-      password: BxceQaOe
-      port: 443
-      server: 58.152.25.241
+    - name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-US|NF|GM|54%"
+      password: tzjz55
+      port: 8443
+      server: 155.94.145.166
       skip-cert-verify: true
-      sni: t.me%2Fripaojiedian
-      type: trojan
-    - alpn:
-        - h3
-      auth: dongtaiwang.com
-      name: "\U0001F1EB\U0001F1F7FR_1|24.6MB/s|GPT⁺|YT-FR|NF"
-      password: dongtaiwang.com
-      port: 33880
-      server: 195.154.206.231
-      skip-cert-verify: true
-      sni: apple.com
-      type: hysteria2
+      type: anytls
       udp: true
     - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_8|24.6MB/s|GPT⁺|YT-JP|NF|D+|GM"
+      name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|24.6MB/s|GPT⁺|YT-JP|NF|D+|GM|2%"
       network: ws
       port: "443"
-      server: 52.68.194.189
+      server: 54.95.79.44
       servername: kuangbao.xiejiang.dpdns.org
       tls: true
       type: vless
@@ -266,234 +53,12 @@ proxies:
       ws-opts:
         headers:
             Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+            User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
         path: /?ed=2560
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1FA\U0001F1F8US_9|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
-      network: ws
-      port: "2053"
-      server: 193.124.18.109
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - encryption: none
-      name: "\U0001F1FA\U0001F1F8US_10|24.6MB/s|GPT⁺|YT-US|NF|GM|0%"
-      network: ws
-      port: "80"
-      server: 172.66.156.81
-      type: vless
-      udp: true
-      uuid: 6d651624-65eb-40c6-94ae-d0e5df90c0ad
-      ws-opts:
-        headers:
-            Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
-        path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1ED\U0001F1F0HK_2|24.6MB/s|GPT⁺|YT-HK|NF|D+|2%"
-      network: ws
-      port: "7000"
-      server: 202.85.53.54
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F7\U0001F1FARU_1|24.6MB/s|GPT⁺|YT-DE|17%"
-      network: tcp
-      port: "8443"
-      reality-opts:
-        public-key: 8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ
-        short-id: 5540e44a53c3d01c
-      server: 2-germany.geodema.network
-      servername: eh.vk.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: a91e64f0-9295-499d-bf4a-661ad99d4938
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1EB\U0001F1EEFI_1|24.6MB/s|GPT⁺|YT-DE|NF|15%"
-      network: tcp
-      port: "8443"
-      reality-opts:
-        public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-        short-id: 6ba85179e30d4fc2
-      server: fi4.srv.oplcdn.link
-      servername: ign.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: d42c146e-2ded-4b4a-8592-6459ac636910
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1F8\U0001F1ECSG_3|24.6MB/s|GPT⁺|YT-SG|NF|D+|2%"
-      network: ws
-      port: "28465"
-      server: 8.222.209.252
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1E9\U0001F1EADE_3|24.6MB/s|GPT⁺|YT-DE|NF|D+|2%"
-      network: ws
-      port: "8080"
-      server: 31.25.88.229
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko) Chrome/v1.0.0 Safari/538.1
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1FA\U0001F1F8US_11|24.6MB/s|GPT|YT-US|NF|D+|GM"
-      network: ws
-      password: Aimer
-      port: "2096"
-      server: 5.182.84.22
-      skip-cert-verify: false
-      sni: epge.muarua.filegear-sg.me
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; vivo 1603 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36
-        path: /?ed=2560&proxyip=ts.hpc.tw
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      name: "\U0001F1F1\U0001F1FBLV_1|24.6MB/s|GPT⁺|NF|0%"
-      network: tcp
-      port: "59724"
-      reality-opts:
-        public-key: ebgYDy5MsZiayW8VYknobN3wDvmmxCeYvYnjTKbid1M
-        short-id: 0234359d414eac72
-      server: lv.tvm1.ru
-      servername: www.yahoo.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 6a67d755-6ea7-4447-a7d0-7faae429ff1a
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1ED\U0001F1F0HK_3|24.6MB/s|GPT⁺|YT-HK|NF|D+|2%"
-      network: ws
-      port: "7000"
-      server: 202.85.53.77
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_12|24.6MB/s|GPT⁺|YT-HK|NF|D+|51%"
-      network: ws
-      port: "7000"
-      server: 202.85.53.160
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_4|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "2053"
-      server: 85.193.92.242
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      name: "\U0001F1ED\U0001F1F0HK_4|24.6MB/s|YT-HK|D+|10%"
-      network: tcp
-      password: Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS
-      port: "5223"
-      server: hk3.t.sgateway.link
-      skip-cert-verify: false
-      sni: pod-hk-z1.psusercontent.com
-      type: trojan
-      udp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_5|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "2053"
-      server: 194.35.119.135
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1E9\U0001F1EADE_4|24.6MB/s|GPT|YT-DE|NF|D+|2%"
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-DE|NF|D+|2%"
       network: ws
       port: "443"
       server: 49.12.210.182
@@ -508,12 +73,26 @@ proxies:
             User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
         path: /?ed=2560
       xudp: true
+    - name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-CN|NF|28%"
+      password: 2cf6d686799e6fa95316394064f26c0a
+      port: 4054
+      server: 160.16.63.16
+      skip-cert-verify: false
+      sni: www.nintendogames.net
+      type: trojan
+    - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|24.6MB/s|NF|D+|2%"
+      password: BxceQaOe
+      port: 443
+      server: 58.152.25.241
+      skip-cert-verify: true
+      sni: t.me%2Fripaojiedian
+      type: trojan
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1E9\U0001F1EADE_5|24.6MB/s|GPT⁺|NF|D+|2%"
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺|YT-DE|NF|D+|2%"
       network: ws
       port: "443"
-      server: 80.76.32.12
+      server: 142.132.140.130
       servername: kuangbao.xiejiang.dpdns.org
       tls: true
       type: vless
@@ -522,25 +101,29 @@ proxies:
       ws-opts:
         headers:
             Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
         path: /?ed=2560
       xudp: true
-    - name: "\U0001F1F5\U0001F1F1PL_1|24.6MB/s|GPT|NF"
-      network: ws
-      password: 422d402c-58f1-4473-abeb-fe6e69dc97ed
-      port: 8443
-      server: 217.30.10.31
-      skip-cert-verify: false
-      sni: joss.gpj1.web.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            Host: joss.gpj1.web.id
-        path: /Free-VPN-CF-Geo-Project/217.30.10.31=8443
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_6|24.6MB/s|GPT⁺|NF|D+|2%"
+      name: "@github tonygyf\U0001F1EF\U0001F1F5JP_2|24.6MB/s|GPT⁺|YT-JP|NF|D+|GM|2%"
+      network: ws
+      port: "443"
+      server: 52.68.194.189
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|NF|D+|2%"
       network: ws
       port: "8443"
       server: 95.140.157.183
@@ -556,159 +139,8 @@ proxies:
         path: /?ed=2560
       xudp: true
     - client-fingerprint: chrome
-      name: "\U0001F1EF\U0001F1F5JP_1|24.6MB/s|GPT⁺|YT-JP|D+|GM|0%"
-      network: tcp
-      password: Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS
-      port: "5223"
-      server: jp3.t.sgateway.link
-      skip-cert-verify: false
-      sni: pod-jp-z1.psusercontent.com
-      type: trojan
-      udp: true
-    - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_7|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "2053"
-      server: 194.35.119.49
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_8|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "2053"
-      server: 81.200.154.2
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Linux; Android 7.0; TRT-LX3 Build/HUAWEITRT-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1E9\U0001F1EADE_6|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "2053"
-      server: 185.103.252.54
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_9|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "8443"
-      server: 85.193.95.220
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - name: "\U0001F1F3\U0001F1F1NL_10|24.6MB/s|NF|D+"
-      network: ws
-      password: ee339912-0c35-4fac-8d85-180b65bcd49c
-      port: 443
-      server: 81.22.132.183
-      skip-cert-verify: false
-      sni: joss.gpj1.web.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            Host: joss.gpj1.web.id
-        path: /Free-VPN-CF-Geo-Project/81.22.132.183=443
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1E9\U0001F1EADE_7|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "443"
-      server: 77.221.157.32
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_13|24.6MB/s|GPT⁺|NF|D+|2%"
-      network: ws
-      port: "2053"
-      server: 85.193.95.220
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - name: "\U0001F1E7\U0001F1ECBG_1|24.6MB/s|GPT|0%"
-      network: ws
-      port: 1443
-      server: 81.161.98.228
-      servername: cdn.filterai.ru
-      skip-cert-verify: false
-      tls: true
-      type: vless
-      udp: true
-      uuid: 00f02ab2-6f2d-449f-a089-d182a2fac59a
-      ws-opts:
-        headers:
-            Host: cdn.filterai.ru
-        path: /websocketpl
-    - alpn:
-        - h3
-      auth-str: dongtaiwang.com
-      down: 55 Mbps
-      name: "\U0001F1EB\U0001F1F7FR_2|24.6MB/s|GPT⁺"
-      port: 50011
-      protocol: udp
-      server: 62.210.10.186
-      skip-cert-verify: true
-      sni: apple.com
-      type: hysteria
-      up: 11 Mbps
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1F3\U0001F1F1NL_11|24.6MB/s|GPT⁺|NF|D+"
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|24.6MB/s|GPT⁺|YT-NL|NF|D+|2%"
       network: ws
       port: "8443"
       server: 85.193.95.23
@@ -725,27 +157,10 @@ proxies:
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1F7\U0001F1FARU_2|24.6MB/s"
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_3|24.6MB/s|GPT⁺|NF|D+|2%"
       network: ws
-      port: "8443"
-      server: zcreat.ethervpn.fun
-      servername: zcreat.ethervpn.fun
-      tls: true
-      type: vless
-      udp: true
-      uuid: a47595a8-1add-401a-8189-e6799f8d8628
-      ws-opts:
-        headers:
-            Host: zcreat.ethervpn.fun
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
-        path: /websocketpl?ed=2047
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_14|24.6MB/s|GPT|YT-NL|NF|D+|2%"
-      network: ws
-      port: "8443"
-      server: 89.19.211.109
+      port: "2053"
+      server: 90.156.228.74
       servername: kuangbao.xiejiang.dpdns.org
       tls: true
       type: vless
@@ -754,94 +169,299 @@ proxies:
       ws-opts:
         headers:
             Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
         path: /?ed=2560
       xudp: true
-    - name: "\U0001F1E8\U0001F1FFCZ_1|24.6MB/s|D+"
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_4|24.6MB/s|GPT|YT-NL|NF|D+|2%"
       network: ws
-      password: f583143c-2cbe-47f5-804d-27efa55442a1
-      port: 443
-      server: 81.91.214.162
-      skip-cert-verify: false
-      sni: joss.gpj1.web.id
-      type: trojan
+      port: "2053"
+      server: 85.193.95.220
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
       udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
       ws-opts:
         headers:
-            Host: joss.gpj1.web.id
-        path: /Free-VPN-CF-Geo-Project/81.91.214.162=443
-    - name: "\U0001F1EB\U0001F1F7FR_3|24.6MB/s|D+"
-      network: ws
-      password: fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb
-      port: 443
-      server: 34.22.190.30
-      skip-cert-verify: false
-      sni: joss.gpj1.web.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            Host: joss.gpj1.web.id
-        path: /Free-VPN-CF-Geo-Project/34.22.190.30=443
-    - alpn:
-        - ""
-      alterId: "2"
-      cipher: auto
-      name: "\U0001F1EE\U0001F1F9IT_1|24.6MB/s|GPT|27%"
-      network: tcp
-      port: "30805"
-      server: v5.heduian.link
-      skip-cert-verify: false
-      tls: false
-      type: vmess
-      udp: true
-      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-      xudp: true
-    - alpn:
-        - ""
-      alterId: "2"
-      cipher: auto
-      name: "\U0001F1E8\U0001F1FECY_1|24.6MB/s|GPT|27%"
-      network: ws
-      port: "30830"
-      server: v30.heduian.link
-      skip-cert-verify: false
-      tls: false
-      type: vmess
-      udp: true
-      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-      ws-opts:
-        headers:
-            Host: ocbc.com
-        path: /oooo
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+        path: /?ed=2560
       xudp: true
     - client-fingerprint: chrome
-      name: "\U0001F1FA\U0001F1F8US_15|24.6MB/s"
+      encryption: none
+      name: "@github tonygyf\U0001F1EC\U0001F1E7GB_1|24.6MB/s|GPT⁺|NF|D+|2%"
       network: ws
-      password: 38af00d3-7c80-49fe-b91a-34d0d8044ee2
-      port: "2053"
-      server: 57.129.16.72
-      skip-cert-verify: false
-      sni: joss.gpj1.web.id
-      type: trojan
+      port: "443"
+      server: 206.189.25.65
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
       udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
       ws-opts:
         headers:
-            User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
-        path: /Free-VPN-CF-Geo-Project/57.129.16.72=2053
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|24.6MB/s|GPT⁺|NF|D+|2%"
+      network: ws
+      port: "443"
+      server: 80.76.32.12
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1EF\U0001F1F5JP_3|24.6MB/s|GPT⁺|YT-US|D+|GM|2%"
+      network: ws
+      port: "443"
+      server: 47.79.41.201
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_4|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
+      network: ws
+      port: "443"
+      server: 193.124.18.13
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1EA\U0001F1F8ES_1|24.6MB/s|GPT⁺|27%"
+      password: mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp
+      port: "443"
+      server: 213.159.67.124
+      type: ss
+      udp: true
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_5|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
+      network: ws
+      port: "8080"
+      server: 104.17.109.71
+      type: vless
+      udp: true
+      uuid: 636de463-b509-4631-adc6-400b21733278
+      ws-opts:
+        headers:
+            Host: index.harmony509.workers.dev
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+        path: /z5eg4ngdcqls
+      xudp: true
     - cipher: aes-256-cfb
-      name: "\U0001F1ED\U0001F1F0HK_5|24.6MB/s|0%"
+      name: "@github tonygyf\U0001F1FB\U0001F1F3VN_1|8.2MB/s|GPT⁺|YT-VN|GM"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: "38388"
+      server: 103.186.155.29
+      type: ss
+      udp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_5|24.6MB/s|GPT⁺|YT-NL|NF|D+|2%"
+      network: ws
+      port: "2053"
+      server: 194.35.119.135
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_6|24.6MB/s|GPT⁺|NF|D+|2%"
+      network: ws
+      port: "8443"
+      server: 85.193.95.220
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1EF\U0001F1F5JP_4|24.6MB/s|GPT⁺|YT-JP|NF|D+|GM|2%"
+      network: ws
+      port: "443"
+      server: 54.249.169.40
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - alpn:
+        - h3
+      auth-str: dongtaiwang.com
+      auth_str: dongtaiwang.com
+      delay: 2504
+      down: 55
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|24.6MB/s|GPT⁺"
+      port: 35511
+      protocol: udp
+      server: 62.210.10.186
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria
+      udp: true
+      up: 11
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1ED\U0001F1F0HK_2|24.6MB/s|YT-US|D+|0%"
       obfs: tls1.2_ticket_auth
-      obfs-param: ""
       password: iFqnzSscN
-      port: 8083
+      port: "8083"
       protocol: origin
-      protocol-param: ""
       server: 150.107.46.21
       type: ssr
       udp: true
+    - alterId: 2
+      cipher: auto
+      country: "\U0001F1E8\U0001F1F3CN"
+      delay: 1355
+      h2-opts: {}
+      http-opts: {}
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_4|24.6MB/s|GPT"
+      network: ws
+      port: 30833
+      server: v33.heduian.link
+      servername: baidu.com
+      skip-cert-verify: true
+      type: vmess
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            HOST: baidu.com
+        path: /oooo
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1FB\U0001F1F3VN_2|24.6MB/s|GPT⁺|YT-VN|GM"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: "38388"
+      server: 103.186.155.118
+      type: ss
+      udp: true
     - client-fingerprint: chrome
-      name: "\U0001F1EB\U0001F1F7FR_4|24.6MB/s|D+"
+      name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT⁺|YT-SG|7%"
+      network: tcp
+      password: Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS
+      port: "5223"
+      server: psg2-ag.t.sgateway.link
+      skip-cert-verify: false
+      sni: pod-kr-g1.psusercontent.com
+      type: trojan
+      udp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1F2\U0001F1E9MD_1|24.6MB/s|GPT⁺|27%"
+      password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu
+      port: "443"
+      server: 213.159.66.206
+      type: ss
+      udp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F7\U0001F1FARU_2|24.6MB/s|GPT⁺|YT-RU|2%"
+      network: ws
+      port: "2053"
+      server: 80.90.187.190
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L22 Build/HUAWEICUN-L22; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1ED\U0001F1F0HK_3|24.6MB/s|GPT⁺|YT-HK|D+|2%"
+      network: ws
+      port: "7000"
+      server: 202.85.53.77
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_6|24.6MB/s|GPT⁺|NF|41%"
+      password: NDRySIABARbErNIVsCNVkyYAHiBzhveT
+      port: 443
+      server: 23.95.75.146
+      type: ss
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1FB\U0001F1F3VN_3|24.6MB/s|GPT⁺|YT-VN"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: "38388"
+      server: 103.186.155.111
+      type: ss
+      udp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_7|24.6MB/s|GPT|YT-US|NF|D+|GM"
+      network: ws
+      password: 6e6191a3-9a93-4617-859a-8d0ea0fce937
+      port: "443"
+      server: joss.gpj1.web.id
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/81.91.214.85=443
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_2|24.6MB/s|D+"
       network: ws
       password: e6f0e8b0-3dc5-4d53-a23a-86c02d5ba098
       port: "443"
@@ -856,10 +476,27 @@ proxies:
         path: /Free-VPN-CF-Geo-Project/51.15.210.1=443
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1E9\U0001F1EADE_8|24.6MB/s|GPT|D+|2%"
+      name: "@github tonygyf\U0001F1F7\U0001F1FARU_3|24.6MB/s"
       network: ws
       port: "8443"
-      server: 51.195.102.180
+      server: zcreat.ethervpn.fun
+      servername: zcreat.ethervpn.fun
+      tls: true
+      type: vless
+      udp: true
+      uuid: a47595a8-1add-401a-8189-e6799f8d8628
+      ws-opts:
+        headers:
+            Host: zcreat.ethervpn.fun
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+        path: /websocketpl?ed=2047
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_7|24.6MB/s|GPT⁺|NF|D+|2%"
+      network: ws
+      port: "2053"
+      server: 194.35.119.49
       servername: kuangbao.xiejiang.dpdns.org
       tls: true
       type: vless
@@ -868,15 +505,15 @@ proxies:
       ws-opts:
         headers:
             Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; CPH1723 Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
         path: /?ed=2560
       xudp: true
     - client-fingerprint: chrome
       encryption: none
-      name: "\U0001F1FA\U0001F1F8US_16|24.6MB/s|GPT⁺|D+|2%"
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_8|24.6MB/s|GPT⁺|NF|D+|2%"
       network: ws
       port: "443"
-      server: 94.142.255.97
+      server: 193.124.41.29
       servername: kuangbao.xiejiang.dpdns.org
       tls: true
       type: vless
@@ -885,59 +522,29 @@ proxies:
       ws-opts:
         headers:
             Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+            User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
         path: /?ed=2560
       xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_17|24.6MB/s|GPT⁺|YT-US|NF|GM|0%"
-      network: ws
-      port: "2096"
-      server: news.zoom.us
-      servername: zorox-net.senu-zer.online
+    - client-fingerprint: firefox
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1F1\U0001F1FBLV_1|24.6MB/s|GPT⁺|0%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: 4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws
+        short-id: 73d3fec4
+      server: 188.253.21.106
+      servername: yahoo.com
       tls: true
       type: vless
       udp: true
-      uuid: 7e3a2325-fc7b-4841-9b28-8906dc1626bf
-      ws-opts:
-        headers:
-            Host: zorox-net.senu-zer.online
-            User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36
-        path: /
+      uuid: 247a22e1-0795-4852-9bdd-a65ac1078034
       xudp: true
     - client-fingerprint: chrome
-      name: "\U0001F1E9\U0001F1EADE_9|24.6MB/s|D+"
+      name: "@github tonygyf\U0001F1E6\U0001F1EAAE_1|24.6MB/s|GPT"
       network: ws
-      password: 83794b09-d50a-4e6e-9559-1372b6299e89
-      port: "2053"
-      server: 162.19.246.187
-      skip-cert-verify: false
-      sni: joss.gpj1.web.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
-        path: /Free-VPN-CF-Geo-Project/162.19.246.187=2053
-    - name: "\U0001F1E9\U0001F1F0DK_1|24.6MB/s|D+"
-      network: ws
-      password: 5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3
-      port: 443
-      server: 89.28.236.243
-      skip-cert-verify: false
-      sni: joss.gpj1.web.id
-      type: trojan
-      udp: true
-      ws-opts:
-        headers:
-            Host: joss.gpj1.web.id
-        path: /Free-VPN-CF-Geo-Project/89.28.236.243=443
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_18|24.6MB/s|D+"
-      network: ws
-      port: "2053"
-      server: 5.144.182.111
+      port: "14594"
+      server: 139.185.50.5
       servername: kuangbao.xiejiang.dpdns.org
       tls: true
       type: vless
@@ -946,65 +553,110 @@ proxies:
       ws-opts:
         headers:
             Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
         path: /?ed=2560
       xudp: true
-    - cipher: chacha20-ietf-poly1305
-      name: "\U0001F1EE\U0001F1F9IT_2|24.6MB/s|GPT⁺|YT-RU|NF|D+|51%"
-      password: yDAMsX678XsjsESR4UJlAI
-      port: "42203"
-      server: 185.247.184.27
-      type: ss
-      udp: true
-    - cipher: chacha20-ietf-poly1305
-      name: "\U0001F1EE\U0001F1F1IL_1|24.6MB/s|GPT⁺|YT-IL|NF|100%"
-      password: 4lUEC91c1d8oeClzDbYpXA
-      port: "8618"
-      server: 45.93.94.237
-      type: ss
-      udp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "\U0001F1FA\U0001F1F8US_19|24.6MB/s|GPT⁺|D+"
-      network: ws
-      port: "8443"
-      server: 51.195.43.174
-      servername: kuangbao.xiejiang.dpdns.org
-      tls: true
-      type: vless
-      udp: true
-      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-      ws-opts:
-        headers:
-            Host: kuangbao.xiejiang.dpdns.org
-            User-Agent: Mozilla/5.0 (Linux; Android 7.0; TRT-LX2 Build/HUAWEITRT-LX2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36
-        path: /?ed=2560
-      xudp: true
-    - cipher: chacha20-ietf-poly1305
-      name: "\U0001F1F3\U0001F1F1NL_12|24.6MB/s|GPT⁺|YT-NL|NF|79%"
-      password: QCXDxuDlTTMD7jtgHUjIoj
-      port: "8080"
-      server: 151.242.251.153
-      type: ss
-      udp: true
-    - alterId: "0"
+    - alpn:
+        - ""
+      alterId: "0"
       cipher: auto
-      name: "\U0001F1EE\U0001F1F3IN_1|24.6MB/s|GPT⁺"
+      name: "@github tonygyf\U0001F1ED\U0001F1F0HK_4|24.6MB/s|YT-HK|2%"
       network: ws
       port: "443"
-      server: node4.rtxconfigz.com
+      server: 154.21.201.83
       skip-cert-verify: false
       tls: true
       type: vmess
       udp: true
-      uuid: 44e57485-eccc-46ef-808f-cd17ac810018
+      uuid: 4bf075f5-4d5e-4d39-f5ab-b32a86250f0e
       ws-opts:
         headers:
-            Host: node4.rtxconfigz.com
-        path: /@Malinda6104
+            Host: hk.nbee.pp.ua
+        path: /aa
       xudp: true
     - client-fingerprint: chrome
-      name: "\U0001F1EB\U0001F1F7FR_5|24.6MB/s|D+"
+      name: "@github tonygyf\U0001F1EF\U0001F1F5JP_5|24.6MB/s|GPT⁺|YT-JP|D+|GM|0%"
+      network: tcp
+      password: Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS
+      port: "5223"
+      server: jp3.t.sgateway.link
+      skip-cert-verify: false
+      sni: pod-jp-z1.psusercontent.com
+      type: trojan
+      udp: true
+    - alterId: "2"
+      cipher: auto
+      name: "@github tonygyf\U0001F1EC\U0001F1E7GB_2|24.6MB/s|GPT⁺|D+|25%"
+      network: tcp
+      port: "30806"
+      server: v6.heduian.link
+      skip-cert-verify: false
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      xudp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1EB\U0001F1EEFI_1|12.3MB/s|NF|D+"
+      network: ws
+      password: a69221dc-069f-4526-b137-de487c746ec9
+      port: "2053"
+      server: 65.109.211.85
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/65.109.211.85=2053
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_8|24.6MB/s|NF|D+"
+      network: ws
+      password: 35f8e682-54bd-42c7-b537-94a8e4c84bcd
+      port: "443"
+      server: 89.110.120.197
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L21 Build/HUAWEICAM-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/89.110.120.197=443
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1EE\U0001F1F9IT_1|24.6MB/s|D+"
+      network: ws
+      password: e04af4a8-ce76-4026-8480-82d0e35dd239
+      port: "8443"
+      server: 94.177.199.119
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/94.177.199.119=8443
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_9|24.6MB/s|GPT⁺|YT-TR|GM"
+      network: ws
+      port: "8443"
+      server: 213.142.149.3
+      servername: kuangbao.xiejiang.dpdns.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+      ws-opts:
+        headers:
+            Host: kuangbao.xiejiang.dpdns.org
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_3|24.6MB/s"
       network: ws
       password: 0e0c9c2a-6166-4337-bdfc-675602365807
       port: "2053"
@@ -1015,154 +667,689 @@ proxies:
       udp: true
       ws-opts:
         headers:
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
         path: /Free-VPN-CF-Geo-Project/141.94.204.212=2053
-    - client-fingerprint: firefox
-      encryption: none
-      grpc-opts:
-        grpc-service-name: 7034vless
-      name: "\U0001F1F3\U0001F1F1NL_13|24.6MB/s|GPT⁺|YT-NL"
-      network: grpc
-      port: "7033"
-      reality-opts:
-        public-key: iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE
-        short-id: 16b6cda7ab793526
-      server: 165.22.192.230
-      servername: telewebion.com
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_10|24.6MB/s|GPT⁺|YT-US|NF|41%"
+      password: UAMVtHm54uahd6SiN5WcD16rsPSdabPG
+      port: 443
+      server: 23.95.72.81
+      type: ss
+      udp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_9|24.6MB/s|GPT⁺|YT-NL|NF|79%"
+      password: 1RWwXhwfAB5gAEozU4G2Pg
+      port: 443
+      server: 45.87.175.166
+      type: ss
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_11|24.6MB/s|D+"
+      network: ws
+      password: 9ccc3e1d-3df5-4348-aa05-738310149cc3
+      port: "443"
+      server: 45.86.229.28
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/45.86.229.28=443
+    - flow: xtls-rprx-vision
+      name: '@github tonygyf❓Other_1|8.2MB/s|GPT⁺|YT-US|NF'
+      port: 17597
+      server: usvless.yydzx.xyz
+      servername: usvless.yydzx.xyz
+      skip-cert-verify: false
       tls: true
       type: vless
       udp: true
-      uuid: b3135464-6cf4-4d45-b5a5-743841ade728
+      uuid: 4741863d-e3ac-4b9d-8185-466f437b3fa8
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1EF\U0001F1F5JP_6|24.6MB/s|GPT⁺"
+      password: XLOrvLWkCBBBxLqSEe9S8lnC5PLsNfRh
+      port: "443"
+      server: 103.75.118.125
+      type: ss
+      udp: true
+    - alpn:
+        - h3
+      auth-str: dongtaiwang.com
+      down: 55 Mbps
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_4|24.6MB/s|GPT⁺"
+      port: 50011
+      protocol: udp
+      server: 62.210.10.186
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria
+      up: 11 Mbps
+    - client-fingerprint: chrome
+      fingerprint: ""
+      grpc-opts:
+        grpc-service-name: ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_5|24.6MB/s|GPT⁺|NF"
+      network: grpc
+      port: 41640
+      server: 57.130.29.181
+      tls: false
+      type: vless
+      udp: false
+      uuid: 1e8e5607-1dae-45de-bb64-613701313479
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F0\U0001F1FFKZ_1|24.6MB/s|GPT|YT-RU|0%"
+      network: tcp
+      port: "35728"
+      reality-opts:
+        public-key: vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng
+        short-id: 69a2
+      server: 178.236.16.98
+      servername: yahoo.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: a00d89f6-ab7e-4e30-a5e5-54c701d62c93
+      xudp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|24.6MB/s|GPT⁺|YT-RU|NF|6%"
+      password: yo6h9qkhwz8UJoTZCRtoSi
+      port: "34094"
+      server: 78.40.116.178
+      type: ss
+      udp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_12|24.6MB/s|GPT⁺|YT-DE|D+|0%"
+      password: "907560230"
+      port: "17844"
+      server: clr.ducks.tel
+      type: ss
+      udp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1E8\U0001F1FFCZ_1|24.6MB/s|D+"
+      network: ws
+      password: f583143c-2cbe-47f5-804d-27efa55442a1
+      port: "443"
+      server: 81.91.214.162
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/81.91.214.162=443
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_13|24.6MB/s|GPT⁺|YT-US|NF|0%"
+      network: ws
+      port: "80"
+      server: www.speedtest.net
+      type: vless
+      udp: true
+      uuid: de2d1494-1676-41fe-a250-fe033ec8d451
+      ws-opts:
+        headers:
+            Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+        path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+      xudp: true
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1E7\U0001F1F7BR_1|24.6MB/s|GPT⁺|YT-BR|0%"
+      password: f8f7aCzcPKbsF8p3
+      port: 989
+      server: 38.54.57.90
+      type: ss
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1E9\U0001F1F0DK_1|24.6MB/s"
+      network: ws
+      password: eb7339c5-70e4-4c7b-b5ef-4128adc8136a
+      port: "2053"
+      server: 38.180.72.162
+      skip-cert-verify: false
+      sni: joss.gpj1.web.id
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+        path: /Free-VPN-CF-Geo-Project/38.180.72.162=2053
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1F7\U0001F1FARU_4|24.6MB/s|YT-RU"
+      password: "907560230"
+      port: "17846"
+      server: clr.ducks.tel
+      type: ss
+      udp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_14|24.6MB/s|GPT⁺|YT-RU|NF|0%"
+      password: "907560230"
+      port: "17847"
+      server: clr.ducks.tel
+      type: ss
+      udp: true
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F9\U0001F1FCTW_1|24.6MB/s|GPT⁺|YT-TW|D+|GM"
+      network: ws
+      port: 12486
+      server: 125.227.162.252
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F0\U0001F1F7KR_1|24.6MB/s|GPT⁺|YT-KR|NF|D+|GM"
+      network: ws
+      port: 50001
+      server: 125.141.4.132
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_15|24.6MB/s|GPT⁺|YT-US|NF|0%"
+      network: ws
+      port: 80
+      server: www.speedtest.net
+      servername: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
+      type: vless
+      uuid: de2d1494-1676-41fe-a250-fe033ec8d451
+      ws-opts:
+        headers:
+            Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
+        path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F9\U0001F1FCTW_2|24.6MB/s|GPT⁺|YT-TW|NF|D+|GM"
+      network: ws
+      port: 12485
+      server: 125.227.162.252
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F9\U0001F1FCTW_3|24.6MB/s|GPT|YT-TW|NF|D+|GM"
+      network: ws
+      port: 43
+      server: 220.128.110.108
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F0\U0001F1F7KR_2|24.6MB/s|GPT|YT-KR|NF|D+|GM"
+      network: ws
+      port: 33143
+      server: 222.104.213.148
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F0\U0001F1F7KR_3|24.6MB/s|GPT⁺|YT-KR|GM"
+      network: tcp
+      port: 443
+      reality-opts:
+        public-key: TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw
+      server: 8.213.146.128
+      servername: www.primevideo.com
+      tls: true
+      type: vless
+      uuid: 3e7f67de-648e-4871-b51a-a225214d41ee
+    - cipher: chacha20-ietf
+      name: "@github tonygyf\U0001F1ED\U0001F1F0HK_5|2.7MB/s|YT-CN|NF|D+|0%"
+      password: asd123456
+      port: "8388"
+      server: 103.149.183.154
+      type: ss
+      udp: true
+    - country: "\U0001F1ED\U0001F1F0HK"
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_16|24.6MB/s|GPT⁺|YT-CN|NF|D+|36%"
+      password: BxceQaOe
+      port: 2173
+      server: 16.162.87.79
+      skip-cert-verify: true
+      sni: t.me/ripaojiedian
+      type: trojan
+      udp: true
+    - alpn:
+        - h3
+      client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F0\U0001F1F7KR_4|24.6MB/s|YT-KR|NF"
+      network: ws
+      port: 50001
+      server: 115.90.84.220
+      servername: s3.sni565.netlib.re
+      tls: true
+      type: vless
+      uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+      ws-opts:
+        headers:
+            Host: s3.sni565.netlib.re
+        path: /proxyip=tw.sni2025.netlib.re
+    - auth: ef4eec52-1267-44d6-b9e6-358bd191c09a
+      name: "@github tonygyf\U0001F1EC\U0001F1E7GB_3|24.6MB/s|GPT⁺|YT-NL|NF|0%"
+      obfs: salamander
+      obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+      password: ef4eec52-1267-44d6-b9e6-358bd191c09a
+      port: 41200
+      ports: 41200-41450
+      server: dg.jgpyjc.top
+      skip-cert-verify: false
+      sni: dg.jgpyjc.top
+      type: hysteria2
+      udp: true
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_17|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
+      network: ws
+      port: 8080
+      server: 104.17.109.71
+      servername: index.harmony509.workers.dev
+      type: vless
+      uuid: 636de463-b509-4631-adc6-400b21733278
+      ws-opts:
+        headers:
+            Host: index.harmony509.workers.dev
+        path: /z5eg4ngdcqls
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1FB\U0001F1F3VN_4|24.6MB/s|GPT⁺"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.154
+      type: ss
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1FB\U0001F1F3VN_5|24.6MB/s|GPT⁺"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.154.41
+      type: ss
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1FB\U0001F1F3VN_6|24.6MB/s|GPT⁺|YT-VN|GM"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.237
+      type: ss
+    - cipher: aes-256-cfb
+      name: "@github tonygyf\U0001F1FB\U0001F1F3VN_7|24.6MB/s|GPT⁺|YT-VN"
+      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+      port: 38388
+      server: 103.186.155.53
+      type: ss
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1F7\U0001F1FARU_5|24.6MB/s|GPT|YT-RU"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+        short-id: cd0b563c7e0ea754
+      server: ru.x8lab.org
+      servername: sun9-8.userapi.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3c626a9e-c327-0007-9d89-01ca7495232d
       xudp: true
     - client-fingerprint: chrome
       encryption: none
       flow: xtls-rprx-vision
-      name: "\U0001F1FA\U0001F1F8US_20|24.6MB/s|GPT⁺|0%"
+      name: "@github tonygyf\U0001F1E6\U0001F1EAAE_2|24.6MB/s|GPT⁺|YT-RU|GM|14%"
       network: tcp
-      port: "8443"
+      port: "443"
       reality-opts:
-        public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-        short-id: 6ba85179e30d4fc2
-      server: fi3.srv.oplcdn.link
-      servername: ign.com
+        public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+        short-id: c44bcdb731f12c41
+      server: nl.x8lab.org
+      servername: sun9-8.userapi.com
       tls: true
       type: vless
       udp: true
-      uuid: d42c146e-2ded-4b4a-8592-6459ac636910
+      uuid: 3c626a9e-c327-4666-9d89-01ca7495232d
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_18|24.6MB/s|GPT⁺|NF|GM|27%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+        short-id: 669d7ae5e1611511
+      server: us.x8lab.org
+      servername: www.kernel.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3c626a9e-c327-4666-9d89-01ca7495232d
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1F0\U0001F1FFKZ_2|24.6MB/s|GPT⁺|NF|GM|0%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+        short-id: cd0b563c7e0ea754
+      server: kz.x8lab.org
+      servername: api.gosuslugi.ru
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3c626a9e-c327-4666-9d89-01ca7495232d
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1F9\U0001F1F7TR_1|24.6MB/s|GPT⁺|YT-RU|D+|GM|32%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+        short-id: 669d7ae5e1611511
+      server: tr.x8lab.org
+      servername: www.w3.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3c626a9e-c327-4666-9d89-01ca7495232d
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_10|24.6MB/s|GPT⁺|YT-RU|NF|0%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+        short-id: c44bcdb731f12c41
+      server: nl2.x8lab.org
+      servername: eh.vk.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3c626a9e-c327-4666-9d89-01ca7495232d
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1EE\U0001F1F7IR_1|1.3MB/s|GPT⁺|YT-RU|D+|32%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: 2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4
+        short-id: 1079eb4613718645
+      server: fin.monkeyisland.xyz
+      servername: fin.monkeyisland.xyz
+      tls: true
+      type: vless
+      udp: true
+      uuid: 6184fcfb-52e0-40bb-a271-bbd097b70a8e
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_5|24.6MB/s|GPT⁺|YT-RU|D+|32%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: 2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4
+        short-id: 0dd15ad462aad7fc
+      server: de.monkeyisland.xyz
+      servername: de.monkeyisland.xyz
+      tls: true
+      type: vless
+      udp: true
+      uuid: 6184fcfb-52e0-40bb-a271-bbd097b70a8e
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1F7\U0001F1FARU_6|24.6MB/s|GPT|D+"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: 2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4
+        short-id: 2ce837f65ba41351
+      server: es.monkeyisland.xyz
+      servername: es.monkeyisland.xyz
+      tls: true
+      type: vless
+      udp: true
+      uuid: 6184fcfb-52e0-40bb-a271-bbd097b70a8e
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_6|24.6MB/s|GPT⁺|NF|22%"
+      network: tcp
+      port: "8443"
+      reality-opts:
+        public-key: qdcM4h1uoHcpGw_QnU99NnUXgcjDFyoE-E1_Ili3Xgo
+        short-id: 3471fa2412678660
+      server: 185.140.14.166
+      servername: www.microsoft.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9e460075-dcb2-504a-b3d9-aab5c3095442
+      xudp: true
+    - encryption: none
+      grpc-opts:
+        grpc-service-name: ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_6|24.6MB/s|GPT⁺|YT-US|NF|0%"
+      network: grpc
+      port: "17271"
+      server: 141.227.180.236
+      type: vless
+      udp: true
+      uuid: f4563bd0-7c0f-45e0-817b-6c902e9507fa
+      xudp: true
+    - client-fingerprint: chrome
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_11|24.6MB/s|GPT⁺|YT-NL|D+|45%"
+      network: tcp
+      port: "34045"
+      reality-opts:
+        public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+        short-id: e8ab71d0
+      server: 5.61.50.192
+      servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+      tls: true
+      type: vless
+      udp: true
+      uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+      xudp: true
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_19|24.6MB/s|YT-US|NF|GM"
+      network: ws
+      port: "2095"
+      server: 172.67.209.105
+      type: vless
+      udp: true
+      uuid: 1953c1e6-af68-4c60-a6f8-f8194de580f6
+      ws-opts:
+        headers:
+            Host: worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36
+        path: /?ed=2048
+      xudp: true
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_20|24.6MB/s|YT-US|NF|2%"
+      network: ws
+      port: "8880"
+      server: 104.21.31.4
+      type: vless
+      udp: true
+      uuid: 0a5ab719-2407-4398-b507-8437ef365023
+      ws-opts:
+        headers:
+            Host: underthegun.cfd.
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
+        path: /FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY
+      xudp: true
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_21|24.6MB/s"
+      network: ws
+      port: "80"
+      server: 104.18.15.19
+      type: vless
+      udp: true
+      uuid: 13ed4a8b-6049-4f26-8cb3-9870df4fda4c
+      ws-opts:
+        headers:
+            Host: 0107.cxypogon.workers.dev
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_22|24.6MB/s"
+      network: ws
+      port: "80"
+      server: 104.18.14.19
+      type: vless
+      udp: true
+      uuid: 13ed4a8b-6049-4f26-8cb3-9870df4fda4c
+      ws-opts:
+        headers:
+            Host: 0107.cxypogon.workers.dev
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1F9\U0001F1FCTW_4|24.6MB/s|GPT|YT-TW|NF|D+|GM"
+      password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+      plugin: obfs
+      plugin-opts:
+        host: (TG @WangCai2)2ddd5ae:83350
+        mode: tls
+      port: "2377"
+      server: 211.72.214.64
+      type: ss
+      udp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_23|24.6MB/s|GPT⁺|YT-US|NF|43%"
+      password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+      plugin: obfs
+      plugin-opts:
+        host: (TG @WangCai2)4fa101a:48723
+        mode: tls
+      port: "2377"
+      server: 95.174.71.30
+      type: ss
+      udp: true
+    - cipher: chacha20-ietf-poly1305
+      name: "@github tonygyf\U0001F1F9\U0001F1FCTW_5|24.6MB/s"
+      password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+      plugin: obfs
+      plugin-opts:
+        host: 16a89ef:154955
+        mode: tls
+      port: "2377"
+      server: 118.163.200.40
+      type: ss
+      udp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_7|24.6MB/s|GPT⁺|YT-DE|NF|64%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo
+        short-id: f203719d3ff9a5f5
+      server: a.de.maviks.ru
+      servername: www.microsoft.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0cc4d574-cf58-4c8e-a759-3aa1f919f34b
       xudp: true
     - alpn:
-        - h3
-      auth-str: dongtaiwang.com
-      auth_str: dongtaiwang.com
-      delay: 1121
-      down: 100
-      name: "\U0001F1EB\U0001F1F7FR_6|24.6MB/s|GPT⁺|NF"
-      port: 15010
-      protocol: udp
-      server: 195.154.200.40
-      skip-cert-verify: true
-      sni: apple.com
-      type: hysteria
-      udp: true
-      up: 100
-    - alterId: 0
-      cipher: auto
-      name: "\U0001F1FA\U0001F1F8US_21|24.6MB/s|GPT⁺|YT-CN|NF|100%"
+        - http/1.1
+      client-fingerprint: random
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_24|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
       network: ws
-      port: 2053
-      server: 69.84.182.108
-      servername: cdn-node-oss-86.paofu.de
-      tls: true
-      type: vmess
-      uuid: 3f330ee6-641b-442f-841d-8747fe1d47db
-      ws-opts:
-        headers:
-            Host: cdn-node-oss-86.paofu.de
-        path: /profile/sharenode
-    - alterId: 0
-      cipher: auto
-      name: "\U0001F1FA\U0001F1F8US_22|24.6MB/s|GPT|NF|100%"
-      network: ws
-      port: 2053
-      server: 104.18.20.69
-      servername: cdn-node-oss-86.paofu.de
-      tls: true
-      type: vmess
-      uuid: 3f330ee6-641b-442f-841d-8747fe1d47db
-      ws-opts:
-        headers:
-            Host: cdn-node-oss-86.paofu.de
-        path: /profile/sharenode
-    - cipher: chacha20-ietf-poly1305
-      name: "\U0001F1F3\U0001F1F1NL_14|24.6MB/s|GPT⁺|YT-CN|27%"
-      password: 17ZDORWIliQHuO6WRGHChXYMzdRtAYVP
+      password: "0"
       port: "443"
-      server: 45.14.245.2
-      type: ss
+      server: 198.41.208.120
+      skip-cert-verify: true
+      sni: c03237cb.ba73fe85.netlib.re
+      type: trojan
       udp: true
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_1|24.6MB/s|GPT⁺"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.154.35
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_2|24.6MB/s|GPT⁺|GM"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.155.61
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_3|24.6MB/s|GPT"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.155.76
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_4|24.6MB/s|GPT"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.155.235
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_5|24.6MB/s|GPT⁺"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.155.12
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_6|24.6MB/s|GPT"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.154.51
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_7|24.6MB/s|GPT"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.155.81
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_8|24.6MB/s|GPT⁺"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.154.188
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_9|24.6MB/s|GPT⁺"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.154.228
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_10|24.6MB/s|GPT"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.154.192
-      type: ss
-    - cipher: aes-256-cfb
-      name: "\U0001F1FB\U0001F1F3VN_11|24.6MB/s|GPT⁺"
-      password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-      port: 38388
-      server: 103.186.154.187
-      type: ss
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+        path: /
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      http-opts:
+        headers: {}
+        path:
+            - /
+      name: "@github tonygyf\U0001F1E9\U0001F1EADE_8|24.6MB/s|GPT|YT-DE|NF|64%"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo
+        short-id: f203719d3ff9a5f5
+      server: a.de.maviks.ru
+      servername: www.microsoft.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: ce13ec9d-0f04-49c0-9877-0e7d1e657895
+      xudp: true
+    - alpn:
+        - http/1.1
+      client-fingerprint: random
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_7|24.6MB/s|GPT⁺|YT-FR|NF|D+|2%"
+      network: ws
+      password: "0"
+      port: "8443"
+      server: 95.182.97.125
+      skip-cert-verify: true
+      sni: c03237cb.ba73fe85.netlib.re
+      type: trojan
+      udp: true
+      ws-opts:
+        headers:
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+        path: /

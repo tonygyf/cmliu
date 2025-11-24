@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://git.ifso.site/
+github-proxy: https://ghproxy.dsdog.tk/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
@@ -105,3 +105,19 @@ sub-urls-retry: 3
 subscheck-version: v1.4.0
 gui-auto: false
 success-limit: 1000
+
+# 节点前缀，依赖rename-node为true才生效
+node-prefix: "@github tonygyf"
+
+# 填写搭建的apprise API server 地址
+# https://notify.xxxx.us.kg/notify
+apprise-api-server: ""
+# 填写通知目标
+# 支持100+ 个通知渠道，详细格式请参照 https://github.com/caronc/apprise
+recipient-url: 
+  # telegram格式：tgram://<bot_token>/<chat_id>
+  # - tgram://xxxxxx/-1002149239223
+  # 钉钉格式：dingtalk://<secret>@<dd_token>/<chat_id>
+  # - dingtalk://xxxxxx@xxxxxxx/123123
+# 自定义通知标题
+notify-title: "🔔 节点状态更新"
