@@ -1,253 +1,67 @@
 proxies:
   - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    http-opts:
-      headers: {}
-      path:
-        - /
-    name: "@github tonygyf\U0001F1F7\U0001F1FARU_1|24.6MB/s|YT-US"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
-      short-id: e499f276e7bd6420
-    server: ru01-blh04.tcp-reset-club.net
-    tls: true
-    type: vless
-    udp: true
-    uuid: 3b4d1c7f-4fd7-45bb-9251-79cd53a3e006
-    xudp: true
-    servername: splitter.wb.ru
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|4.8MB/s|YT-JP|NF|D+|GM|2%"
     network: ws
     port: 443
-    server: 193.124.18.13
+    server: 18.179.41.177
     tls: true
     type: vless
     udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    uuid: e258977b-e413-4718-a3af-02d75492c349
     ws-opts:
       headers:
-        Host: kuangbao.xiejiang.dpdns.org
+        Host: www.x-aniu--hk.netlib.re
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: www.x-aniu--hk.netlib.re
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_2|6.6MB/s|GPT⁺|YT-JP|NF|D+|GM"
+    network: ws
+    port: 443
+    server: 13.158.131.198
+    tls: true
+    type: vless
+    udp: true
+    uuid: e258977b-e413-4718-a3af-02d75492c349
+    ws-opts:
+      headers:
+        Host: www.x-aniu--sg.netlib.re
         User-Agent: >-
           Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/48.0.2564.109 Safari/537.36
+          Gecko) Chrome/46.0.2490.86 Safari/537.36
       path: /
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2560
     xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|NF|41%"
-    password: UAMVtHm54uahd6SiN5WcD16rsPSdabPG
-    port: 443
-    server: 23.95.72.81
-    type: ss
-    udp: true
-  - alpn:
-      - http/1.1
-    client-fingerprint: random
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
-    network: ws
-    password: '0'
-    port: 443
-    server: 198.41.208.120
-    skip-cert-verify: true
-    sni: c03237cb.ba73fe85.netlib.re
-    type: trojan
-    udp: true
-    ws-opts:
-      headers:
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/46.0.2490.80 Safari/537.36
-      path: /
-  - alpn:
-      - h3
-    client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_1|24.6MB/s|GPT⁺|YT-TW|NF|D+|GM"
-    network: ws
-    port: 43
-    server: 220.128.110.108
-    tls: true
-    type: vless
-    uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
-    ws-opts:
-      headers:
-        Host: s3.sni565.netlib.re
-      path: /proxyip=tw.sni2025.netlib.re
-    servername: s3.sni565.netlib.re
+    servername: www.x-aniu--sg.netlib.re
   - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F7\U0001F1FARU_2|24.6MB/s|GPT⁺|YT-RU|2%"
-    network: ws
-    port: 2053
-    server: 80.90.187.190
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L22 Build/HUAWEICUN-L22;
-          wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
-          Chrome/62.0.3202.84 Mobile Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F7\U0001F1FARU_3|24.6MB/s|YT-RU"
-    password: '907560230'
-    port: 17846
-    server: clr.ducks.tel
-    type: ss
-    udp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|24.6MB/s|GPT⁺|YT-US|NF|0%"
-    network: grpc
-    port: 17271
-    server: 141.227.180.236
-    type: vless
-    udp: true
-    uuid: f4563bd0-7c0f-45e0-817b-6c902e9507fa
-    xudp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_4|24.6MB/s|GPT⁺|NF|0%"
-    password: '907560230'
-    port: 17844
-    server: clr.ducks.tel
-    type: ss
-    udp: true
-  - alpn:
-      - h3
-    client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_1|24.6MB/s|GPT|YT-KR|D+|GM"
-    network: ws
-    port: 50001
-    server: 125.141.4.132
-    tls: true
-    type: vless
-    uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
-    ws-opts:
-      headers:
-        Host: s3.sni565.netlib.re
-      path: /proxyip=tw.sni2025.netlib.re
-    servername: s3.sni565.netlib.re
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|NF|D+|2%"
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_3|2.9MB/s|GPT⁺|YT-JP|NF|D+|GM|2%"
     network: ws
     port: 443
-    server: 142.132.140.130
+    server: 52.198.141.70
     tls: true
     type: vless
     udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    uuid: e258977b-e413-4718-a3af-02d75492c349
     ws-opts:
       headers:
-        Host: kuangbao.xiejiang.dpdns.org
+        Host: www.x-aniu--jp.netlib.re
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/70.0.3538.67 Safari/537.36
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
       path: /
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2560
     xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
+    servername: www.x-aniu--jp.netlib.re
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺|NF|D+|2%"
-    network: ws
-    port: 443
-    server: 49.12.210.182
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/41.0.2228.0 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: chrome
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|NF|D+|2%"
-    network: ws
-    port: 2053
-    server: 194.35.119.135
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
-          Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - alpn:
-      - h3
-    client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_2|24.6MB/s|GPT|YT-KR|D+|GM"
-    network: ws
-    port: 33143
-    server: 222.104.213.148
-    tls: true
-    type: vless
-    uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
-    ws-opts:
-      headers:
-        Host: s3.sni565.netlib.re
-      path: /proxyip=tw.sni2025.netlib.re
-    servername: s3.sni565.netlib.re
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|24.6MB/s|GPT⁺|D+|2%"
-    network: ws
-    port: 2053
-    server: 90.156.228.74
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/51.0.2704.103 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|24.6MB/s|GPT⁺|YT-JP|NF|GM"
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|1.9MB/s|GPT⁺|YT-JP|NF|D+|GM|2%"
     network: ws
     port: 443
     server: 54.249.169.40
@@ -267,7 +81,7 @@ proxies:
     xudp: true
     servername: kuangbao.xiejiang.dpdns.org
   - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|24.6MB/s|GPT⁺|6%"
+    name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|1.0MB/s|GPT⁺|YT-RU|NF|5%"
     password: yo6h9qkhwz8UJoTZCRtoSi
     port: 34094
     server: 78.40.116.178
@@ -275,140 +89,7 @@ proxies:
     udp: true
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_1|24.6MB/s|GPT⁺|NF|D+|100%"
-    network: ws
-    port: 443
-    server: 206.189.25.65
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/53.0.2785.143 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: chrome
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_5|24.6MB/s|GPT⁺|2%"
-    network: ws
-    port: 443
-    server: 47.79.41.201
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/70.0.3538.102 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: chrome
-    name: "@github tonygyf\U0001F1EA\U0001F1F8ES_1|24.6MB/s|GPT|D+"
-    network: ws
-    password: 9ccc3e1d-3df5-4348-aa05-738310149cc3
-    port: 443
-    server: 45.86.229.28
-    skip-cert-verify: false
-    sni: joss.gpj1.web.id
-    type: trojan
-    udp: true
-    ws-opts:
-      headers:
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/67.0.3396.99 Safari/537.36
-      path: /Free-VPN-CF-Geo-Project/45.86.229.28=443
-  - cipher: aes-256-cfb
-    name: "@github tonygyf\U0001F1FB\U0001F1F3VN_1|24.6MB/s|GPT⁺"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.29
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "@github tonygyf\U0001F1FB\U0001F1F3VN_2|24.6MB/s|GPT⁺"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.154
-    type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1E7\U0001F1F7BR_1|24.6MB/s|GPT⁺|27%"
-    password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu
-    port: 443
-    server: 213.159.66.206
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F9\U0001F1F7TR_1|24.6MB/s|GPT|D+|GM|2%"
-    network: ws
-    port: 8443
-    server: 213.142.149.3
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/57.0.2987.133 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - alpn:
-      - h3
-    client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_3|24.6MB/s|NF|D+"
-    network: ws
-    port: 50001
-    server: 115.90.84.220
-    tls: true
-    type: vless
-    uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
-    ws-opts:
-      headers:
-        Host: s3.sni565.netlib.re
-      path: /proxyip=tw.sni2025.netlib.re
-    servername: s3.sni565.netlib.re
-  - alpn:
-      - h3
-    auth-str: dongtaiwang.com
-    down: 55 Mbps
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_2|24.6MB/s|GPT⁺"
-    port: 50011
-    protocol: udp
-    server: 62.210.10.186
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: 11 Mbps
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F2\U0001F1E9MD_1|24.6MB/s|GPT⁺"
-    password: mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp
-    port: 443
-    server: 213.159.67.124
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_6|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|1.1MB/s|GPT|YT-US|NF|D+|GM|2%"
     network: ws
     port: 2096
     server: 108.162.198.24
@@ -428,125 +109,34 @@ proxies:
       max-early-data: 2560
     xudp: true
     servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: safari
-    encryption: none
-    grpc-opts:
-      grpc-service-name: 78e691d782c9b9b2cd3c5621
-    name: "@github tonygyf\U0001F1EE\U0001F1F3IN_1|24.6MB/s|GPT⁺|YT-SG|NF|GM"
-    network: grpc
-    port: 443
-    reality-opts:
-      public-key: L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ
-      short-id: ce874361e8dfcd4e
-    server: 194.61.31.126
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5f39f871-2fae-446e-99ad-719fa8be687c
-    xudp: true
-    servername: www.microsoft.com
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_3|24.6MB/s|GPT⁺|NF|0%"
-    network: grpc
-    port: 46353
-    server: 141.227.170.6
-    type: vless
-    udp: true
-    uuid: 85dabec7-47ef-4fda-b332-83d723cc2487
-    xudp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1EE\U0001F1F3IN_2|24.6MB/s|GPT⁺|YT-IN|NF|GM|2%"
-    network: ws
-    port: 443
-    server: 98.70.151.190
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/69.0.3497.100 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
   - alpn:
       - h3
     client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_4|24.6MB/s|GPT⁺|YT-KR|D+"
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_1|2.9MB/s|GPT|YT-TW|NF|D+|GM"
     network: ws
-    port: 50001
-    server: 106.245.165.137
+    port: 43
+    server: 220.128.110.108
     tls: true
     type: vless
-    udp: true
     uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
     ws-opts:
       headers:
         Host: s3.sni565.netlib.re
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/62.0.3202.89 Safari/537.36
       path: /proxyip=tw.sni2025.netlib.re
-    xudp: true
     servername: s3.sni565.netlib.re
   - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|24.6MB/s|GPT|YT-SG|D+"
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|4.6MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
     network: ws
-    port: 443
-    server: 95.40.61.115
+    port: 2087
+    server: 104.18.33.246
     tls: true
     type: vless
     udp: true
-    uuid: 69228a95-e9cb-b1ff-40d2-7315d9d4b9b7
+    uuid: e258977b-e413-4718-a3af-02d75492c349
     ws-opts:
       headers:
-        Host: s3.sni565.netlib.re
-        User-Agent: >-
-          Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36
-          (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
-      path: /proxyip=tw.sni2025.netlib.re
-    xudp: true
-    servername: s3.sni565.netlib.re
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_7|24.6MB/s|GPT⁺|NF|8%"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo
-      short-id: 07e904766d29b958
-    server: 77.110.119.225
-    tls: true
-    type: vless
-    udp: true
-    uuid: 4819860c-0e62-4804-9c59-967e5c2bed7a
-    xudp: true
-    servername: st.ozone.ru
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_2|24.6MB/s|GPT|NF|D+|2%"
-    network: ws
-    port: 7000
-    server: 202.85.53.160
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
+        Host: www.x-aniu--jp.netlib.re
         User-Agent: >-
           Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
           Gecko) Chrome/52.0.2743.116 Safari/537.36
@@ -554,146 +144,330 @@ proxies:
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2560
     xudp: true
+    servername: www.x-aniu--jp.netlib.re
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_4|8.0MB/s|GPT⁺|YT-JP|NF|D+|GM|2%"
+    network: ws
+    port: 443
+    server: 54.95.79.44
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    ws-opts:
+      headers:
+        Host: kuangbao.xiejiang.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/42.0.2311.90 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
     servername: kuangbao.xiejiang.dpdns.org
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_3|24.6MB/s|YT-HK"
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_4|5.2MB/s|GPT⁺|YT-US|NF|D+|GM|2%"
+    network: ws
+    port: 2096
+    server: 108.162.198.11
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    ws-opts:
+      headers:
+        Host: kuangbao.xiejiang.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/58.0.3029.81 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: kuangbao.xiejiang.dpdns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|1.2MB/s|GPT⁺|NF|D+|2%"
+    network: ws
+    port: 443
+    server: 142.132.140.130
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    ws-opts:
+      headers:
+        Host: kuangbao.xiejiang.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: kuangbao.xiejiang.dpdns.org
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_5|6.1MB/s|GPT⁺|YT-US|NF|D+|GM"
+    network: ws
+    port: 2087
+    server: 104.18.46.49
+    tls: true
+    type: vless
+    udp: true
+    uuid: e258977b-e413-4718-a3af-02d75492c349
+    ws-opts:
+      headers:
+        Host: www.x-aniu--sg.netlib.re
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.87 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: www.x-aniu--sg.netlib.re
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|1.3MB/s|GPT⁺|NF|D+|2%"
+    network: ws
+    port: 8443
+    server: 95.140.157.183
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    ws-opts:
+      headers:
+        Host: kuangbao.xiejiang.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/48.0.2564.109 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: kuangbao.xiejiang.dpdns.org
+  - alpn:
+      - h3
+    auth-str: dongtaiwang.com
+    down: 55 Mbps
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|1.5MB/s|GPT⁺"
+    port: 50011
+    protocol: udp
+    server: 62.210.10.186
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: 11 Mbps
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_5|1.4MB/s|GPT⁺|YT-JP|NF|D+"
+    network: ws
+    port: 443
+    server: 18.183.89.240
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    ws-opts:
+      headers:
+        Host: kuangbao.xiejiang.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.79 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: kuangbao.xiejiang.dpdns.org
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EA\U0001F1F8ES_1|4.0MB/s|GPT⁺|YT-ES|NF|D+|2%"
+    network: ws
+    port: 443
+    server: 68.221.24.211
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    ws-opts:
+      headers:
+        Host: kuangbao.xiejiang.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    xudp: true
+    servername: kuangbao.xiejiang.dpdns.org
+  - down: ''
+    fingerprint: ''
+    name: "@github tonygyf\U0001F1F9\U0001F1F7TR_1|3.0MB/s|GPT⁺|YT-US|NF|D+|GM|0%"
+    obfs: ''
+    obfs-password: ''
+    password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+    port: 21105
+    server: tr.xn--gmq00sc0nuve.shop
+    skip-cert-verify: true
+    sni: tr.xn--gmq00sc0nuve.shop
+    type: hysteria2
+    up: ''
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|4.0MB/s|GPT⁺|YT-RU|NF|D+|58%"
+    password: AlpldoLUFF2i98TjpLKgl2
+    port: 7048
+    server: 62.133.60.60
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_6|6.6MB/s|GPT⁺|YT-US|NF|29%"
+    network: ws
+    port: 443
+    server: 172.67.162.50
+    tls: true
+    type: vless
+    udp: true
+    uuid: e4cbe8b8-37db-4aaa-8469-b84f34c51ebc
+    ws-opts:
+      headers:
+        Host: eEedFR5.7777155.Xyz
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/62.0.3202.89 Safari/537.36
+      path: /6OWLjRc26b0nHYr5hYXD
+    xudp: true
+    servername: eEedFR5.7777155.Xyz
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|1.3MB/s|GPT⁺|YT-US|NF|78%"
+    password: k1dBOmOB4oqi7Ump37a1bQ
+    port: 8080
+    server: 82.38.31.176
+    type: ss
+    udp: true
+  - encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_7|6.5MB/s|NF"
+    network: ws
+    port: 80
+    server: www.speedtest.net
+    type: vless
+    udp: true
+    uuid: 0267b737-c79b-4092-95ad-74694cbbce32
+    ws-opts:
+      headers:
+        Host: >-
+          websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; vivo 1603 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile
+          Safari/537.36
+      path: >-
+        /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+    xudp: true
+  - encryption: none
+    grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_2|4.8MB/s|GPT⁺|YT-FR|NF|0%"
+    network: grpc
+    port: 46354
+    server: 141.227.170.6
+    type: vless
+    udp: true
+    uuid: 3ca79de7-3eca-436d-9ef3-7112cd56506d
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|4.3MB/s|GPT⁺|YT-RU|NF|D+|32%"
+    network: tcp
+    port: 31156
+    reality-opts:
+      public-key: Btx8LmnQPqsknVhtDECp8HVxWGTUJa5WOmyMVPLSRT0
+      short-id: a901f81996e9e4dd
+    server: 80.253.251.121
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3a69f9d8-45f6-4ab3-a96b-b5f6b17f6b07
+    xudp: true
+    servername: yandex.ru
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F5\U0001F1F1PL_1|1.3MB/s|GPT⁺|0%"
     network: tcp
     port: 443
     reality-opts:
-      public-key: TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw
-      short-id: ''
-    server: 43.100.81.250
+      public-key: q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI
+      short-id: 22628a15a948
+    server: 45.144.50.162
     tls: true
     type: vless
     udp: true
-    uuid: 3e7f67de-648e-4871-b51a-a225214d41ee
+    uuid: 39198da5-1cd5-4d48-b70a-af5a454a22d2
     xudp: true
-    servername: www.primevideo.com
+    servername: yahoo.com
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_4|24.6MB/s|D+"
-    network: ws
-    port: 2096
-    server: wangcai.cf.877774.xyz
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_4|3.2MB/s|GPT⁺|NF|20%"
+    network: tcp
+    port: 2066
+    reality-opts:
+      public-key: '-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY'
+      short-id: 6b245ab1
+    server: 185.193.17.80
     tls: true
     type: vless
     udp: true
-    uuid: d78d48df-b788-4a95-9e9f-77c9b2f69822
-    ws-opts:
-      headers:
-        Host: joss.gpj1.web.id
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/40.0.2214.115 Safari/537.36
-      path: "/Free-VPN-CF-Geo-Project/HK?Telegram\U0001F1E8\U0001F1F3+@WangCai2"
+    uuid: 44830663-914e-4127-a9b3-412406f59cbe
     xudp: true
-    servername: joss.gpj1.web.id
+    servername: yahoo.com
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_3|24.6MB/s|GPT⁺|NF|D+"
-    network: ws
-    port: 2053
-    server: 81.200.154.2
+    grpc-opts:
+      grpc-service-name: '@ShikaVPN-@ShikaVPN-@ShikaVPN'
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_3|2.3MB/s|GPT⁺|YT-HK|0%"
+    network: grpc
+    port: 80
+    reality-opts:
+      public-key: auO272-_OexAycHNbiFJCPjdAiujfj2XgjqyAvL5ewo
+      short-id: 7ace7f5f
+    server: 46.8.231.189
     tls: true
     type: vless
     udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/69.0.3497.100 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
+    uuid: 779fb389-d65d-4f8b-887a-cc0b0581f34f
     xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
+    servername: www.cloudflare.com
+  - encryption: none
+    grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_3|5.4MB/s|GPT⁺|YT-US|NF|0%"
+    network: grpc
+    port: 17272
+    server: 141.227.180.236
+    type: vless
+    udp: true
+    uuid: 99be4397-d26c-41e3-8a77-4f0abdc4dd6f
+    xudp: true
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|24.6MB/s|GPT"
-    network: ws
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1F7\U0001F1FARU_1|4.1MB/s"
+    network: tcp
     port: 443
-    server: 139.185.34.131
+    reality-opts:
+      public-key: g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k
+      short-id: e4
+    server: 212.233.75.107
     tls: true
     type: vless
     udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/46.0.2490.80 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
+    uuid: bca5cfe1-3d2a-45dc-b66a-96298e0051f5
     xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_8|24.6MB/s|NF|D+|2%"
-    network: ws
-    port: 30004
-    server: 211.252.50.74
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/65.0.3325.181 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1E6\U0001F1EAAE_1|24.6MB/s"
-    network: ws
-    port: 12648
-    server: 193.123.90.82
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    ws-opts:
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/47.0.2526.106 Safari/537.36
-      path: /
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: kuangbao.xiejiang.dpdns.org
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1F7\U0001F1FARU_4|24.6MB/s"
-    network: ws
-    port: 8443
-    server: zcreat.ethervpn.fun
-    tls: true
-    type: vless
-    udp: true
-    uuid: a47595a8-1add-401a-8189-e6799f8d8628
-    ws-opts:
-      headers:
-        Host: zcreat.ethervpn.fun
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/49.0.2623.87 Safari/537.36
-      path: /websocketpl
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2047
-    xudp: true
-    servername: zcreat.ethervpn.fun
+    servername: bit-site.ru
 rule-providers:
   private:
     url: >-
