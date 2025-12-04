@@ -1,43 +1,9 @@
 proxies:
-  - down: ''
-    fingerprint: ''
-    name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|4.0MB/s|GPT|YT-GB|NF|D+"
-    obfs: salamander
-    obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
-    password: 77238c49bd20e407f05e0c073ad08fdb
-    port: 989
-    server: dd.openaccessnode.com
-    skip-cert-verify: true
-    sni: dd.ircybersec.org
-    type: hysteria2
-    up: ''
-  - alpn:
-      - h2
-    client-fingerprint: chrome
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|3.3MB/s|GPT⁺|YT-US|NF|54%"
-    network: ws
-    port: 8443
-    server: www.ntu.edu.sg
-    tls: true
-    type: vless
-    udp: true
-    uuid: 572a0d47-567c-4085-a2de-69cc41365a27
-    ws-opts:
-      headers:
-        Host: rncf.wwxgxn.cfd
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/60.0.3112.90 Safari/537.36
-      path: /sayuri
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: rncf.wwxgxn.cfd
   - encryption: none
     grpc-opts:
       grpc-service-name: >-
         ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|3.6MB/s|GPT⁺|YT-US|NF|0%"
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|5.4MB/s|GPT⁺|YT-US|NF|0%"
     network: grpc
     port: 56089
     server: 141.227.172.96
@@ -45,70 +11,168 @@ proxies:
     udp: true
     uuid: 2d535288-d08e-4de4-b674-fd8cb3c6e4d3
     xudp: true
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: '55'
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|3.5MB/s|GPT⁺"
-    obfs: ''
-    port: 49003
-    protocol: ''
-    server: 51.159.226.1
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: '11'
-    auth-str: dongtaiwang.com
-  - down: ''
-    fingerprint: ''
-    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|2.3MB/s|YT-CN|NF|2%"
-    obfs: ''
-    obfs-password: ''
-    password: d70a9508-5477-11ef-bf61-f23c913c8d2b
-    port: 443
-    server: 4904cf65-t53wg0-t7scm6-1o20w.hk1.hyhuawei.com
-    skip-cert-verify: false
-    sni: 4904cf65-t53wg0-t7scm6-1o20w.hk1.hyhuawei.com
-    type: hysteria2
-    up: ''
-  - encryption: none
-    name: '@github tonygyf❓Other_1|7.1MB/s|GPT⁺|YT-US|NF'
+  - client-fingerprint: random
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|1.0MB/s|GPT⁺|YT-US|NF|D+|GM|12%"
     network: ws
-    port: 2082
-    server: www.speedtest.net
+    port: 2053
+    server: 193.124.18.108
+    tls: true
     type: vless
     udp: true
-    uuid: 2cfb6dc9-02c6-4ba7-a5bc-da03c379ab12
+    uuid: 78fc9ba9-9c68-4b49-891f-ea9e38bd3b56
     ws-opts:
       headers:
-        Host: >-
-          novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
+        Host: ak.suoni.nyc.mn
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.76 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: ak.suoni.nyc.mn
+  - encryption: none
+    grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_2|1.5MB/s|GPT⁺|YT-US|NF|0%"
+    network: grpc
+    port: 33919
+    server: 141.227.162.151
+    type: vless
+    udp: true
+    uuid: 9eee43b5-6b7d-494a-a5b3-fb45b7ee4976
+    xudp: true
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_3|5.3MB/s|GPT⁺|YT-CN|D+|4%"
+    network: ws
+    port: 443
+    server: 69.84.182.13
+    tls: true
+    type: vless
+    udp: true
+    uuid: 02fe8dae-73b7-4f1d-a992-f0e226a98f27
+    ws-opts:
+      headers:
+        Host: fr-1-fr-1.aiopen.sbs
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3 Build/HUAWEIFIG-LX3)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /kbjc/fr1
+    xudp: true
+    servername: fr-1-fr-1.aiopen.sbs
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|2.0MB/s|YT-HK|NF|D+|2%"
+    password: 79314e99f0a473fe86efc7827942ad00
+    port: 443
+    server: 203.198.122.13
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1F7TR_1|1.4MB/s|GPT⁺|NF|D+|32%"
+    network: tcp
+    port: 32690
+    reality-opts:
+      public-key: 5C6bZsJKoDICwBbNH4VFlOk2uW1YYoR1vrPHgNURcns
+      short-id: 6b5c55d3bfc0356f
+    server: 77.83.245.194
+    tls: true
+    type: vless
+    udp: true
+    uuid: 0f24429c-bcf6-4011-8a1b-a3e5eda7452a
+    xudp: true
+    servername: yandex.ru
+  - client-fingerprint: random
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|1.6MB/s|GPT⁺|YT-KR|NF|D+|GM|50%"
+    network: ws
+    port: 50001
+    server: 121.178.121.161
+    tls: true
+    type: vless
+    udp: true
+    uuid: 78fc9ba9-9c68-4b49-891f-ea9e38bd3b56
+    ws-opts:
+      headers:
+        Host: ak.suoni.nyc.mn
         User-Agent: >-
           Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/57.0.2987.133 Safari/537.36
-      path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2082
+          like Gecko) Chrome/70.0.3538.110 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
     xudp: true
-  - encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|2.9MB/s|GPT⁺|8%"
+    servername: ak.suoni.nyc.mn
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|14.9MB/s|YT-JP|NF|D+|GM"
     network: ws
-    port: 2095
-    server: numberland.ir
+    port: 4399
+    server: 139.162.83.106
+    tls: true
     type: vless
     udp: true
-    uuid: TEL--JKVPN--JKVPN-30
+    uuid: aa7f42cc-616f-4550-9a87-4b85bb409121
     ws-opts:
       headers:
-        Host: joKer.mEmBerGolaBi.IR
+        Host: vless3.datatestvless.click
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/45.0.2454.85 Safari/537.36
-      path: >-
-        /TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2048
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.79 Safari/537.36
+      path: /
     xudp: true
+    servername: vless3.datatestvless.click
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_4|1.8MB/s|GPT|YT-US|NF|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: BkAG_uWeUj7BCHqYjrz1JyH0TMvO_KywubV7WJN17ho
+      short-id: ee6f3e8f44b1f0b6
+    server: 62.60.148.21
+    tls: true
+    type: vless
+    udp: true
+    uuid: 39e5cc2f-1294-4a42-bb58-306a8be785e1
+    xudp: true
+    servername: st.ozone.ru
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|3.9MB/s|GPT⁺|YT-US|NF|82%"
+    password: k1dBOmOB4oqi7Ump37a1bQ
+    port: 8080
+    server: 82.38.31.210
+    type: ss
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|2.7MB/s|GPT⁺|YT-US|NF|0%"
+    password: k1dBOmOB4oqi7Ump37a1bQ
+    port: 8080
+    server: 82.38.31.191
+    type: ss
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_3|2.9MB/s|GPT⁺|YT-US|NF|67%"
+    password: k1dBOmOB4oqi7Ump37a1bQ
+    port: 8080
+    server: 82.38.31.217
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1F7TR_2|1.1MB/s|GPT⁺|YT-US|NF|D+|0%"
+    network: tcp
+    port: 35025
+    reality-opts:
+      public-key: pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M
+      short-id: 9d0424d2
+    server: 88.209.249.199
+    tls: true
+    type: vless
+    udp: true
+    uuid: bea74dd6-ca4d-493b-8d1e-be12f7b489ed
+    xudp: true
+    servername: refersion.com
 rule-providers:
   private:
     url: >-
