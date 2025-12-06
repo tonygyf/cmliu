@@ -1,57 +1,188 @@
 proxies:
-    - down: ""
-      fingerprint: ""
-      name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|6.3MB/s|GPT⁺|YT-GB|NF|D+|1%"
-      obfs: salamander
-      obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
-      password: 77238c49bd20e407f05e0c073ad08fdb
-      port: "989"
-      server: dd.openaccessnode.com
-      skip-cert-verify: true
-      sni: dd.ircybersec.org
-      type: hysteria2
-      up: ""
-    - encryption: none
-      grpc-opts:
-        grpc-service-name: ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|3.9MB/s|GPT⁺|YT-US|NF|0%"
-      network: grpc
-      port: "33919"
-      server: 141.227.162.151
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|1.5MB/s|YT-US|NF|D+|GM"
+      network: ws
+      port: "443"
+      server: 104.19.175.74
+      servername: www.x-aniu-s-g.netlib.re
+      tls: true
       type: vless
       udp: true
-      uuid: 9eee43b5-6b7d-494a-a5b3-fb45b7ee4976
-      xudp: true
-    - client-fingerprint: chrome
-      name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|4.9MB/s|GPT⁺|YT-US|D+|GM"
-      network: ws
-      password: 8r<[9'l6hAO#8ZQi
-      port: "8443"
-      server: koma-yt.pages.dev
-      skip-cert-verify: false
-      sni: Koma-YT.PAGeS.Dev
-      type: trojan
-      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
       ws-opts:
         headers:
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
-        path: /tro8sFW1S91B6sZrM1?ed=2560
-    - encryption: none
-      grpc-opts:
-        grpc-service-name: ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_2|2.1MB/s|0%"
-      network: grpc
-      port: "56089"
-      server: 141.227.172.96
+            Host: www.x-aniu-s-g.netlib.re
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|1.4MB/s|YT-SG|NF|D+|GM"
+      network: ws
+      port: "443"
+      server: 34.92.187.216
+      servername: www.x-aniu-h-k.netlib.re
+      tls: true
       type: vless
       udp: true
-      uuid: 2d535288-d08e-4de4-b674-fd8cb3c6e4d3
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu-h-k.netlib.re
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+        path: /?ed=2560
       xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|2.5MB/s|GPT|YT-US|NF|D+|GM"
+      network: ws
+      port: "443"
+      server: 104.17.238.33
+      servername: www.x-aniu-s-g.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu-s-g.netlib.re
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|1.3MB/s|YT-US|NF|D+|GM"
+      network: ws
+      port: "443"
+      server: 104.18.77.53
+      servername: www.x-aniu-h-k.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu-h-k.netlib.re
+            User-Agent: Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|4.7MB/s|YT-JP|GM"
+      network: ws
+      port: "443"
+      server: 54.248.56.163
+      servername: www.x-aniu-h-k.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu-h-k.netlib.re
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_4|1.2MB/s|YT-US|NF|D+|GM"
+      network: ws
+      port: "443"
+      server: 104.17.254.251
+      servername: www.x-aniu-h-k.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu-h-k.netlib.re
+            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_5|2.3MB/s|YT-US|NF|D+|GM"
+      network: ws
+      port: "443"
+      server: 104.16.45.135
+      servername: www.x-aniu-h-k.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu-h-k.netlib.re
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      name: "@github tonygyf\U0001F1FA\U0001F1F8US_6|2.4MB/s|YT-US|NF|D+|GM"
+      network: ws
+      port: "443"
+      server: 104.19.173.47
+      servername: www.x-aniu-h-k.netlib.re
+      tls: true
+      type: vless
+      udp: true
+      uuid: e258977b-e413-4718-a3af-02d75492c349
+      ws-opts:
+        headers:
+            Host: www.x-aniu-h-k.netlib.re
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+        path: /?ed=2560
+      xudp: true
+    - client-fingerprint: chrome
+      encryption: none
+      flow: xtls-rprx-vision
+      name: "@github tonygyf\U0001F1FA\U0001F1E6UA_1|3.5MB/s|GPT⁺|YT-US|NF|0%"
+      network: tcp
+      port: "8443"
+      reality-opts:
+        public-key: IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg
+        short-id: ""
+      server: ua.griffon-guard.com
+      servername: apple.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: 6a753f74-b279-44d7-a442-b5cbc425569f
+      xudp: true
+    - client-fingerprint: random
+      encryption: none
+      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|3.2MB/s|GPT⁺|YT-RU|32%"
+      network: tcp
+      port: "49943"
+      reality-opts:
+        public-key: _7L2lOpu_wMQLTxy0VT0WIHe8yYfBFKKq8wWWLr-4Tw
+        short-id: ffffffffff
+      server: 89.23.113.137
+      servername: ietf.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: _911331
+      xudp: true
+    - down: ""
+      fingerprint: ""
+      name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|4.9MB/s|GPT⁺|YT-FR|NF"
+      obfs: ""
+      obfs-password: ""
+      password: dongtaiwang.com
+      port: "33880"
+      server: 195.154.206.231
+      skip-cert-verify: true
+      sni: apple.com
+      type: hysteria2
+      up: ""
     - client-fingerprint: chrome
       encryption: none
       grpc-opts:
         grpc-service-name: -@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--@v2rayNGcloud--
-      name: "@github tonygyf\U0001F1F8\U0001F1EASE_2|3.1MB/s|GPT⁺|YT-RU|NF|D+|0%"
+      name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|3.9MB/s|GPT⁺|YT-SE|NF|D+|0%"
       network: grpc
       port: "443"
       reality-opts:
@@ -62,99 +193,21 @@ proxies:
       tls: true
       type: vless
       udp: true
-      uuid: '----v2rayNGcloud----'
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|2.0MB/s|GPT⁺|NF|D+|0%"
-      network: ws
-      port: "443"
-      server: clyde.ns.cloudflare.com
-      servername: redlabell.info
-      tls: true
-      type: vless
-      udp: true
-      uuid: 02e46039-200d-4ae4-ac90-b0d619f72034
-      ws-opts:
-        headers:
-            Host: redlabell.info
-            User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX3 Build/HUAWEIWAS-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-        path: /aafeuws
+      uuid: Chanel---V2RAYNGCLOUD---
       xudp: true
     - client-fingerprint: chrome
       encryption: none
       flow: xtls-rprx-vision
-      http-opts:
-        headers: {}
-        path:
-            - /
-      name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|2.3MB/s|GPT⁺|YT-CN|NF|D+|100%"
+      name: '@github tonygyf❓Other_1|4.0MB/s|GPT⁺'
       network: tcp
       port: "443"
       reality-opts:
-        public-key: SZFtIuW-boSaWMV3h6B1fkNDBQxjYPLu88mEPQJkvBg
-        short-id: 7ca4da3d4d5875
-      server: 151.244.214.19
-      servername: www.microsoft.com
+        public-key: fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ
+        short-id: 21181028b56c8702
+      server: 84.32.64.39
+      servername: www.apple.com
       tls: true
       type: vless
       udp: true
-      uuid: 49bfe308-0c0f-4770-bd81-bb2ff8efa03a
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      http-opts:
-        headers: {}
-        path:
-            - /
-      name: "@github tonygyf\U0001F1F0\U0001F1F7KR_1|2.0MB/s|GPT⁺|YT-KR|NF|GM|12%"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: iZStU8hKa_laN-saNonk-Pw9TPWh07yc_m89tBn5O2M
-        short-id: 44af
-      server: 152.67.217.247
-      servername: www.samsung.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 49bfe308-0c0f-4770-bd81-bb2ff8efa03a
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      flow: xtls-rprx-vision
-      http-opts:
-        headers: {}
-        path:
-            - /
-      name: "@github tonygyf\U0001F1EC\U0001F1E7GB_1|4.5MB/s|GPT⁺"
-      network: tcp
-      port: "443"
-      reality-opts:
-        public-key: _dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA
-        short-id: d923
-      server: 140.238.101.212
-      servername: www.bp.com
-      tls: true
-      type: vless
-      udp: true
-      uuid: 49bfe308-0c0f-4770-bd81-bb2ff8efa03a
-      xudp: true
-    - client-fingerprint: chrome
-      encryption: none
-      name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|2.6MB/s|GPT⁺|YT-US|D+|0%"
-      network: ws
-      port: "443"
-      server: serena.ns.cloudflare.com
-      servername: freudd.info
-      tls: true
-      type: vless
-      udp: true
-      uuid: f028a8c0-6763-4558-aee3-2563db9d7825
-      ws-opts:
-        headers:
-            Host: freudd.info
-            User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
-        path: /xxvclws
+      uuid: 793099c5-0712-4ea0-bbe1-455da88fc671
       xudp: true
