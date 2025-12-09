@@ -1,63 +1,176 @@
 proxies:
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|7.7MB/s|GPT⁺|YT-US|GM|0%"
+    network: ws
+    port: 443
+    server: cdncdncdn.aikunapp.com
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 891c7691-4356-48db-ba5c-6e0d60d8004c
+    ws-opts:
+      early-data-header-name: Sec-WebSocket-Protocol
+      headers:
+        Host: cdn-us.sm-node.com
+      max-early-data: 4096
+      path: /vmess_ws/smjc/index
+    xudp: true
+    servername: r-VxJR3Cco1otEHTmm.sm-node.com
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1F7\U0001F1FARU_1|3.7MB/s|YT-RU"
+    name: "@github tonygyf\U0001F1F7\U0001F1FARU_1|1.1MB/s|GPT|YT-NL|NF|0%"
     network: tcp
-    port: 8443
+    port: 4443
     reality-opts:
-      public-key: 73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU
-      short-id: 7c9cc821
-    server: 176.123.162.253
+      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
+      short-id: aa7e96542880027a
+    server: 147.45.230.128
     tls: true
     type: vless
     udp: true
-    uuid: 2a2a6062-003c-0012-b293-ee0d0416afee
+    uuid: 3121850a-24aa-41f9-936d-dbdf10a3b31f
     xudp: true
-    servername: pimg.mycdn.me
+    servername: github.com
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1F7\U0001F1FARU_2|4.4MB/s|YT-RU"
+    name: "@github tonygyf\U0001F1F5\U0001F1F1PL_1|4.2MB/s|GPT⁺|NF|0%"
     network: tcp
-    port: 8443
+    port: 1488
     reality-opts:
-      public-key: 73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU
-      short-id: 7c9cc821
-    server: 87.242.101.25
+      public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+      short-id: ''
+    server: 51.250.99.190
     tls: true
     type: vless
     udp: true
-    uuid: 2a2a6062-003c-0012-b293-ee0d0416afee
+    uuid: 4a6de183-2ad3-456c-b420-feeac81f6257
     xudp: true
-    servername: pimg.mycdn.me
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|2.5MB/s|GPT⁺|YT-US|NF|0%"
-    network: grpc
-    port: 29803
-    server: 141.227.178.242
+    servername: ads.x5.ru
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1F5\U0001F1F1PL_2|1.1MB/s|GPT⁺|NF|0%"
+    network: tcp
+    port: 1488
+    reality-opts:
+      public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+      short-id: 6ba85179e30d4fc2
+    server: 51.250.109.47
+    tls: true
     type: vless
     udp: true
-    uuid: aa4f8c93-e4ec-48fe-8043-2f8e4f1c006d
+    uuid: 4a6de183-2ad3-456c-b420-feeac81f6257
     xudp: true
+    servername: ads.x5.ru
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|1.4MB/s|GPT⁺|YT-RU|NF|D+|GM|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+      short-id: 48720c
+    server: us01-vlr01-gmn03.vpnvezdehod.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2ca07504-c06a-41a4-b26b-99807a7d24cf
+    xudp: true
+    servername: hls-svod.itunes.apple.com
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|1.1MB/s|GPT⁺|NF|D+|0%"
+    network: tcp
+    port: 1488
+    reality-opts:
+      public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+      short-id: 6ba85179e30d4fc2
+    server: 51.250.25.11
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4a6de183-2ad3-456c-b420-feeac81f6257
+    xudp: true
+    servername: ads.x5.ru
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|6.9MB/s|GPT⁺|YT-US|NF|D+|GM|3%"
+    network: ws
+    password: '8r<[9''l6hAO#8ZQi'
+    port: 8443
+    server: koma-yt.pages.dev
+    skip-cert-verify: false
+    sni: Koma-YT.PAGeS.Dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/31.0.1650.57 Safari/537.36
+      path: /tro8sFW1S91B6sZrM1
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|4.3MB/s|GPT|YT-RU|NF|0%"
+    network: tcp
+    port: 4443
+    reality-opts:
+      public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
+      short-id: aa7e96542880027a
+    server: 94.141.161.204
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3121850a-24aa-41f9-936d-dbdf10a3b31f
+    xudp: true
+    servername: github.com
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|2.7MB/s|GPT⁺|YT-RU|NF|D+|57%"
+    password: wT8cI61voYyCRG2v9v41Ce
+    port: 7048
+    server: 62.133.60.60
+    type: ss
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|2.7MB/s|GPT⁺|YT-US|NF|GM|0%"
+    password: uA1rLP5m0mMOQ8FcxRXxgr
+    port: 26515
+    server: 209.74.82.227
+    type: ss
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F7\U0001F1FARU_2|2.0MB/s"
+    password: AqZbt1QCs3ngEfXo1p7T-w
+    port: 1080
+    server: 81.200.158.206
+    type: ss
+    udp: true
   - encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|5.2MB/s|GPT|YT-US|NF|10%"
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_4|5.8MB/s|GPT⁺|YT-US|NF|9%"
     network: ws
     port: 2082
     server: www.speedtest.net
     type: vless
     udp: true
-    uuid: 27ffeaad-e076-422c-b416-ee34ff4869e0
+    uuid: 21a4f9b4-8b7c-440c-8c9a-8e61d001ad80
     ws-opts:
       headers:
         Host: >-
           novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+          Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
       path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2082
@@ -69,55 +182,43 @@ proxies:
       headers: {}
       path:
         - /
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|3.1MB/s|GPT⁺|YT-DE|NF|0%"
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_5|3.5MB/s|GPT|YT-DE|0%"
     network: tcp
-    port: 8443
+    port: 4249
     reality-opts:
-      public-key: 73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU
-      short-id: aea104e730
-    server: 176.123.162.253
+      public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+      short-id: ''
+    server: 51.250.24.245
     tls: true
     type: vless
     udp: true
-    uuid: 2a2a6062-003c-0004-b293-ee0d0416afee
+    uuid: 4a6de183-2ad3-456c-b420-feeac81f6257
     xudp: true
-    servername: pimg.mycdn.me
-  - encryption: none
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_2|5.0MB/s|GPT⁺|YT-FR|NF|41%"
-    network: ws
-    port: 2052
-    server: 104.16.1.106
-    type: vless
-    udp: true
-    uuid: 35c423cd-6f69-4186-8d80-92fd898382b2
-    ws-opts:
-      headers:
-        Host: WwW.FraNce.PlaNet88InFo.Com.
-        User-Agent: >-
-          Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7
-          (KHTML, like Gecko) Chrome/7.0.517.44 Safari/534.7
-      path: /?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPNed=2052
-    xudp: true
+    servername: api-maps.yandex.ru
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1F0\U0001F1FFKZ_1|1.0MB/s|GPT|0%"
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|1.3MB/s|GPT⁺"
     network: tcp
-    port: 35728
+    port: 2066
     reality-opts:
-      public-key: vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng
-      short-id: 69a2
-    server: 178.236.16.98
+      public-key: '-Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY'
+      short-id: 6b245ab1
+    server: 185.193.17.80
     tls: true
     type: vless
     udp: true
-    uuid: a00d89f6-ab7e-4e30-a5e5-54c701d62c93
+    uuid: 44830663-914e-4127-a9b3-412406f59cbe
     xudp: true
     servername: yahoo.com
   - client-fingerprint: chrome
     encryption: none
     grpc-opts:
       grpc-service-name: 8959780c31813fd40c6beecf
-    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|2.8MB/s|GPT|YT-IN|NF|GM|0%"
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_2|3.3MB/s|GPT⁺|YT-IN|NF|GM|0%"
     network: grpc
     port: 443
     reality-opts:
@@ -130,85 +231,6 @@ proxies:
     uuid: ef4d7a6a-a7f0-48e1-8c77-cd305fdca732
     xudp: true
     servername: www.microsoft.com
-  - encryption: none
-    name: "@github tonygyf\U0001F1E6\U0001F1FFAZ_1|3.2MB/s|GPT⁺|YT-AZ|NF|GM|44%"
-    network: tcp
-    port: 4655
-    server: 180.149.44.70
-    type: vless
-    udp: true
-    uuid: 892930fd-0235-4352-817d-01a3ac3c70c5
-    xudp: true
-  - encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|3.6MB/s|GPT⁺|YT-US|NF|30%"
-    network: ws
-    port: 80
-    server: 151.101.2.219
-    type: vless
-    udp: true
-    uuid: 77fb812d-2eb5-430e-afea-ccacc9795a86
-    ws-opts:
-      headers:
-        Host: downloadha.global.ssl.fastly.net
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/50.0.2661.94 Safari/537.36
-      path: >-
-        /Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN
-    xudp: true
-  - encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_4|1.6MB/s|GPT⁺|YT-US|NF|30%"
-    network: ws
-    port: 80
-    server: speedtest.net
-    type: vless
-    udp: true
-    uuid: 77fb812d-2eb5-430e-afea-ccacc9795a86
-    ws-opts:
-      headers:
-        Host: downloadha.global.ssl.fastly.net
-        User-Agent: >-
-          Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
-          Safari/537.36
-      path: >-
-        /Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN
-    xudp: true
-  - encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_5|2.7MB/s|GPT⁺|YT-US|NF|30%"
-    network: ws
-    port: 80
-    server: speedtest.net
-    type: vless
-    udp: true
-    uuid: 77fb812d-2eb5-430e-afea-ccacc9795a86
-    ws-opts:
-      headers:
-        Host: downloadha.global.ssl.fastly.net
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/66.0.3359.117 Safari/537.36
-      path: >-
-        /Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN
-    xudp: true
-    servername: downloadha.global.ssl.fastly.net
-  - encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_6|1.2MB/s|GPT⁺|YT-US|NF|30%"
-    network: ws
-    port: 80
-    server: speedtest.net
-    type: vless
-    udp: true
-    uuid: bdf8a2ce-8a8e-4bdd-b583-c87309b1f065
-    ws-opts:
-      headers:
-        Host: downloadha.global.ssl.fastly.net
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/31.0.1650.57 Safari/537.36
-      path: >-
-        /Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN
-    xudp: true
 rule-providers:
   private:
     url: >-
