@@ -10873,3 +10873,88 @@ URL: http://127.0.0.1:8199/bdg.yaml
 实际输出: V2Ray
 [sub-store] INFO: Pre-processor [Clash Pre-processor] activated
 [sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.20.9
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] body JSON limit: 30mb
+[sub-store] INFO: [BACKEND] listening on :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+     Sub-Store -- v2.20.9
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+[sub-store] INFO: [BACKEND] body JSON limit: 30mb
+[sub-store] INFO: [BACKEND] listening on :::8299
+[sub-store] INFO: 正在更新订阅： sub
+[sub-store] INFO: 正在更新文件：mihomo...
+[sub-store] INFO: 正在下载文件：mihomo
+请求 User-Agent: Go-http-client/1.1
+[sub-store] INFO: Downloading...
+User-Agent: clash.meta
+Timeout: 8000
+Proxy: undefined
+Insecure: false
+Preprocess: undefined
+URL: http://127.0.0.1:8199/bdg.yaml
+[sub-store] INFO: statusCode: 200
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: Go-http-client/1.1
+请求 target: V2Ray
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
+[sub-store] INFO: 正在下载订阅：sub
+请求 User-Agent: v2rayN/7.4.2
+请求 target: undefined
+实际输出: V2Ray
+[sub-store] INFO: Pre-processor [Clash Pre-processor] activated
+[sub-store] INFO: Clash Parser is activated
