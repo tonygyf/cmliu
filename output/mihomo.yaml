@@ -1,191 +1,197 @@
 proxies:
   - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|NF|47%"
-    password: lejSRyqa033OEPmEQsvRsl
-    port: 46114
-    server: 194.59.183.134
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|YT-US|NF|33%"
+    password: v2nWOyWPh0OOkTPL2rfmwM
+    port: 52571
+    server: 194.87.216.218
     type: ss
     udp: true
-  - alpn:
-      - h3
-    auth_str: dongtaiwang.com
-    down: '100'
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|24.6MB/s|GPT⁺|NF"
-    obfs: ''
-    port: 15010
-    protocol: ''
-    server: 195.154.200.40
-    skip-cert-verify: true
-    sni: apple.com
-    type: hysteria
-    up: '100'
-    auth-str: dongtaiwang.com
-  - client-fingerprint: edge
+  - client-fingerprint: chrome
+    encryption: none
     flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_1|24.6MB/s|GPT"
+    name: "@github tonygyf\U0001F1F7\U0001F1FARU_1|24.6MB/s|YT-RU"
     network: tcp
-    port: 1314
+    port: 443
     reality-opts:
-      public-key: fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI
-      short-id: 4b070735
-    server: hinet.gzcloud.shop
+      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+      short-id: 8453e5fd9af927
+    server: ru01-blh02.tcp-reset-club.net
     tls: true
     type: vless
     udp: true
-    uuid: 425ec5e6-1f85-4c74-b842-29cb6fd877b4
+    uuid: fba162df-6a82-4d57-b956-3a862944f50e
     xudp: true
-    servername: buylite.music.apple.com
-  - alpn:
-      - http/1.1
-    client-fingerprint: chrome
+    servername: www.kinopoisk.ru
+  - encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-US|NF|GM|0%"
+    network: ws
+    port: 80
+    server: 172.66.156.81
+    type: vless
+    udp: true
+    uuid: 9c37743b-a887-447f-a8ba-a3ca70125da7
+    ws-opts:
+      headers:
+        Host: >-
+          websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: >-
+        /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+    xudp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F2\U0001F1E9MD_1|24.6MB/s|GPT⁺|YT-NL|NF"
+    password: uo7EbtqIwgZXXHmMv5LbLcOxptyPlNkh
+    port: 443
+    server: 178.23.190.238
+    type: ss
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1E6\U0001F1EAAE_1|24.6MB/s|GPT⁺|YT-US|NF"
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 147.78.0.182
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺"
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|NF"
     network: ws
     port: 443
     server: www.speedtest.net
     tls: true
     type: vless
     udp: true
-    uuid: 73856b73-19d2-47e6-b991-5eaa421161ea
+    uuid: 88538870-5626-4cd7-9cda-1e0b6253c9ce
     ws-opts:
       headers:
-        Host: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR.
+        Host: khiar.mrconfigur.site
         User-Agent: >-
-          Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko)
-          Chrome/v1.0.0 Safari/538.1
-      path: /admin
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 1024
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/67.0.3396.99 Safari/537.36
+      path: /
     xudp: true
-    servername: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR.
+    servername: khiar.mrconfigur.site
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|24.6MB/s|GPT⁺|NF|81%"
+    password: k1dBOmOB4oqi7Ump37a1bQ
+    port: 8080
+    server: 82.38.31.190
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|24.6MB/s|YT-HK|2%"
+    password: BxceQaOe
+    port: 443
+    server: 58.152.30.31
+    skip-cert-verify: true
+    sni: t.me/ripaojiedian
+    type: trojan
+    udp: true
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1EE\U0001F1F3IN_1|24.6MB/s|GPT⁺|YT-IN"
+    network: ws
+    port: 2052
+    server: 104.18.14.55
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e6447786-8c85-443c-8017-7feaa673ff45
+    ws-opts:
+      headers:
+        Host: in4.123417.xyz
+      path: /
+    xudp: true
   - client-fingerprint: chrome
     encryption: none
-    flow: xtls-rprx-vision
-    http-opts:
-      headers: {}
-      path:
-        - /
-    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_2|24.6MB/s|GPT⁺|YT-RU"
-    network: tcp
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺|YT-US|NF"
+    network: ws
     port: 443
-    reality-opts:
-      public-key: I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs
-      short-id: 9c2378562188c3cb
-    server: 178.171.122.65
+    server: www.speedtest.net
     tls: true
     type: vless
     udp: true
-    uuid: 0a97c5f3-68de-4d5e-bac2-c6bd94551fb6
-    xudp: true
-    servername: msk.capybara.press
-  - encryption: none
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|24.6MB/s|YT-US|NF|D+"
-    network: ws
-    port: 2082
-    server: 172.67.209.105
-    type: vless
-    udp: true
-    uuid: 1953c1e6-af68-4c60-a6f8-f8194de580f6
+    uuid: 88538870-5626-4cd7-9cda-1e0b6253c9ce
     ws-opts:
       headers:
-        Host: worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev
+        Host: kivi.mrconfigur.site
         User-Agent: >-
-          Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
-          Safari/537.36
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.79 Safari/537.36
+      path: /
+    xudp: true
+    servername: kivi.mrconfigur.site
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F2\U0001F1E9MD_2|24.6MB/s|GPT⁺|YT-US|NF"
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 176.123.5.253
+    type: ss
+    udp: true
+  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|24.6MB/s"
+    network: ws
+    port: 8880
+    server: Www.speedtest.net
+    type: vless
+    udp: true
+    uuid: 6072c15c-99db-4880-99d0-1448a8d43da7
+    ws-opts:
+      headers:
+        Host: mx.mmadvip8563.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/55.0.2883.87 Safari/537.36
       path: /
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2048
     xudp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_2|24.6MB/s|GPT⁺|YT-GB|NF|6%"
-    network: tcp
-    port: 2087
-    reality-opts:
-      public-key: p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc
-      short-id: 6ba85179e30d4fc2
-    server: fra.germany-14.com
-    tls: true
-    type: vless
-    udp: true
-    uuid: 2b7ff221-0ea2-4474-ab4e-686e6a11dc65
-    xudp: true
-    servername: tgju.org
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1E8\U0001F1EDCH_1|24.6MB/s|GPT⁺|YT-DE|NF|D+|0%"
-    network: tcp
-    port: 8443
-    reality-opts:
-      public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-      short-id: 6ba85179e30d4fc2
-    server: ch.srv.oplcdn.link
-    tls: true
-    type: vless
-    udp: true
-    uuid: 3116cc23-0c39-4bb6-8154-d3f332e9017e
-    xudp: true
-    servername: ign.com
-  - encryption: none
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|24.6MB/s|GM"
+    servername: mx.mmadvip8563.ir
+  - name: "@github tonygyf\U0001F1F3\U0001F1F1NL_3|24.6MB/s|0%"
     network: ws
     port: 80
-    server: 188.114.98.6
+    server: 172.67.176.159
     type: vless
     udp: true
-    uuid: 4751adcd-064b-493e-979b-b1c56c133cb4
+    uuid: 41398380-2073-4d85-878a-24194a6f04a3
     ws-opts:
       headers:
-        Host: steep-water-754d-ppal0333333333333333.finisal307.workers.dev
+        Host: 3.azadteam.workers.dev
         User-Agent: >-
-          Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
-          Safari/537.36
-      path: /
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
+      path: /Sy0HOf5sZffep0QQ
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2560
     xudp: true
-  - encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|24.6MB/s|GPT⁺|YT-DE|NF|10%"
+    servername: 3.azadteam.workers.dev
+  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|24.6MB/s"
     network: ws
-    port: 80
-    server: usaa.fastlynew.hosting-ip.com
+    port: 8080
+    server: 104.21.15.212
     type: vless
     udp: true
-    uuid: 65981c1c-07da-45fc-93ce-848570b2ec78
+    uuid: 4c9541c7-5fa1-403c-84af-175e3b25a27f
     ws-opts:
       headers:
-        Host: mojhsjd.global.ssl.fastly.net
+        Host: 201.58vtg99l.workers.dev
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/70.0.3538.102 Safari/537.36
-      path: /telegeam-@v2_city--
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2048
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.100 Safari/537.36
+      path: /
     xudp: true
-  - encryption: none
-    grpc-opts:
-      grpc-service-name: >-
-        ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
-    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_1|24.6MB/s|GPT⁺|YT-GB|NF"
-    network: grpc
-    port: 21250
-    server: 209.38.168.122
-    type: vless
+    servername: 201.58vtg99l.workers.dev
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_4|24.6MB/s|GPT⁺|YT-US"
+    password: QCXDxuDlTTMD7jtgHUjIoj
+    port: 8080
+    server: 45.87.175.175
+    type: ss
     udp: true
-    uuid: 69239696-f17e-4eb2-a337-7ce07d65d23d
-    xudp: true
-  - encryption: none
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|NF|D+|0%"
-    network: tcp
-    port: 3001
-    server: 103.90.75.252
-    type: vless
-    udp: true
-    uuid: 61757901-3818-46c7-8482-683fa7f6ba10
-    xudp: true
 rule-providers:
   private:
     url: >-
