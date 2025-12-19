@@ -1,11 +1,19 @@
 proxies:
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|YT-US|NF|33%"
-    password: v2nWOyWPh0OOkTPL2rfmwM
-    port: 52571
-    server: 194.87.216.218
-    type: ss
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-US|NF|GM|24%"
+    network: tcp
+    port: 29028
+    reality-opts:
+      public-key: rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA
+      short-id: ''
+    server: 142.171.217.19
+    tls: true
+    type: vless
     udp: true
+    uuid: 7426d51e-bb52-403d-e3bb-ef823d306766
+    xudp: true
+    servername: addons.mozilla.org
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -22,41 +30,9 @@ proxies:
     uuid: fba162df-6a82-4d57-b956-3a862944f50e
     xudp: true
     servername: www.kinopoisk.ru
-  - encryption: none
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|24.6MB/s|GPT⁺|YT-US|NF|GM|0%"
-    network: ws
-    port: 80
-    server: 172.66.156.81
-    type: vless
-    udp: true
-    uuid: 9c37743b-a887-447f-a8ba-a3ca70125da7
-    ws-opts:
-      headers:
-        Host: >-
-          websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/55.0.2883.87 Safari/537.36
-      path: >-
-        /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
-    xudp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F2\U0001F1E9MD_1|24.6MB/s|GPT⁺|YT-NL|NF"
-    password: uo7EbtqIwgZXXHmMv5LbLcOxptyPlNkh
-    port: 443
-    server: 178.23.190.238
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1E6\U0001F1EAAE_1|24.6MB/s|GPT⁺|YT-US|NF"
-    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-    port: 990
-    server: 147.78.0.182
-    type: ss
-    udp: true
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|NF"
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|24.6MB/s|GPT⁺|YT-US|NF|26%"
     network: ws
     port: 443
     server: www.speedtest.net
@@ -68,130 +44,834 @@ proxies:
       headers:
         Host: khiar.mrconfigur.site
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/67.0.3396.99 Safari/537.36
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.77 Safari/537.36
       path: /
     xudp: true
     servername: khiar.mrconfigur.site
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|24.6MB/s|GPT⁺|NF|81%"
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.190
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|24.6MB/s|YT-HK|2%"
-    password: BxceQaOe
-    port: 443
-    server: 58.152.30.31
-    skip-cert-verify: true
-    sni: t.me/ripaojiedian
-    type: trojan
-    udp: true
-  - alpn:
-      - ''
-    alterId: '0'
-    cipher: auto
-    name: "@github tonygyf\U0001F1EE\U0001F1F3IN_1|24.6MB/s|GPT⁺|YT-IN"
-    network: ws
-    port: 2052
-    server: 104.18.14.55
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: e6447786-8c85-443c-8017-7feaa673ff45
-    ws-opts:
-      headers:
-        Host: in4.123417.xyz
-      path: /
-    xudp: true
   - client-fingerprint: chrome
     encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺|YT-US|NF"
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
     network: ws
-    port: 443
-    server: www.speedtest.net
+    port: 16992
+    server: 119.247.98.165
     tls: true
     type: vless
     udp: true
-    uuid: 88538870-5626-4cd7-9cda-1e0b6253c9ce
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
     ws-opts:
       headers:
-        Host: kivi.mrconfigur.site
+        Host: stall.saass.ccwu.cc
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/61.0.3163.79 Safari/537.36
-      path: /
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/46.0.2490.71 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
     xudp: true
-    servername: kivi.mrconfigur.site
-  - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F2\U0001F1E9MD_2|24.6MB/s|GPT⁺|YT-US|NF"
-    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-    port: 990
-    server: 176.123.5.253
-    type: ss
-    udp: true
-  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|24.6MB/s"
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_2|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
     network: ws
-    port: 8880
-    server: Www.speedtest.net
+    port: 8080
+    server: 46.3.109.226
+    tls: true
     type: vless
     udp: true
-    uuid: 6072c15c-99db-4880-99d0-1448a8d43da7
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
     ws-opts:
       headers:
-        Host: mx.mmadvip8563.ir
+        Host: stall.saass.ccwu.cc
         User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/55.0.2883.87 Safari/537.36
-      path: /
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/55.0.2883.87 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_3|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
+    network: ws
+    port: 443
+    server: 47.76.227.105
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; CAM-L21 Build/HUAWEICAM-L21; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84
+          Mobile Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F2\U0001F1E9MD_1|24.6MB/s|GPT⁺|NF|25%"
+    password: yCbQ4bry4otfifK7oel71NaXpPL9pYJb
+    port: 443
+    server: 89.221.225.15
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_4|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
+    network: ws
+    port: 443
+    server: 123.254.106.203
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_5|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
+    network: ws
+    port: 587
+    server: 154.37.223.214
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_1|24.6MB/s|GPT⁺|YT-TW|NF|D+|GM|3%"
+    network: ws
+    port: 51443
+    server: 114.32.9.249
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_6|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
+    network: ws
+    port: 3306
+    server: 38.207.179.35
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.87 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_2|24.6MB/s|GPT⁺|YT-TW|NF|D+|GM|3%"
+    network: ws
+    port: 81
+    server: 210.61.97.241
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/63.0.3239.132 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_7|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
+    network: ws
+    port: 443
+    server: 47.239.11.14
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-J700M Build/MMB29K)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_3|24.6MB/s|GPT⁺|YT-TW|NF|D+|GM|3%"
+    network: ws
+    port: 16443
+    server: 114.32.9.249
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.1; Mi A1 Build/N2G47H)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile
+          Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_1|24.6MB/s|GPT⁺|YT-KR|NF|D+|GM|3%"
+    network: ws
+    port: 50001
+    server: 106.245.165.137
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.101 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|24.6MB/s|GPT⁺|YT-JP|NF|GM|3%"
+    network: ws
+    port: 2222
+    server: 119.28.85.125
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/45.0.2454.101 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|3%"
+    network: ws
+    port: 443
+    server: mfa.gov.ua
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.1; vivo 1716 Build/N2G47H)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile
+          Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|24.6MB/s|GPT⁺|YT-HK|NF|D+|3%"
+    network: ws
+    port: 443
+    server: 47.239.105.224
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.112 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_4|24.6MB/s|GPT⁺|YT-TW|NF|D+|GM"
+    network: ws
+    port: 10909
+    server: 122.117.179.125
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_8|24.6MB/s|GPT|YT-HK|NF|D+|3%"
+    network: ws
+    port: 30701
+    server: 47.242.18.60
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_5|24.6MB/s|GPT⁺|YT-TW|NF|D+|GM"
+    network: ws
+    port: 995
+    server: 60.251.232.240
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|1.8MB/s|GPT|YT-SG|NF|D+|GM|3%"
+    network: ws
+    port: 8080
+    server: 20.191.143.151
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/47.0.2526.106 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_2|24.6MB/s|GPT|YT-JP|NF|D+|GM|3%"
+    network: ws
+    port: 443
+    server: 57.182.156.39
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|24.6MB/s|GPT⁺|YT-DE|NF|1%"
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 63.181.140.175
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_4|24.6MB/s|GPT⁺|YT-US|NF|D+|GM"
+    network: ws
+    port: 443
+    server: saas.sin.fan
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.102 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: random
+    encryption: none
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_1|24.6MB/s|GPT⁺|YT-GB|NF"
+    network: ws
+    port: 443
+    server: ct.877774.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9b40d859-e833-42eb-ba99-ebcad479997d
+    ws-opts:
+      headers:
+        Host: do-lon1.064288.xyz
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: /announcement
       early-data-header-name: Sec-WebSocket-Protocol
       max-early-data: 2048
     xudp: true
-    servername: mx.mmadvip8563.ir
-  - name: "@github tonygyf\U0001F1F3\U0001F1F1NL_3|24.6MB/s|0%"
+    servername: do-lon1.064288.xyz
+  - client-fingerprint: random
+    encryption: none
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|24.6MB/s|GPT⁺|YT-DE|NF"
     network: ws
-    port: 80
-    server: 172.67.176.159
+    port: 443
+    server: freeyx.cloudflare88.eu.org
+    tls: true
     type: vless
     udp: true
-    uuid: 41398380-2073-4d85-878a-24194a6f04a3
+    uuid: 9b40d859-e833-42eb-ba99-ebcad479997d
     ws-opts:
       headers:
-        Host: 3.azadteam.workers.dev
-        User-Agent: >-
-          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
-      path: /Sy0HOf5sZffep0QQ
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    xudp: true
-    servername: 3.azadteam.workers.dev
-  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|24.6MB/s"
-    network: ws
-    port: 8080
-    server: 104.21.15.212
-    type: vless
-    udp: true
-    uuid: 4c9541c7-5fa1-403c-84af-175e3b25a27f
-    ws-opts:
-      headers:
-        Host: 201.58vtg99l.workers.dev
+        Host: do-fra1.064288.xyz
         User-Agent: >-
           Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/61.0.3163.100 Safari/537.36
-      path: /
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /announcement
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
     xudp: true
-    servername: 201.58vtg99l.workers.dev
+    servername: do-fra1.064288.xyz
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_5|24.6MB/s|GPT⁺|NF|D+|GM|3%"
+    network: ws
+    port: 443
+    server: 23.95.39.240
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/65.0.3325.181 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_9|24.6MB/s|GPT|NF|D+|3%"
+    network: ws
+    port: 443
+    server: 38.147.163.253
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_6|24.6MB/s|GPT⁺|YT-US|NF|D+|GM|3%"
+    network: ws
+    port: 444
+    server: 129.158.198.180
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.139 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_6|24.6MB/s|GPT|NF|D+|GM|3%"
+    network: ws
+    port: 443
+    server: 220.130.58.230
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91
+          Mobile Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: random
+    encryption: none
+    name: "@github tonygyf\U0001F1EE\U0001F1F3IN_1|24.6MB/s|GPT⁺|YT-IN|NF|GM"
+    network: ws
+    port: 443
+    server: freev2.cloudflare.182682.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9b40d859-e833-42eb-ba99-ebcad479997d
+    ws-opts:
+      headers:
+        Host: do-blr1.064288.xyz
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/44.0.2403.157 Safari/537.36
+      path: /announcement
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    xudp: true
+    servername: do-blr1.064288.xyz
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_7|24.6MB/s|GPT⁺|YT-US|NF|D+|GM"
+    network: ws
+    port: 443
+    server: 159.54.175.77
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F9\U0001F1FCTW_7|24.6MB/s|GPT⁺|YT-TW|D+|GM|3%"
+    network: ws
+    port: 7443
+    server: 188.253.117.192
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/62.0.3202.89 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
   - cipher: chacha20-ietf-poly1305
-    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_4|24.6MB/s|GPT⁺|YT-US"
-    password: QCXDxuDlTTMD7jtgHUjIoj
-    port: 8080
-    server: 45.87.175.175
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_4|24.6MB/s|GPT⁺|YT-RU|NF|D+|53%"
+    password: 3aW0olBthRkbroWm2lNQfx
+    port: 7048
+    server: 62.133.60.60
     type: ss
     udp: true
+  - client-fingerprint: random
+    encryption: none
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_2|24.6MB/s|GPT⁺|YT-SG|GM"
+    network: ws
+    port: 443
+    server: www.visa.com.hk
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9b40d859-e833-42eb-ba99-ebcad479997d
+    ws-opts:
+      headers:
+        Host: do-sgp1.064288.xyz
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.87 Safari/537.36
+      path: /announcement
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    xudp: true
+    servername: do-sgp1.064288.xyz
+  - client-fingerprint: random
+    encryption: none
+    name: "@github tonygyf\U0001F1EE\U0001F1E9ID_1|24.6MB/s|GPT⁺|YT-ID|GM|4%"
+    network: ws
+    port: 443
+    server: freeyx.cloudflare88.eu.org
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9b40d859-e833-42eb-ba99-ebcad479997d
+    ws-opts:
+      headers:
+        Host: oracle-id-batam.064288.xyz
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: /announcement
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    xudp: true
+    servername: oracle-id-batam.064288.xyz
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_3|24.6MB/s|GPT⁺|D+|3%"
+    network: ws
+    port: 443
+    server: 43.134.87.15
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1713 Build/MRA58K)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_8|1.4MB/s|GPT⁺"
+    network: ws
+    port: 23333
+    server: 47.74.25.192
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|24.6MB/s|GPT⁺|YT-NL|NF|0%"
+    password: >-
+      2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw
+    port: 44884
+    server: backup.fleetfoxi.link
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_2|24.6MB/s|GPT|D+|3%"
+    network: ws
+    port: 443
+    server: 57.129.137.55
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_3|24.6MB/s|D+|0%"
+    network: ws
+    port: 8443
+    server: 57.129.137.84
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
+    ws-opts:
+      headers:
+        Host: stall.saass.ccwu.cc
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.110 Safari/537.36
+      path: /proxyip=sjc.o00o.ooo
+    xudp: true
+    servername: stall.saass.ccwu.cc
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1E6\U0001F1EAAE_1|24.6MB/s|GPT⁺"
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 103.57.251.240
+    type: ss
+    udp: true
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_5|24.6MB/s|GPT⁺|YT-DE|NF|1%"
+    password: telegram-id-directvpn
+    port: 22223
+    server: 63.181.140.175
+    skip-cert-verify: true
+    sni: trojan.burgerip.co.uk
+    type: trojan
+    udp: true
+  - encryption: none
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_6|24.6MB/s|GPT⁺|YT-DE|NF|10%"
+    network: tcp
+    port: 140
+    server: 116.203.102.8
+    type: vless
+    udp: true
+    uuid: 19cd8eab-8266-46f4-b23a-1dbcd25304ce
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1EE\U0001F1F1IL_1|24.6MB/s|GPT⁺|YT-IL|NF"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE
+      short-id: 55e6af1a35e64a98
+    server: ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: 0e8a6896-ad90-4a3b-89a3-77d64aa409e2
+    xudp: true
+    servername: i2pd.website
+  - encryption: none
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_7|24.6MB/s|GPT|YT-US|NF|10%"
+    network: ws
+    port: 2082
+    server: www.speedtest.net
+    type: vless
+    udp: true
+    uuid: 3e75143d-c0d5-44b3-c7cc-bd371452e397
+    ws-opts:
+      headers:
+        Host: >-
+          novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/49.0.2623.112 Safari/537.36
+      path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2082
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|24.6MB/s|GPT⁺|6%"
+    network: tcp
+    port: 8443
+    reality-opts:
+      public-key: tSiK_xTsdY3_oI4qqCWZwodTbrXmWl8IPTZbpIKiiiY
+      short-id: 9d
+    server: vk.edgehimft.su
+    tls: true
+    type: vless
+    udp: true
+    uuid: 99ce2f8d-0119-4e92-b16a-48683f5012ef
+    xudp: true
+    servername: sun6-22.userapi.com
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1F7\U0001F1FARU_2|24.6MB/s|YT-RU"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+      short-id: 8453e5fd9af927
+    server: 77.110.113.219
+    tls: true
+    type: vless
+    udp: true
+    uuid: d44e93de-4a8c-464f-81f2-eb0d384b1ab2
+    xudp: true
+    servername: www.kinopoisk.ru
 rule-providers:
   private:
     url: >-
