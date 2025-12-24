@@ -3,7 +3,7 @@ check-interval: 120
 timeout: 5000
 min-speed: 1024
 download-timeout: 10
-speed-test-url: https://fast.com
+speed-test-url: https://github.com/2dust/v2rayN/releases/download/7.10.4/v2rayN-windows-64-desktop.zip
 save-method: local
 github-gist-id: ''
 github-token: ''
@@ -19,7 +19,7 @@ old-api-key: admin
 api-key: ef6be9d3f1d7f2cf19f1e7ae89c0d67f
 sub-store-port: :8299
 githubproxy: 自动选择
-github-proxy: https://gh.ecdn.ip-ddns.com/
+github-proxy: https://gh.xbzza.cn/
 sub-urls:
   - http://127.0.0.1:8199/all.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
@@ -31,7 +31,10 @@ sub-urls:
   - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
   - https://gh-proxy.org/https://github.com/free18/v2ray/blob/main/v.txt
   - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-  - https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2
+  - https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v220251222
+  - https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+  - https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt
+  - https://cmliu.gyf123.dpdns.org/sub?token=f34f5e9e0d610f6a8ca00e63439abf53&b64
 mihomo-overwrite-url: http://127.0.0.1:8199/bdg.yaml
 rename-node: true
 media-check: true
