@@ -6,27 +6,7 @@ proxies:
       headers: {}
       path:
         - /
-    name: "@github tonygyf\U0001F1EB\U0001F1EEFI_1|1.3MB/s|GPT⁺|YT-RU|NF"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: Q2tOlk0AlcufziQD1uUzBzb8Y2a_0Jp1Dq2KCnC1Z08
-      short-id: ''
-    server: in-fi-he.ray-balance.space
-    tls: true
-    type: vless
-    udp: true
-    uuid: 0eca1f22-e5a1-4888-a0fa-c2345e87cf2f
-    xudp: true
-    servername: eh.vk.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    http-opts:
-      headers: {}
-      path:
-        - /
-    name: "@github tonygyf\U0001F1E6\U0001F1F9AT_1|1.4MB/s|GPT⁺|D+|29%"
+    name: "@github tonygyf\U0001F1E6\U0001F1F9AT_1|2.2MB/s|GPT⁺|NF|D+|29%"
     network: tcp
     port: 443
     reality-opts:
@@ -39,6 +19,222 @@ proxies:
     uuid: 4ce98305-2c38-4e1f-aa7b-ef6f77bbfc7c
     xudp: true
     servername: austria.coverprotect.info
+  - cipher: none
+    delay: 2477
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|1.2MB/s|NF|D+"
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      mux: false
+      path: /3e96ef7d-8637-42c2-ac73-75182196e755/?ed=2560
+      skip-cert-verify: true
+      tls: true
+    port: 443
+    server: store.ubi.com
+    type: ss
+    udp: true
+  - name: "@github tonygyf\U0001F1F0\U0001F1F7KR_1|1.4MB/s|GPT⁺|YT-KR|NF|3%"
+    password: test.+
+    port: 30446
+    server: testkr3.ssv.vc
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: test
+    sni: testkr3.ssv.vc
+  - name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|2.3MB/s|GPT⁺|YT-CN|NF"
+    password: 187dda4498be9ac4f28db939d5940185
+    port: 4674
+    server: 18.181.196.7
+    skip-cert-verify: false
+    sni: www.nintendogames.net
+    type: trojan
+  - cipher: none
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_2|1.7MB/s|GPT⁺|YT-US|NF|D+|GM|3%"
+    password: 3e96ef7d-8637-42c2-ac73-75182196e755
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: mfvpn.fuchen.indevs.in
+      mode: websocket
+      mux: false
+      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed=2560
+      tls: true
+    port: 443
+    server: 199.181.197.38
+    type: ss
+    udp: true
+  - alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|2.0MB/s|GPT⁺|YT-CN|NF"
+    network: ws
+    port: 16648
+    server: planb.mojcn.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: c6e0db22-c963-4c99-9f7d-ee8a39f64a07
+    ws-opts:
+      headers:
+        Host: fc05e62e9e82b8264faaba517868b9e8.mobgslb.tbcache.com
+      path: /%2F
+    xudp: true
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|2.1MB/s|GPT⁺|YT-US|NF|D+|GM|9%"
+    network: ws
+    port: 443
+    server: tajikistan.mfa.gov.ua
+    tls: true
+    type: vless
+    udp: true
+    uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
+    ws-opts:
+      headers:
+        Host: 3-a2s.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
+      path: /
+    xudp: true
+    servername: 3-a2s.pages.dev
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|2.8MB/s|GPT⁺|YT-US|NF|GM|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: 1Hr3vZv1JC7PuvH8iGfA7LyMHi2afnvp9y_q507I0Ew
+      short-id: ''
+    server: in-nl-1c.ray-balance.space
+    tls: true
+    type: vless
+    udp: true
+    uuid: 0eca1f22-e5a1-4888-a0fa-c2345e87cf2f
+    xudp: true
+    servername: eh.vk.com
+  - client-fingerprint: chrome
+    encryption: none
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_3|5.4MB/s|GPT⁺|YT-JP|NF|D+|GM|1%"
+    network: ws
+    port: 443
+    server: 13.113.26.46
+    tls: true
+    type: vless
+    udp: true
+    uuid: ce069292-c8bf-40dd-a6b1-87818a1e64e9
+    ws-opts:
+      headers:
+        Host: 3-a2s.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.86 Safari/537.36
+      path: /
+    xudp: true
+    servername: 3-a2s.pages.dev
+  - alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|8.2MB/s|GPT⁺|YT-CN|NF|D+|GM|0%"
+    network: ws
+    port: 16632
+    server: planb.mojcn.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: c6e0db22-c963-4c99-9f7d-ee8a39f64a07
+    ws-opts:
+      headers:
+        Host: fc05e62e9e82b8264faaba517868b9e8.mobgslb.tbcache.com
+      path: /
+    xudp: true
+  - alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_4|2.7MB/s|GPT⁺|YT-CN|NF|15%"
+    network: ws
+    port: 16617
+    server: planb.mojcn.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: c6e0db22-c963-4c99-9f7d-ee8a39f64a07
+    ws-opts:
+      headers:
+        Host: fc05e62e9e82b8264faaba517868b9e8.mobgslb.tbcache.com
+      path: /
+    xudp: true
+  - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_2|1.5MB/s|YT-CN|NF|D+|1%"
+    password: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+    port: 5228
+    server: c3b31bad-t9zts0-ta6lxc-jjv2.cm4.oshuawei.com
+    sni: c3b31bad-t9zts0-ta6lxc-jjv2.cm4.oshuawei.com
+    tls: true
+    type: http
+    username: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  - alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_2|2.9MB/s|GPT⁺|YT-CN|NF|D+|15%"
+    network: ws
+    port: 16618
+    server: planb.mojcn.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: c6e0db22-c963-4c99-9f7d-ee8a39f64a07
+    ws-opts:
+      headers:
+        Host: fc05e62e9e82b8264faaba517868b9e8.mobgslb.tbcache.com
+      path: /
+    xudp: true
+  - alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_3|7.2MB/s|YT-CN|NF|D+|0%"
+    network: ws
+    port: 16622
+    server: planb.mojcn.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: c6e0db22-c963-4c99-9f7d-ee8a39f64a07
+    ws-opts:
+      headers:
+        Host: fc05e62e9e82b8264faaba517868b9e8.mobgslb.tbcache.com
+      path: /
+    xudp: true
+  - name: "@github tonygyf\U0001F1EE\U0001F1E9ID_1|1.9MB/s|GPT⁺|YT-ID|NF|55%"
+    password: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+    port: 32233
+    server: d419a4b3-t9zts0-ta6lxc-jjv2.id.oshuawei.com
+    sni: d419a4b3-t9zts0-ta6lxc-jjv2.id.oshuawei.com
+    tls: true
+    type: http
+    username: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  - alterId: '0'
+    cipher: auto
+    name: "@github tonygyf\U0001F1EE\U0001F1F3IN_1|2.5MB/s|GPT⁺|YT-CN|NF"
+    network: ws
+    port: 16626
+    server: planb.mojcn.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: c6e0db22-c963-4c99-9f7d-ee8a39f64a07
+    ws-opts:
+      headers:
+        Host: fc05e62e9e82b8264faaba517868b9e8.mobgslb.tbcache.com
+      path: /
+    xudp: true
 rule-providers:
   private:
     url: >-
