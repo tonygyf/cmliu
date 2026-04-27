@@ -1,125 +1,1484 @@
 proxies:
-  - name: "@github tonygyf\U0001F1F0\U0001F1F7KR_1|6.5MB/s|GPT⁺|YT-KR|NF|GM|3%"
-    password: test.+
-    port: 30446
-    server: testkr3.ssv.vc
-    skip-cert-verify: true
-    tls: true
-    type: http
-    udp: true
-    username: test
-    sni: testkr3.ssv.vc
   - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|4.4MB/s|GPT⁺|YT-US|NF|GM"
-    network: ws
-    port: 443
-    server: 18.245.54.3
+    flow: xtls-rprx-vision
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|2.8MB/s|GPT⁺|YT-SG|NF|GM|41%"
+    network: tcp
+    port: 51141
+    reality-opts:
+      public-key: a7n0a8J1lVEjU78xrfJCbGTMs7s_EsZHplIEs6Nu7CI
+      short-id: 7eaa4e29
+    server: 139.180.186.18
     tls: true
     type: vless
     udp: true
-    uuid: 97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2
-    ws-opts:
-      headers:
-        Host: d23iuljn5k9z1j.cloudfront.net
-        User-Agent: >-
-          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/70.0.3538.102 Safari/537.36
-      path: /
+    uuid: 379c51c9-17f2-4970-ad01-e47f59842144
     xudp: true
-    servername: d23iuljn5k9z1j.cloudfront.net
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|4.0MB/s|GPT⁺|YT-US|NF|GM"
+    servername: apple.com
+  - name: "@github tonygyf\U0001F1F0\U0001F1F7KR_1|1.8MB/s|GPT⁺|YT-KR|NF|D+|GM|3%"
     network: ws
+    password: '1234567890'
+    port: 19530
+    server: 222.116.195.135
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - alterId: 0
+    cipher: auto
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|2.6MB/s|GPT⁺|YT-US|NF|GM|2%"
+    port: 40029
+    server: 35.212.177.67
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e8ab37c7-2b1d-4776-c062-2cac8fc066e1
+    xudp: true
+  - name: "@github tonygyf\U0001F1E9\U0001F1EADE_1|1.3MB/s|GPT⁺|YT-DE|NF|D+|0%"
+    network: ws
+    password: '1234567890'
     port: 443
-    server: 18.245.54.3
+    server: 94.141.123.243
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_2|1.8MB/s|GPT⁺|YT-KR|NF|D+|GM|3%"
+    network: ws
+    password: '1234567890'
+    port: 30047
+    server: 211.194.210.183
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.139 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - name: "@github tonygyf\U0001F1E9\U0001F1EADE_2|1.3MB/s|GPT⁺|YT-DE|NF|D+"
+    network: ws
+    password: '1234567890'
+    port: 443
+    server: 144.31.118.170
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|1.5MB/s|GPT⁺|NF|D+"
+    network: ws
+    password: '1234567890'
+    port: 443
+    server: 148.253.210.141
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_4|2.9MB/s|GPT⁺|YT-RU|NF|26%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ
+      short-id: aa69f619e4414362
+    server: 150.241.103.74
     tls: true
     type: vless
     udp: true
-    uuid: 97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2
+    uuid: 19ef3d02-1c55-4fec-9794-6def8cbac396
+    xudp: true
+    servername: st-2.globalcache.onnstreaming.ru
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_3|1.8MB/s|GPT⁺|YT-KR|NF|D+|GM|3%"
+    network: ws
+    password: '1234567890'
+    port: 22335
+    server: 222.121.232.215
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
     ws-opts:
       headers:
-        Host: d2241b25w3zftf.cloudfront.net
         User-Agent: >-
           Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
           Gecko) Chrome/70.0.3538.102 Safari/537.36
-      path: /
-    xudp: true
-    servername: d2241b25w3zftf.cloudfront.net
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_1|1.2MB/s|GPT⁺|YT-US|NF|GM|19%"
-    network: tcp
-    port: 34155
-    reality-opts:
-      public-key: cJEl6ku8HSxHdQwbpUColEVQNH7AhFLuPfhwA1_HV2E
-      short-id: 9a4148bf7497faca
-    server: dbp.qzz.io
-    tls: true
-    type: vless
-    udp: true
-    uuid: 39b4f628-3e78-40c3-ac6b-a25db7fd8884
-    xudp: true
-    servername: www.nvidia.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1EB\U0001F1EEFI_1|3.2MB/s|GPT⁺|NF|0%"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY
-      short-id: 4fa44664f6a566d3
-    server: fi.milas.click
-    tls: true
-    type: vless
-    udp: true
-    uuid: 913c6074-a747-492b-a7e9-5abfcad6369d
-    xudp: true
-    servername: fi.milas.click
-  - client-fingerprint: chrome
-    encryption: none
-    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|3.5MB/s|GPT⁺|YT-CN|D+|5%"
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - name: "@github tonygyf\U0001F1E9\U0001F1EADE_5|1.0MB/s|GPT⁺|YT-DE|NF|D+"
     network: ws
+    password: '1234567890'
     port: 443
-    server: 63.141.128.188
-    tls: true
-    type: vless
+    server: 144.31.116.8
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
     udp: true
-    uuid: d46056cf-da4e-4426-a3e4-39fcbfefa112
     ws-opts:
       headers:
-        Host: d2-jp1.djwstlsweb.top
-        User-Agent: >-
-          Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko)
-          Chrome/v1.0.0 Safari/538.1
-      path: /djjc/jp1
-    xudp: true
-    servername: d2-jp1.djwstlsweb.top
-  - client-fingerprint: firefox
-    encryption: none
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - client-fingerprint: chrome
     flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_2|1.8MB/s|GPT⁺|YT-KR|NF|0%"
+    http-opts:
+      headers:
+        Host:
+          - pl2-gws4.onnstreaming.ru
+      path:
+        - /
+    name: "@github tonygyf\U0001F1EB\U0001F1EEFI_1|3.0MB/s|GPT⁺|YT-RU|NF|26%"
     network: tcp
-    port: 19001
+    port: 443
     reality-opts:
-      public-key: UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM
-      short-id: ''
-    server: krp01.jumperservice.com
+      public-key: fN3l3mYSDO44IWNPHWOQo2JMUw2isUGoOqrS6hCFfBQ
+      short-id: d1f93724859d75ac
+    server: pl2-gws4.onnstreaming.ru
     tls: true
     type: vless
     udp: true
-    uuid: 455fc271-3ee2-493b-8c75-9324b4851e2f
+    uuid: 19ef3d02-1c55-4fec-9794-6def8cbac396
     xudp: true
-    servername: addons.mozilla.org
+    servername: pl2-gws4.onnstreaming.ru
   - client-fingerprint: chrome
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_3|1.1MB/s|GPT⁺|YT-US|NF|D+|GM"
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_4|2.2MB/s|GPT⁺|YT-KR|NF|D+|GM|3%"
+    network: ws
+    password: '1234567890'
+    port: 10911
+    server: 121.129.33.208
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - name: "@github tonygyf\U0001F1E9\U0001F1EADE_6|1.0MB/s|GPT⁺|NF|D+|0%"
+    network: ws
+    password: '1234567890'
+    port: 443
+    server: 144.31.85.72
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_5|1.6MB/s|GPT⁺|YT-KR|NF|D+|GM|3%"
+    network: ws
+    password: '1234567890'
+    port: 23791
+    server: 222.116.29.213
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - name: "@github tonygyf\U0001F1E9\U0001F1EADE_7|1.1MB/s|GPT⁺|YT-DE|NF|D+|52%"
+    network: ws
+    password: '1234567890'
+    port: 443
+    server: 80.253.249.66
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_1|5.3MB/s|YT-US|NF|D+|GM"
+    network: ws
+    port: 8880
+    server: 50.62.88.201
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: www.udemy.com.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|4.8MB/s|YT-US|NF|D+|GM|9%"
+    network: ws
+    port: 8880
+    server: 154.219.5.201
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: www.udemy.com.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1ED\U0001F1F0HK_2|1.1MB/s|GPT⁺|YT-HK|NF|D+|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: lIXzhYg3mhR9wY_qQG4H6O7nffkq4A3gUa8LWO6DkTo
+      short-id: f977afd3
+    server: 5.102.124.89
+    tls: true
+    type: vless
+    udp: true
+    uuid: d82595e5-e41f-4f92-a5be-06173d7e8052
+    xudp: true
+    servername: www.apple.com.cn
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_6|1.3MB/s|GPT⁺|YT-KR|NF|D+|3%"
+    network: ws
+    password: '1234567890'
+    port: 11001
+    server: 222.113.18.205
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/45.0.2454.101 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_7|2.0MB/s|GPT⁺|YT-KR|NF|D+|GM|5%"
+    network: ws
+    password: '1234567890'
+    port: 34567
+    server: 59.27.228.160
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - name: "@github tonygyf\U0001F1F8\U0001F1EASE_1|1.0MB/s|GPT⁺|NF|D+|0%"
+    network: ws
+    password: '1234567890'
+    port: 443
+    server: 109.120.134.104
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_8|1.1MB/s|GPT|YT-KR|NF|D+|GM"
+    network: ws
+    password: '1234567890'
+    port: 12999
+    server: 203.251.64.95
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - client-fingerprint: chrome
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_8|3.8MB/s|GPT⁺|YT-FR|0%"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: 13qS12jjsHCQpQfL3tEL2nHltgoTp1i-8kVcJ6odrEQ
+      short-id: '6635'
+    server: 193.233.133.55
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2bfea3fd-6826-480c-917d-e3bc99b47a0f
+    xudp: true
+    servername: yahoo.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_9|3.1MB/s|GPT⁺|D+|18%"
+    network: tcp
+    port: 9443
+    reality-opts:
+      public-key: wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg
+      short-id: 2344766a270a6298
+    server: 159.195.82.187
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4649d681-7f26-4959-a3f2-02eb8866230f
+    xudp: true
+    servername: yahoo.com
+  - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_3|4.0MB/s|YT-US|NF|D+|GM|2%"
+    network: ws
+    port: 8880
+    server: 104.234.239.201
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: www.udemy.com.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_9|2.4MB/s|GPT⁺|YT-KR|NF|D+|GM|5%"
+    network: ws
+    password: '1234567890'
+    port: 30005
+    server: 183.106.76.116
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.87 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_10|1.7MB/s|YT-KR|NF|D+|GM|3%"
+    network: ws
+    password: '1234567890'
+    port: 10002
+    server: 121.128.161.235
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.112 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_3|1.8MB/s|GPT|YT-KR|9%"
+    network: ws
+    password: '1234567890'
+    port: 50001
+    server: 220.127.68.28
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_4|1.1MB/s|YT-US|NF|D+|GM|2%"
+    network: ws
+    port: 8880
+    server: 209.94.90.201
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: www.udemy.com.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.100 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+  - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_5|1.6MB/s|YT-US|NF|D+|GM|2%"
+    network: ws
+    port: 8880
+    server: 154.218.15.201
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: www.udemy.com.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; SM-J111M Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+  - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_6|3.1MB/s|YT-US|NF|D+|GM|2%"
+    network: ws
+    port: 8880
+    server: 213.241.198.201
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: www.udemy.com.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+  - name: "@github tonygyf\U0001F1ED\U0001F1F0HK_7|1.5MB/s|YT-US|NF|D+|GM|2%"
+    network: ws
+    port: 8880
+    server: 216.24.57.201
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: www.udemy.com.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+  - name: "@github tonygyf\U0001F1F0\U0001F1F7KR_11|1.1MB/s|GPT|GM|5%"
+    network: ws
+    password: '1234567890'
+    port: 23424
+    server: 220.125.240.77
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: kfm-bn0.pages.dev
+      path: /
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F0\U0001F1F7KR_12|1.1MB/s|GPT|YT-KR|3%"
+    network: ws
+    password: '1234567890'
+    port: 10250
+    server: 220.95.25.188
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/41.0.2272.104 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_2|1.5MB/s|YT-KR|NF|D+|GM"
+    network: ws
+    password: '1234567890'
+    port: 34567
+    server: 221.167.19.89
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: /
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_4|2.7MB/s|YT-KR|GM"
+    network: ws
+    password: '1234567890'
+    port: 32770
+    server: 222.119.19.248
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
+      path: /
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_10|2.5MB/s|GPT⁺|YT-NL|NF|D+|14%"
+    network: ws
+    port: 2053
+    server: 92.51.36.219
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_3|1.3MB/s|YT-KR|NF|D+|GM|9%"
+    network: ws
+    password: '1234567890'
+    port: 10332
+    server: 59.3.62.210
+    skip-cert-verify: false
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: /
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_11|1.5MB/s|GPT⁺|YT-DE|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 5.129.216.208
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.67 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_12|1.1MB/s|GPT⁺|YT-DE|NF|D+|0%"
+    network: ws
+    password: '1234567890'
+    port: 443
+    server: 138.124.32.120
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/37.0.2062.120 Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_13|3.6MB/s|GPT⁺|YT-NL|D+|23%"
+    network: ws
+    port: 443
+    server: 95.85.62.49
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.103 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F1\U0001F1FBLV_1|2.1MB/s|GPT⁺|NF|D+|100%"
+    network: ws
+    port: 443
+    server: 5.34.208.208
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: e.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3 Build/HUAWEIFIG-LX3)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/LV?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: e.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_14|1.6MB/s|GPT⁺|YT-NL|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 94.131.105.72
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_15|3.8MB/s|GPT⁺|YT-DE|D+|14%"
+    network: ws
+    port: 443
+    server: 213.176.114.65
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_16|3.5MB/s|GPT⁺|D+|14%"
+    network: ws
+    port: 443
+    server: 212.192.246.98
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_17|2.6MB/s|GPT⁺|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 194.116.215.29
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/63.0.3239.132 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_18|1.0MB/s|GPT⁺|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 212.193.1.234
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/44.0.2403.157 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_19|1.9MB/s|GPT⁺|YT-DE|NF|D+|14%"
+    network: ws
+    port: 8443
+    server: 89.208.97.224
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_1|1.6MB/s|GPT⁺|YT-DE|NF|D+|81%"
+    network: ws
+    port: 8443
+    server: 62.60.151.252
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: santong.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/64.0.3282.167 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/GB?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: santong.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F1\U0001F1FBLV_2|3.7MB/s|GPT⁺|NF|D+|100%"
+    network: ws
+    port: 443
+    server: 5.34.215.68
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: e.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.87 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/LV?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: e.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_2|3.0MB/s|GPT⁺|YT-DE|NF|D+|81%"
+    network: ws
+    port: 443
+    server: 212.113.103.4
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: santong.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/39.0.2171.95 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/GB?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: santong.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_4|1.3MB/s|GPT|YT-KR"
+    network: ws
+    password: '1234567890'
+    port: 10003
+    server: 220.127.122.167
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+          Safari/537.36
+      path: "/?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_20|1.1MB/s|GPT⁺|YT-DE|NF|D+|14%"
+    network: ws
+    port: 443
+    server: 94.159.104.158
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/34.0.1847.131 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_3|1.9MB/s|GPT⁺|YT-DE|NF|D+|81%"
+    network: ws
+    port: 2053
+    server: 213.176.112.69
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: santong.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/GB?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: santong.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_21|2.1MB/s|GPT⁺|YT-NL|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 95.85.12.169
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; TRT-LX3 Build/HUAWEITRT-LX3)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_4|1.4MB/s|GPT⁺|YT-DE|NF|D+|81%"
+    network: ws
+    port: 443
+    server: 82.117.84.70
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: santong.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.139 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/GB?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: santong.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EE\U0001F1F3IN_1|3.8MB/s|GPT|NF|D+"
+    network: ws
+    password: '1234567890'
+    port: 443
+    server: 138.124.32.121
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3
+          (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
+      path: "/?https://t.me/WangCai2\U0001F1E8\U0001F1F3="
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_22|1.0MB/s|GPT⁺|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 95.85.57.125
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A Build/N2G47H; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_23|1.4MB/s|GPT⁺|YT-NL|NF|D+|23%"
+    network: ws
+    port: 2053
+    server: 89.150.34.41
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_5|1.8MB/s|GPT⁺|YT-DE|NF|D+|81%"
+    network: ws
+    port: 443
+    server: 193.232.178.176
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: santong.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/GB?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: santong.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_6|1.1MB/s|GPT⁺|YT-DE|NF|D+|81%"
+    network: ws
+    port: 443
+    server: 77.221.143.39
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: santong.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/GB?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: santong.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_24|2.0MB/s|GPT⁺|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 95.85.62.66
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_25|1.0MB/s|GPT⁺|YT-DE|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 5.129.230.231
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.99 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_26|1.9MB/s|GPT⁺|YT-SE|NF|D+|14%"
+    network: ws
+    port: 8443
+    server: 213.21.246.228
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.90 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_27|1.4MB/s|GPT⁺|YT-NL|NF|D+|23%"
+    network: ws
+    port: 443
+    server: 95.85.52.153
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: support.zoom.us.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: support.zoom.us.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_28|2.8MB/s|GPT⁺|YT-IT|NF|D+|14%"
+    network: ws
+    port: 8443
+    server: 213.176.119.213
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile
+          Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_29|2.8MB/s|GPT⁺|YT-IT|NF|D+|14%"
+    network: ws
+    port: 443
+    server: 213.21.251.234
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E8\U0001F1EDCH_1|3.8MB/s|GPT|YT-CH|NF"
+    port: 45886
+    reality-opts:
+      public-key: zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0
+      short-id: 94f9
+    server: 5.182.36.56
+    skip-cert-verify: false
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8338171d-2ea7-4015-bdea-492f3d5d4e60
+    network: tcp
+    servername: yahoo.com
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F1\U0001F1FBLV_3|1.4MB/s|GPT⁺|NF|D+|100%"
+    network: ws
+    port: 8443
+    server: 213.21.252.200
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: e.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/63.0.3239.132 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/LV?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: e.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_30|1.1MB/s|GPT⁺|YT-SE|NF|D+|14%"
+    network: ws
+    port: 8443
+    server: 212.113.103.145
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/47.0.2526.106 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_31|2.1MB/s|GPT⁺|YT-SE|NF|D+|14%"
+    network: ws
+    port: 443
+    server: 92.246.137.150
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_1|3.0MB/s|GPT⁺|YT-NL|NF|80%"
+    password: k1dBOmOB4oqi7Ump37a1bQ
+    port: 8080
+    server: 82.38.31.191
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_32|1.1MB/s|GPT⁺|YT-SE|NF|D+|14%"
+    network: ws
+    port: 8443
+    server: 193.232.178.149
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/47.0.2526.111 Safari/537.36 MVisionPlayer/1.0.0.0
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - cipher: aes-128-gcm
+    delay: 1472
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_5|4.7MB/s|YT-US|NF|D+|GM"
+    password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: aoe.o.eoa.ccwu.cc
+      mode: websocket
+      mux: false
+      path: /?enc\=aes-128-gcm
+      skip-cert-verify: false
+      tls: true
+    port: 443
+    server: fn.130519.xyz
+    type: ss
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_33|1.8MB/s|GPT⁺|YT-SE|NF|D+|14%"
+    network: ws
+    port: 8443
+    server: 212.113.102.199
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: jamuur.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: jamuur.joss.jak.biz.id
+  - cipher: aes-256-cfb
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_2|3.9MB/s|GPT⁺|YT-NL|NF"
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 51.15.17.169
+    type: ss
+    udp: true
+  - alterId: 2
+    cipher: auto
+    country: "\U0001F3C1 ZZ"
+    delay: 1511
+    http-opts: {}
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_6|2.2MB/s|GPT⁺|YT-CN|NF|57%"
+    network: tcp
+    port: 30808
+    server: v8.hdacd.com
+    skip-cert-verify: true
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    ws-path: /
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F1\U0001F1FBLV_4|3.6MB/s|GPT⁺|NF|D+|100%"
+    network: ws
+    port: 443
+    server: 5.252.116.170
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    ws-opts:
+      headers:
+        Host: e.joss.jak.biz.id
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; vivo 1603 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile
+          Safari/537.36
+      path: "/Free-VPN-CF-Geo-Project/LV?ed=2560&https://t.me/WangCai2\U0001F1E8\U0001F1F3"
+    xudp: true
+    servername: e.joss.jak.biz.id
+  - cipher: aes-128-gcm
+    delay: 1108
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_5|2.9MB/s|GPT|YT-SG|NF|D+|GM|9%"
+    password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: aoe.o.eoa.ccwu.cc
+      mode: websocket
+      mux: false
+      path: /?enc\=aes-128-gcm
+      skip-cert-verify: false
+      tls: true
+    port: 443
+    server: 8.222.244.182
+    type: ss
+  - cipher: aes-128-gcm
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_7|4.6MB/s|YT-US|NF|D+|GM|9%"
+    password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: aoe.o.eoa.ccwu.cc
+      mode: websocket
+      mux: false
+      path: /?enc\=aes-128-gcm
+      tls: true
+    port: 443
+    server: cmcc.090227.xyz
+    type: ss
+    udp: true
+  - cipher: aes-128-gcm
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_1|1.1MB/s|YT-US|NF|D+|GM|0%"
+    password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: aoe.o.eoa.ccwu.cc
+      mode: websocket
+      mux: false
+      path: /?enc\=aes-128-gcm
+      tls: true
+    port: 443
+    server: freeyx.cloudflare88.eu.org
+    type: ss
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: '@github tonygyf❓Other_1|8.7MB/s|GPT⁺|YT-SG'
+    network: tcp
+    port: 9045
+    server: select-sg.ddnskunlun.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 4d6a19fd-ba4f-36c5-89ad-97224cca5484
+    servername: select-sg.ddnskunlun.com
+  - alterId: 0
+    cipher: auto
+    name: '@github tonygyf❓Other_2|3.6MB/s'
+    network: tcp
+    port: 9040
+    server: select-sg.ddnskunlun.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 4d6a19fd-ba4f-36c5-89ad-97224cca5484
+    servername: select-sg.ddnskunlun.com
+  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_8|1.2MB/s|GPT⁺|NF|GM|0%"
+    password: c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9
+    port: 443
+    server: 71991ef9-te5ts0-tir0zk-1hpo0.se.hyhuawei.com
+    skip-cert-verify: true
+    type: anytls
+    udp: true
+    sni: 71991ef9-te5ts0-tir0zk-1hpo0.se.hyhuawei.com
+  - alterId: '0'
+    cipher: auto
+    name: '@github tonygyf❓Other_3|1.7MB/s'
+    network: tcp
+    port: 60045
+    server: hk0046.lv1.zero1890.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 813fbbe3-4679-4a7f-afd3-c2e5319b5e3b
+    xudp: true
+  - name: "@github tonygyf\U0001F1E9\U0001F1EADE_34|1.4MB/s|YT-SE|D+"
     network: ws
     password: '8r<[9''l6hAO#8ZQi'
-    port: 8443
-    server: 172.66.44.230
+    port: 443
+    server: 93.152.207.163
+    skip-cert-verify: true
+    sni: Koma-YT.PAGeS.Dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: Koma-YT.PAGeS.Dev
+      path: "/trTelegram\U0001F1E8\U0001F1F3 @WangCai2"
+  - alterId: '0'
+    cipher: auto
+    name: '@github tonygyf❓Other_4|1.4MB/s'
+    network: tcp
+    port: 60045
+    server: hk0092.lv2.zero1890.com
     skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 813fbbe3-4679-4a7f-afd3-c2e5319b5e3b
+    xudp: true
+  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_9|1.1MB/s|GPT⁺|YT-US|NF|2%"
+    password: 0b869f32-657e-11ee-a90c-f23c9313b177
+    port: 443
+    server: 4bd2182f-te8ao0-tfn5eh-24c4.fmtdc1.sghuawei.com
+    tls: true
+    type: http
+    username: 0b869f32-657e-11ee-a90c-f23c9313b177
+    sni: 4bd2182f-te8ao0-tfn5eh-24c4.fmtdc1.sghuawei.com
+  - name: "@github tonygyf\U0001F1FA\U0001F1F8US_10|1.7MB/s|YT-SE|NF|D+"
+    network: ws
+    password: '8r<[9''l6hAO#8ZQi'
+    port: 443
+    server: 185.102.136.201
+    skip-cert-verify: true
+    sni: Koma-YT.PAGeS.Dev
+    type: trojan
+    ws-opts:
+      headers:
+        Host: Koma-YT.PAGeS.Dev
+      path: "/trTelegram\U0001F1E8\U0001F1F3 @WangCai2"
+  - cipher: aes-128-gcm
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_6|5.8MB/s|YT-IN|GM"
+    password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: aoe.o.eoa.ccwu.cc
+      mode: websocket
+      mux: false
+      path: /?enc\=aes-128-gcm
+      tls: true
+    port: 443
+    server: 98.70.26.236
+    type: ss
+    udp: true
+  - name: "@github tonygyf\U0001F1F7\U0001F1F4RO_1|1.8MB/s|GPT⁺|YT-RO|NF|0%"
+    port: 9002
+    server: 84.239.14.159
+    skip-cert-verify: true
+    tls: true
+    type: http
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1E9\U0001F1EADE_35|1.5MB/s|GPT⁺|NF|D+|0%"
+    network: tcp
+    port: 20222
+    reality-opts:
+      public-key: USzu7jEsyeyLjhJ_w8Wm76bd6bSXy8TciAojicQKAHk
+      short-id: 48e9a51281c1
+    server: 148.253.208.98
+    tls: true
+    type: vless
+    udp: true
+    uuid: faed8940-ce1a-4613-a05b-65d833e3346b
+    servername: stats.vk-portal.net
+  - cipher: aes-128-gcm
+    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_2|3.9MB/s|GPT|YT-US|NF|D+|GM"
+    password: 931d70c1-8644-433a-9e8a-e09e10f5e7f5
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: aoe.o.eoa.ccwu.cc
+      mode: websocket
+      mux: false
+      path: /?enc\=aes-128-gcm
+      skip-cert-verify: false
+      tls: true
+    port: 443
+    server: yg2.ygkkk.dpdns.org
+    type: ss
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_11|4.6MB/s|YT-US|NF|D+|GM"
+    network: ws
+    password: '8r<[9''l6hAO#8ZQi'
+    port: 2096
+    server: 172.64.147.106
+    skip-cert-verify: true
     sni: Koma-YT.PAGeS.Dev
     type: trojan
     udp: true
@@ -127,82 +1486,194 @@ proxies:
       headers:
         User-Agent: >-
           Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/67.0.3396.99 Safari/537.36
-      path: /tro8sFW1S91B6sZrM1
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-  - cipher: none
-    delay: 188
-    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_2|1.5MB/s|GPT⁺|YT-HK|NF|D+"
-    password: 3e96ef7d-8637-42c2-ac73-75182196e755
-    plugin: v2ray-plugin
-    plugin-opts:
-      host: mfvpn.fuchen.indevs.in
-      mode: websocket
-      mux: false
-      path: 3e96ef7d-8637-42c2-ac73-75182196e755/?ed=2560
-      skip-cert-verify: true
-      tls: true
-    port: 443
-    server: 47.57.182.141
-    type: ss
-    udp: true
-  - cipher: none
-    delay: 284
-    name: "@github tonygyf\U0001F1EF\U0001F1F5JP_3|1.3MB/s|GPT⁺|YT-US|NF|D+|GM|50%"
-    password: 79960b0b-7d31-4263-8915-6511b0e137a8
-    plugin: v2ray-plugin
-    plugin-opts:
-      host: woshinidie-et3.pages.dev
-      mode: websocket
-      mux: false
-      path: /79960b0b-7d31-4263-8915-6511b0e137a8/?ed=2560
-      skip-cert-verify: true
-      tls: true
-    port: 443
-    server: 108.162.198.215
-    type: ss
-    udp: true
-  - down: ''
-    fingerprint: ''
-    name: "@github tonygyf\U0001F1FA\U0001F1F8US_2|2.2MB/s|GPT⁺|YT-US|D+|0%"
-    obfs: ''
-    obfs-password: ''
-    password: fadab0a4-861d-4ebf-89ac-c9b34aef631a
-    port: 443
-    server: 134.195.101.199
-    skip-cert-verify: true
-    sni: www.apple.com
-    type: hysteria2
-    up: ''
-  - client-fingerprint: safari
+          like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /tr
+  - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "@github tonygyf\U0001F1E9\U0001F1EADE_4|3.0MB/s|GPT⁺|YT-CN|5%"
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1F3\U0001F1F1NL_3|1.8MB/s|GPT⁺|YT-NL|NF|0%"
     network: tcp
     port: 443
     reality-opts:
-      public-key: UV34T0S_VyVcChA2Tb9MIbg4tr1mHGMr_Lw5Gvb17F8
-      short-id: 66ed2fdd
-    server: 130.162.220.137
+      public-key: '-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk'
+      short-id: c6118398
+    server: 77.239.108.36
     tls: true
     type: vless
     udp: true
-    uuid: fadab0a4-861d-4ebf-89ac-c9b34aef631a
+    uuid: 322ffd77-9adc-4e10-8302-a8bcc14555a0
     xudp: true
-    servername: www.lamer.com
-  - alterId: 2
-    cipher: auto
+    servername: gateway.icloud.com
+  - alpn:
+      - http/1.1
+      - h2
     client-fingerprint: chrome
-    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_1|1.9MB/s|GPT⁺|YT-SG|56%"
+    encryption: none
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "@github tonygyf\U0001F1EC\U0001F1E7GB_7|2.6MB/s|GPT⁺|YT-GB|NF|D+|0%"
     network: tcp
-    port: 30845
-    server: v45.hdacd.com
-    skip-cert-verify: true
-    tls: false
-    type: vmess
+    port: 443
+    server: ukos2.ksnodes.net
+    tls: true
+    type: vless
     udp: true
-    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    uuid: b6ce8a51-19b9-4979-91ba-b4298c26d5fc
+    xudp: true
+    servername: ukos2.ksnodes.net
+  - down: ''
+    fingerprint: ''
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_12|5.7MB/s|GPT⁺|YT-US|NF|GM|3%"
+    obfs: ''
+    obfs-password: ''
+    password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+    port: 443
+    server: vpn-us-003.fastervpn.world
+    skip-cert-verify: true
+    sni: vpn-us-003.fastervpn.world
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "@github tonygyf\U0001F1FA\U0001F1F8US_13|4.4MB/s|GPT⁺|YT-US|NF|GM|3%"
+    obfs: ''
+    obfs-password: ''
+    password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+    port: 443
+    server: vpn-us-004.fastervpn.world
+    skip-cert-verify: true
+    sni: vpn-us-004.fastervpn.world
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "@github tonygyf\U0001F1EB\U0001F1F7FR_1|4.5MB/s|GPT⁺|YT-FR|NF|3%"
+    obfs: ''
+    obfs-password: ''
+    password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+    port: 443
+    server: vpn-fr-002.fastervpn.world
+    skip-cert-verify: true
+    sni: vpn-fr-002.fastervpn.world
+    type: hysteria2
+    up: ''
+  - cipher: chacha20-ietf-poly1305
+    name: "@github tonygyf\U0001F1E6\U0001F1F1AL_1|1.1MB/s|GPT|YT-RU|NF|24%"
+    password: LwB3KAdWCQgWnZDak2XmKPHMMwZpAzWP
+    port: 8080
+    server: 130.49.189.40
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_7|2.0MB/s|GPT⁺|YT-US|NF|D+|GM|80%"
+    network: ws
+    port: 443
+    server: 148.135.6.150
+    tls: true
+    type: vless
+    udp: true
+    uuid: 26524cce-d514-4014-a426-365fb266a14d
+    ws-opts:
+      headers:
+        Host: mug.support.gfw.hidns.co
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.99 Safari/537.36
+      path: /danfengfp=chrome
+    xudp: true
+    servername: mug.support.gfw.hidns.co
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_8|1.9MB/s|GPT⁺|YT-KR|GM"
+    network: ws
+    port: 18853
+    server: 210.106.113.139
+    tls: true
+    type: vless
+    udp: true
+    uuid: 26524cce-d514-4014-a426-365fb266a14d
+    ws-opts:
+      headers:
+        Host: mug.support.gfw.hidns.co
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17
+          (KHTML, like Gecko) Chrome/10.0.649.0 Safari/534.17
+      path: /danfengfp=chrome
+    xudp: true
+    servername: mug.support.gfw.hidns.co
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_9|1.1MB/s|NF|D+"
+    network: ws
+    password: '1234567890'
+    port: 8443
+    server: 68.183.65.82
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.76 Safari/537.36
+      path: /?https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3=
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_10|1.3MB/s|GPT⁺|NF"
+    network: ws
+    port: 20202
+    server: 209.38.199.164
+    tls: true
+    type: vless
+    udp: true
+    uuid: 26524cce-d514-4014-a426-365fb266a14d
+    ws-opts:
+      headers:
+        Host: mug.support.gfw.hidns.co
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile
+          Safari/537.36
+      path: /danfengfp=chrome
+    xudp: true
+    servername: mug.support.gfw.hidns.co
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_11|1.6MB/s|NF|D+"
+    network: ws
+    password: '1234567890'
+    port: 2096
+    server: 134.122.84.25
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.101 Safari/537.36
+      path: /?https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3=
+  - client-fingerprint: chrome
+    name: "@github tonygyf\U0001F1F8\U0001F1ECSG_12|1.7MB/s|NF"
+    network: ws
+    password: '1234567890'
+    port: 2053
+    server: 104.248.245.101
+    skip-cert-verify: true
+    sni: kfm-bn0.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/41.0.2272.104 Safari/537.36
+      path: /?https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3=
 rule-providers:
   private:
     url: >-
